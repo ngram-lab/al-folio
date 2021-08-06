@@ -11,8 +11,6 @@
   UMass NLP
 
 
-  | blog
-
 </title>
 <meta name="description" content="A beautiful, simple, clean, and responsive Jekyll theme for academics">
 
@@ -36,7 +34,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🔥</text></svg>">
 
 <link rel="stylesheet" href="/al-folio/assets/css/main.css">
-<link rel="canonical" href="/al-folio/blog/">
+<link rel="canonical" href="/al-folio/">
 
 <!-- JQuery -->
 <!-- jQuery -->
@@ -78,10 +76,6 @@
     <nav id="navbar" class="navbar navbar-light navbar-expand-sm fixed-top">
     <div class="container">
       
-      <a class="navbar-brand title font-weight-lighter" href="/al-folio/">
-       UMass NLP
-      </a>
-      
       <!-- Navbar Toggle -->
       <button class="navbar-toggler collapsed ml-auto" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
         <span class="sr-only">Toggle navigation</span>
@@ -92,16 +86,16 @@
       <div class="collapse navbar-collapse text-right" id="navbarNav">
         <ul class="navbar-nav ml-auto flex-nowrap">
           <!-- About -->
-          <li class="nav-item ">
+          <li class="nav-item active">
             <a class="nav-link" href="/al-folio/">
               about
+              
+                <span class="sr-only">(current)</span>
               
             </a>
           </li>
           
           <!-- Other pages -->
-          
-          
           
           
           
@@ -139,8 +133,8 @@
           
           
           
-            <div class = "toggle-container">
-              <a id = "light-toggle">
+            <div class="toggle-container">
+              <a id="light-toggle">
                   <i class="fas fa-moon"></i>
                   <i class="fas fa-sun"></i>
               </a>
@@ -159,56 +153,98 @@
     <div class="container mt-5">
       <div class="post">
 
-  <div class="header-bar">
-    <h1></h1>
-    <h2>UMass NLP</h2>
-  </div>
+  <header class="post-header">
+    <h1 class="post-title">
+     UMass NLP
+    </h1>
+     <p class="desc"></p>
+  </header>
 
+  <article>
+    
+    <div class="profile float-right">
+      
+      
+    </div>
+    
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/al-folio/blog/2021/distill/">a distill-style blog post</a></h3>
-        <p class="post-meta">May 22, 2021</p>
-        <p>an example of a distill-style blog post and main elements</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/al-folio/blog/2020/github-metadata/">a post with github metadata</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>a quick run down on accessing github metadata.</p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/al-folio/blog/2020/twitter/">a post with twitter</a></h3>
-        <p class="post-meta">September 28, 2020</p>
-        <p>an example of a blog post with twitter</p>
-      </li>
-    
-  </ul>
+    <div class="clearfix">
+      <p>The natural language processing group at UMass Amherst works on a diverse set of topics including blah blah blah. Is this page even necessary? Do we want to put a group picture here?</p>
 
+    </div>
+
+    
+      <div class="news">
+  <h2>news</h2>
   
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
+    <div class="table-responsive">
+      <table class="table table-sm table-borderless">
+      
+      
+        <tr>
+          <th scope="row">Jan 15, 2016</th>
+          <td>
+            
+              A simple inline announcement with Markdown emoji! <img class="emoji" title=":sparkles:" alt=":sparkles:" src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png" height="20" width="20"> <img class="emoji" title=":smile:" alt=":smile:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png" height="20" width="20">
+
+            
+          </td>
+        </tr>
+      
+        <tr>
+          <th scope="row">Nov 7, 2015</th>
+          <td>
+            
+              <a class="news-title" href="/al-folio/news/announcement_2/">A long announcement with details</a>
+            
+          </td>
+        </tr>
+      
+        <tr>
+          <th scope="row">Oct 22, 2015</th>
+          <td>
+            
+              A simple inline announcement.
+
+            
+          </td>
+        </tr>
+      
+      </table>
+    </div>
+  
+</div>
+
     
-      
-        <li class="page-item active"><a class="page-link" href="/al-folio/blog/index.html" title="blog">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/al-folio/blog/page/2/index.html" title="blog - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/al-folio/blog/page/3/index.html" title="blog - page 3">3</a></li>
-      
+
     
-    <li class="page-item ">
-      <a class="page-link" href="/al-folio/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
+
+    
+    <div class="social">
+      <div class="contact-icons">
+        
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+      <div class="contact-note"></div>
+    </div>
+    
+  </article>
 
 </div>
 
@@ -219,7 +255,7 @@
     
 <footer class="fixed-bottom">
   <div class="container mt-0">
-    &copy; Copyright 2021 UMass NLP  .
+    © Copyright 2021 UMass NLP  .
     Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme. Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
     
