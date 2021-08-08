@@ -22,32 +22,55 @@ module MyFilters
     imgsrc = person['image'] ? 
       "#{cc['baseurl']}/assets/img/#{person['image']}" :
       "#{cc['baseurl']}/assets/img/blank.png"
+
+    # bootstrap grid "small" is 576px wide total/  576/4=144
+    # if you go narrower than "small", it appears that bootstrap switches over to single-column.
+    # within a cell, it is useful to specify *larger* than implied min col
+    # width, which is effective during the narrowscreen one-column failover
+    # condition, e.g. browser window is 400px wide.
+
     out = %{
-      <div id = "#{person['name'].gsub(" ","-")}" class="col-sm-3" style="margin:0 auto">
-        <div style="margin:0 auto">
+      <div id = "#{person['name'].gsub(" ","-")}" class="col-sm" style="margin:0 auto">
+        <div style="margin:0 auto; padding-left:0; padding-right:0; max-width:250px">
             <center>
-            <img style="max-width:150px; max-height: 150px; padding-left: 5px; padding-right:5px;" 
-              src="#{imgsrc}" alt="photo of #{person['name']}">
-            <p style="text-align:center">
     }
-    if person['website']
-      out += %{<a href= "#{person['website']}" target="_blank">#{person['name']}</a>}
-    else
-      out += person['name']
-    end
-    out += "<br>"
-    if person['website']
-      out += %{ <a href= "#{person['website']}" target="_blank"><i class="fa fa-globe"></i></a>}
-    end
-    if person['twitter'] 
-      out += %{ <a href= "http://twitter.com/#{person['twitter']}" target="_blank"><i class="fab fa-twitter"></i></a>}
-    end
-    if person['email'] 
-      out += %{ <a href="mailto:#{person['email']}" target="_blank"><i class="fa fa-envelope"></i></a>}
-    end
+
+    out += (
+      img_html = %{
+            <img style="max-width:143px; max-height: 143px; padding-left:0; padding-right:0;" 
+              src="#{imgsrc}" alt="photo of #{person['name']}">}.strip
+      if person['website']
+        img_html = %{<a href= "#{person['website']}" target="_blank">#{img_html}</a>}
+      end
+      img_html
+    )
+
+    out += %{<p>}
+      if person['website']
+        out += %{<a href= "#{person['website']}" target="_blank">#{person['name']}</a>}
+      else
+        out += person['name']
+      end
+      out += "<br>"
+      if person['website']
+        out += %{ <a href= "#{person['website']}" target="_blank"><i class="fa fa-globe"></i></a>}
+      end
+      if person['twitter'] 
+        out += %{ <a href= "http://twitter.com/#{person['twitter']}" target="_blank"><i class="fab fa-twitter"></i></a>}
+      end
+      if person['email'] 
+        out += %{ <a href="mailto:#{person['email']}" target="_blank"><i class="fa fa-envelope"></i></a>}
+      end
+
+      if person['description']
+        out += %{<br>}
+        out += %{<i>NLP interests</i>:<br> #{person['description']}}
+        # out += %{<div style="margin:0; padding:0; max-width: 300px"><i>NLP interests</i>: #{person['description']}</div>}
+        # out += %{<p style="margin:0; padding:0; max-width: 300px"><i>NLP interests</i>: #{person['description']}</p>}
+      end
+    out += %{</p>}
 
     out += %{
-            </p>
             </center>
         </div>
     </div>

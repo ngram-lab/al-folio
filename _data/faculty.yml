@@ -1,21 +1,3 @@
-- name: Andrew McCallum
-  image: andrew.jpg
-  altimage: 
-  position: Distinguished Professor
-  email: mccallum (at) cs.umass.edu
-  website: https://people.cs.umass.edu/~mccallum/
-  twitter: "andrewmccallum"
-  # scholar: 5kUDcJ0AAAAJ
-
-- name: Brendan O'Connor
-  image: brendan.jpg
-  altimage: 
-  position: Associate Professor
-  email: brenocon (at) cs.umass.edu
-  website: https://brenocon.com/
-  twitter: "brendan642"
-  # scholar: 5kUDcJ0AAAAJ
-
 - name: Laure Thompson
   image: laure.jpg
   altimage: 
@@ -23,6 +5,7 @@
   email: laurejt (at) cs.umass.edu
   website: https://people.cs.umass.edu/~laurejt/
   twitter: "thompson_laure"
+  description: Digital humanities, cultural analytics, model interpretation
   # scholar: 5kUDcJ0AAAAJ
 
 - name: Mohit Iyyer
@@ -35,3 +18,25 @@
   twitter: "Mohit Iyyer"
   # github: winstonchiong
   # orcid: "orcid.org/0000-0001-9188-1920"
+  description: Deep learning, generation, question answering, narratives
+
+- name: Brendan O'Connor
+  image: brendan2.jpg
+  altimage: 
+  position: Associate Professor
+  email: brenocon (at) cs.umass.edu
+  website: https://brenocon.com/
+  twitter: "brendan642"
+  # scholar: 5kUDcJ0AAAAJ
+  description: Computational social science, social factors in NLP
+
+- name: Andrew McCallum
+  image: andrew.jpg
+  altimage: 
+  position: Distinguished Professor
+  email: mccallum (at) cs.umass.edu
+  website: https://people.cs.umass.edu/~mccallum/
+  twitter: "andrewmccallum"
+  # scholar: 5kUDcJ0AAAAJ
+  description: Machine learning, information extraction, knowledge bases
+
