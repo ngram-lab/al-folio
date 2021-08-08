@@ -7,33 +7,44 @@ module MyFilters
   end
   
   def personfilter(person)
-    # puts "ATTRS"
-    # p @attributes
+
     # puts "CTX"
     # p @context.registers[:site].config
+
+    ## https://stackoverflow.com/questions/11410611/get-jekyll-configuration-inside-plugin
+    ## refers to dead wiki page, wtf dudes
     cc = @context.registers[:site].config
-    imgsrc = "#{cc['url']}/#{cc['baseurl']}/assets/img/#{person['image']}"
-    imgsrc = ""
+    # p cc
+
+    imgsrc = person['image'] ? 
+      "#{cc['baseurl']}/assets/img/#{person['image']}" :
+      "#{cc['baseurl']}/assets/img/blank.png"
     out = %{
       <div id = "#{person['name'].gsub(" ","-")}" class="col-sm-3" style="margin:0 auto">
         <div style="margin:0 auto">
             <center>
-            <img style="max-width:120px; padding-left: 5px; padding-right:5px;" 
+            <img style="max-width:150px; max-height: 150px; padding-left: 5px; padding-right:5px;" 
               src="#{imgsrc}" alt="photo of #{person['name']}">
             <p style="text-align:center">
+    }
+    if person['website']
+      out += %{<a href= "#{person['website']}" target="_blank">#{person['name']}</a>}
+    else
+      out += person['name']
+    end
+    out += "<br>"
+    if person['website']
+      out += %{ <a href= "#{person['website']}" target="_blank"><i class="fa fa-globe"></i></a>}
+    end
+    if person['email'] 
+      out += %{ <a href="mailto:#{person['email']}" target="_blank"><i class="fa fa-envelope"></i></a>}
+    end
+    if person['twitter'] 
+      out += %{ <a href= "http://twitter.com/#{person['twitter']}" target="_blank"><i class="fab fa-twitter"></i></a>}
+    end
 
-                {% if person.website %}
-                  <a href= "{{person.website}}" target="_blank">{{person.name}}</a>
-                {% else %}
-                  {{person.name}}
-                {% endif %}
-                <br>
-                {% if person.website %} <a href= "{{person.website}}" target="_blank"><i class="fa fa-globe"></i></a> {% endif %}
-                {% if person.email %} <a href="mailto:{{person.email}} target="_blank"><i class="fa fa-envelope"></i></a> {% endif %}
-                {% if person.twitter %} <a href= "http://twitter.com/{{person.twitter}}" target="_blank"><i class="fab fa-twitter"></i></a> {% endif %}
-                    
+    out += %{
             </p>
-            
             </center>
         </div>
     </div>
@@ -44,52 +55,3 @@ end
 
 Liquid::Template.register_filter(MyFilters)
 
-
-# class MyTag < Liquid::Tag
-# 
-#   # http://www.developwith.com/how-do-i/ruby/custom-tag-with-attributes-in-jekyll/
-#     def initialize(tag_name, markup, tokens)
-#       super
-#       @attributes = {}
-#       markup.scan(::Liquid::TagAttributes) do |key, value|
-#         @attributes[key] = value
-#       end
-#       @markup = markup
-#     end
-#   
-# 
-#   def render(context)
-#     # imgsrc = "#{site.url}/#{site.baseurl}/assets/img/#{person.image}"
-#     p @attributes
-#     person = @attributes['person']
-#     imgsrc = ""
-#     out = %{
-#       <div id = "#{person['name'].gsub(" ","-")}" class="col-sm-3" style="margin:0 auto">
-#         <div style="margin:0 auto">
-#             <center>
-#             <img style="max-width:120px; padding-left: 5px; padding-right:5px;" 
-#               src="#{imgsrc}" alt="photo of #{person['name']}">
-#             <p style="text-align:center">
-# 
-#                 {% if person.website %}
-#                   <a href= "{{person.website}}" target="_blank">{{person.name}}</a>
-#                 {% else %}
-#                   {{person.name}}
-#                 {% endif %}
-#                 <br>
-#                 {% if person.website %} <a href= "{{person.website}}" target="_blank"><i class="fa fa-globe"></i></a> {% endif %}
-#                 {% if person.email %} <a href="mailto:{{person.email}} target="_blank"><i class="fa fa-envelope"></i></a> {% endif %}
-#                 {% if person.twitter %} <a href= "http://twitter.com/{{person.twitter}}" target="_blank"><i class="fab fa-twitter"></i></a> {% endif %}
-#                     
-#             </p>
-#             
-#             </center>
-#         </div>
-#     </div>
-#     }
-#     out
-#   end
-# end
-# 
-# Liquid::Template.register_tag('persontag', MyTag)
-# 
