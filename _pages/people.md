@@ -15,19 +15,6 @@ news: true  # includes a list of news items
 
 <h1 style="padding-bottom:10px">Faculty</h1>
 
-{%
-
-NCOL = 3
-
-def group_in_rows(lst)
-  inds = (0...lst.size).to_a
-  inds_by_row = inds.group_by{|i| i / NCOL}
-  items_by_row= inds_by_row.map{ |rownum,items| items.map{|orig_ind| lst[orig_ind]} }
-  items_by_row
-end
-
-%}
-
 {% for person in site.data.faculty %}
 
 <!-- The paddingtop and margin-top edits allow anchors to link properly. -->
