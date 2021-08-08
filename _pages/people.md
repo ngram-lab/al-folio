@@ -44,7 +44,7 @@ news: true  # includes a list of news items
 <hr>
 {% endfor %}
 
-{% if site.data.postdocs %}
+{% if site.data.zout_postdocs %}
 <h1 style="padding-bottom:10px">Postdocs</h1>
   {% for person in site.data.postdocs %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px;">
@@ -78,9 +78,8 @@ news: true  # includes a list of news items
   {% endfor %}
 {% endif %}
 
-{% if site.data.students %}
   <h1 style="padding-bottom:10px">Students</h1>
-  {% for person in site.data.students %}
+  {% for person in site.data.zout_students %}
 <div id = "{{person.name | replace: ' ', '-'}}" class="row" style="padding-top: 60px; margin-top: -60px;">
     <img style="float: right; max-width: 20%; padding-left: 20px; padding-right:20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
     <div>
@@ -110,7 +109,6 @@ news: true  # includes a list of news items
 </div>
 <hr>
   {% endfor %}
-{% endif %}
 
 
 {% if site.data.alumni %}
