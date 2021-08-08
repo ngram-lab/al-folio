@@ -1,6 +1,9 @@
-## Agh jekyll sucks. why cant i just make these in the damn template file like in ERB or PHP
-# @context.registers[:site].config
-
+## BTO:
+# You have to manually restart the "jekyll serve" server after changing this file.
+# Agh jekyll sucks.
+# This is Ruby code so uses Ruby syntax for string interpolation, string substitution and all that.
+# This is usually not the same as Liquid templating language that Jekyll uses in _pages pages.
+#
 module MyFilters
   def myfilter(x)
     "hiyo"
@@ -36,11 +39,11 @@ module MyFilters
     if person['website']
       out += %{ <a href= "#{person['website']}" target="_blank"><i class="fa fa-globe"></i></a>}
     end
-    if person['email'] 
-      out += %{ <a href="mailto:#{person['email']}" target="_blank"><i class="fa fa-envelope"></i></a>}
-    end
     if person['twitter'] 
       out += %{ <a href= "http://twitter.com/#{person['twitter']}" target="_blank"><i class="fab fa-twitter"></i></a>}
+    end
+    if person['email'] 
+      out += %{ <a href="mailto:#{person['email']}" target="_blank"><i class="fa fa-envelope"></i></a>}
     end
 
     out += %{
