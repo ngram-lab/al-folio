@@ -91,7 +91,8 @@ news: true  # includes a list of news items
 
 <div id = "{{person.name | replace: ' ', '-'}}" class="col-sm-3" style="margin:0 auto">
     <div style="margin:0 auto">
-        <img style="max-width:120px; padding-left: 20px; padding-right:20px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
+        <center>
+        <img style="max-width:120px; padding-left: 5px; padding-right:5px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
         <p style="text-align:center">
 
             {% if person.website %}
@@ -118,6 +119,7 @@ news: true  # includes a list of news items
                 
         </p>
         
+        </center>
     </div>
 </div>
 <hr>
