@@ -1,6 +1,6 @@
 import yaml,json
 
-NCOL = 3
+NCOL = 2
 
 for infile in ["_data/students.yml"]:
     outfile= infile.replace("/","/zout_").replace(".yml",".json")
