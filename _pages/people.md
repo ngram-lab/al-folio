@@ -13,6 +13,8 @@ news: true  # includes a list of news items
     {% endif %}
 </article> -->
 
+{{page.groups | myfilter}}
+
 <h1 style="padding-bottom:10px">Faculty</h1>
 
 {% for person in site.data.faculty %}
@@ -78,49 +80,15 @@ news: true  # includes a list of news items
   {% endfor %}
 {% endif %}
 
-  <h1 style="padding-bottom:10px">Students</h1>
+  <h1 stylep="padding-bottom:10px">Students</h1>
 
 
-  {% for row in site.data.zout_students %}
+  {% for row in site.data.zcompiled.students %}
   <div class="row">
-
     {% for person in row %}
-    <div id = "{{person.name | replace: ' ', '-'}}" class="col-sm-3" style="margin:0 auto">
-        <div style="margin:0 auto">
-            <center>
-            <img style="max-width:120px; padding-left: 5px; padding-right:5px;" src="{{ person.image | prepend: '/assets/img/' | prepend: site.baseurl | prepend: site.url }}" alt="photo of {{person.name}}">
-            <p style="text-align:center">
-
-                {% if person.website %}
-                    <a href= "{{person.website}}" target="_blank">
-                {% endif %}
-                {{person.name}}
-                {% if person.website %}
-                    </a>
-                {% endif %}
-
-                <br>
-
-                {% if person.email %}
-                    <a href="mailto:{{person.email}}"><i class="fa fa-envelope"></i></a>
-                {% endif %}
-
-                {% if person.website %}
-                    <a href= "{{person.website}}" target="_blank"><i class="fa fa-globe"></i></a>
-                {% endif %}
-
-                {% if person.twitter %}
-                    <a href= "http://twitter.com/{{person.twitter}}" target="_blank"><i class="fab fa-twitter"></i></a>
-                {% endif %}
-                    
-            </p>
-            
-            </center>
-        </div>
-    </div>
+      {{person | personfilter}}
     {% endfor %}
-    </div>
-
+  </div>
   {% endfor %}
 
 <hr>
