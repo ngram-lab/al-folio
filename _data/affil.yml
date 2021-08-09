@@ -9,7 +9,7 @@ cics:
     website: https://people.cs.umass.edu/~laurejt/
     twitter: "thompson_laure"
     description: Digital humanities, cultural analytics, model interpretation
-    dept: Information and Computer Sciences  
+    dept: CICS
     # scholar: 5kUDcJ0AAAAJ
 
   - name: Mohit Iyyer
@@ -23,7 +23,7 @@ cics:
     # github: winstonchiong
     # orcid: "orcid.org/0000-0001-9188-1920"
     description: Deep learning, generation, question answering, narratives
-    dept: Information and Computer Sciences  
+    dept: CICS
 
   - name: Brendan O'Connor
     image: brendan2.jpg
@@ -34,7 +34,7 @@ cics:
     twitter: "brendan642"
     # scholar: 5kUDcJ0AAAAJ
     description: Computational social science, social factors in NLP
-    dept: Information and Computer Sciences
+    dept: CICS
 
   - name: Andrew McCallum
     image: andrew.jpg
@@ -45,26 +45,26 @@ cics:
     twitter: "andrewmccallum"
     # scholar: 5kUDcJ0AAAAJ
     description: Machine learning, information extraction, knowledge bases
-    dept: Information and Computer Sciences
+    dept: CICS
 
   - name: Narges Mahyar
-    dept: Information and Computer Sciences
-    description: HCI and comment analysis 
+    dept: CICS
+    description: HCI, visualization, analysis of civic data
 
   - name: Hamed Zamani
-    dept: Information and Computer Sciences
+    dept: CICS
     description: Conversational information retrieval
 
   - name: Bruce Croft
-    dept: Information and Computer Sciences
+    dept: CICS
     description: Information retrieval
 
   - name: James Allan
-    dept: Information and Computer Sciences
+    dept: CICS
     description: Information retrieval
 
   # - name: Andrew Lan (?)
-  #   dept: Information and Computer Sciences
+  #   dept: CICS
   #   description: ML and NLP in educational technology 
 
   - name: Hong Yu
