@@ -2,6 +2,7 @@
 layout: page
 permalink: /members/
 title: members
+order: 2
 description:
 nav: true
 news: true  # includes a list of news items

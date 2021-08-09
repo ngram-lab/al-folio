@@ -2,6 +2,7 @@
 layout: about
 title: about
 permalink: /
+order: 1
 description:
 
 profile:

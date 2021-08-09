@@ -3,6 +3,7 @@ layout: page
 permalink: /affiliates/
 title: affiliates
 description:
+order: 3
 nav: true
 news: true  # includes a list of news items
 
