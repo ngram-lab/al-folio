@@ -38,7 +38,7 @@ the <a href="#socsci">Social Sciences and Humanities</a>.
 
 
 <a name="cics"></a>
-<h1 style="padding-top: 20px">College of Information and Computer Sciences</h1>
+<h2 style="padding-top: 20px">Information and Computer Sciences</h2>
 <div class="row">
 {% assign sorted = site.data.affil.cics.members | sort: 'name' %}
 {% for person in sorted %}
@@ -47,7 +47,7 @@ the <a href="#socsci">Social Sciences and Humanities</a>.
 </div>
 
 <a name="ling"></a>
-<h1 style="padding-top: 20px">Linguistics</h1>
+<h2 style="padding-top: 20px">Linguistics</h2>
 <div class="row">
 {% assign sorted = site.data.affil.ling.members | sort: 'name' %}
 {% for person in sorted %}
@@ -56,7 +56,7 @@ the <a href="#socsci">Social Sciences and Humanities</a>.
 </div>
 
 <a name="socsci"></a>
-<h1 style="padding-top: 20px">Social Sciences and Humanities</h1>
+<h2 style="padding-top: 20px">Social Sciences and Humanities</h2>
 <div class="row">
 {% assign sorted = site.data.affil.socsci.members | sort: 'name' %}
 {% for person in sorted %}
