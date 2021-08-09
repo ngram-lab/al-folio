@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /people/
-title: people
+permalink: /members/
+title: members
 description:
 nav: true
 news: true  # includes a list of news items
