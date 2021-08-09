@@ -1,11 +1,9 @@
 ## BTO new for us
 
 quick:
-	python compile_yaml.py
 	bundle exec jekyll serve
 
 build:
-	python compile_yaml.py
 	bundle exec jekyll build
 
 pushtest: build

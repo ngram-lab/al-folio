@@ -13,35 +13,34 @@ news: true  # includes a list of news items
     {% endif %}
 </article> -->
 
-  <h1 style="padding-bottom:10px">Faculty</h1>
-  {% for row in site.data.zcompiled.faculty %}
-  <div class="row">
-    {% for person in row %}
-      {{person | personfilter}}
-    {% endfor %}
-  </div>
+<p>
+  We are the members of the UMass Natural Language Processing lab in CICS!  See also our broader list of <a href="../affiliates/">multidisciplinary affiliates</a>.
+</p>
+
+<h1 style="padding-bottom:10px">Faculty</h1>
+
+<div class="row">
+  {% for person in site.data.faculty %}
+    {{person | personfilter}}
   {% endfor %}
+</div>
+
 
 <hr>
 
-  <h1 style="padding-bottom:10px">Postdocs</h1>
-  {% for row in site.data.zcompiled.postdocs %}
-  <div class="row">
-    {% for person in row %}
-      {{person | personfilter}}
-    {% endfor %}
-  </div>
+<h1 style="padding-bottom:10px">Postdocs</h1>
+<div class="row">
+  {% for person in site.data.postdocs %}
+    {{person | personfilter}}
   {% endfor %}
+</div>
 
-  <hr>
+<hr>
 
-  <h1 stylep="padding-bottom:10px">Ph.D Students</h1>
-  {% for row in site.data.zcompiled.students %}
-  <div class="row">
-    {% for person in row %}
-      {{person | personfilter}}
-    {% endfor %}
-  </div>
+<h1 stylep="padding-bottom:10px">Ph.D Students</h1>
+<div class="row">
+  {% for person in site.data.students %}
+    {{person | personfilter}}
   {% endfor %}
-
-  <hr>
+</div>
+<hr>
