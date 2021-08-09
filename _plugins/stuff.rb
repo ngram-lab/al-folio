@@ -30,7 +30,7 @@ module MyFilters
     # condition, e.g. browser window is 400px wide.
 
     out = %{
-      <div id = "#{person['name'].gsub(" ","-")}" class="col-sm" style="margin:0 auto">
+      <div id = "#{person['name'].gsub(" ","-")}" class="col-sm person" style="margin:0 auto">
         <div style="margin:0 auto; padding-left:0; padding-right:0; max-width:250px">
             <center>
     }
@@ -45,7 +45,7 @@ module MyFilters
       img_html
     )
 
-    out += %{<p>}
+    out += %{<p style="padding-top: 4px">}
       if person['website']
         out += %{<a href="#{person['website']}" target="_blank">#{person['name']}</a>}
       else
