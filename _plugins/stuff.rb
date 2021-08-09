@@ -30,7 +30,7 @@ module MyFilters
     # condition, e.g. browser window is 400px wide.
 
     out = %{
-      <div id = "#{person['name'].gsub(" ","-")}" class="col-sm person" style="margin:0 auto">
+      <div id = "#{person['name'].gsub(" ","-")}" class="col-sm-3 person" style="margin:0 auto">
         <div style="margin:0 auto; padding-left:0; padding-right:0; max-width:250px">
             <center>
     }
@@ -61,6 +61,12 @@ module MyFilters
       if person['email'] 
         out += %{ <a href="mailto:#{person['email']}" target="_blank"><i class="fa fa-envelope"></i></a>}
       end
+
+      if person['dept']
+        out += %{<br>}
+        out += %{<i>Dept:</i> #{person['dept']}}
+      end
+
 
       if person['description']
         out += %{<br>}

@@ -1,0 +1,108 @@
+cics:
+  groupname: CICS
+  members:
+  - name: Laure Thompson
+    image: laure.jpg
+    altimage: 
+    position: Assistant Professor
+    email: laurejt (at) cs.umass.edu
+    website: https://people.cs.umass.edu/~laurejt/
+    twitter: "thompson_laure"
+    description: Digital humanities, cultural analytics, model interpretation
+    dept: Information and Computer Sciences  
+    # scholar: 5kUDcJ0AAAAJ
+
+  - name: Mohit Iyyer
+    image: mohit.jpg
+    altimage: 
+    position: Assistant Professor
+    email: miyyer (at) cs.umass.edu
+    website: http://people.cs.umass.edu/~miyyer/
+    # scholar: jLpCQugAAAAJ&hl
+    twitter: "Mohit Iyyer"
+    # github: winstonchiong
+    # orcid: "orcid.org/0000-0001-9188-1920"
+    description: Deep learning, generation, question answering, narratives
+    dept: Information and Computer Sciences  
+
+  - name: Brendan O'Connor
+    image: brendan2.jpg
+    altimage: 
+    position: Associate Professor
+    email: brenocon (at) cs.umass.edu
+    website: https://brenocon.com/
+    twitter: "brendan642"
+    # scholar: 5kUDcJ0AAAAJ
+    description: Computational social science, social factors in NLP
+    dept: Information and Computer Sciences
+
+  - name: Andrew McCallum
+    image: andrew.jpg
+    altimage: 
+    position: Distinguished Professor
+    email: mccallum (at) cs.umass.edu
+    website: https://people.cs.umass.edu/~mccallum/
+    twitter: "andrewmccallum"
+    # scholar: 5kUDcJ0AAAAJ
+    description: Machine learning, information extraction, knowledge bases
+    dept: Information and Computer Sciences
+
+  - name: Narges Mahyar
+    dept: Information and Computer Sciences
+    description: HCI and comment analysis 
+
+  - name: Hamed Zamani
+    dept: Information and Computer Sciences
+    description: Conversational information retrieval
+
+  - name: Bruce Croft
+    dept: Information and Computer Sciences
+    description: Information retrieval
+
+  - name: James Allan
+    dept: Information and Computer Sciences
+    description: Information retrieval
+
+  # - name: Andrew Lan (?)
+  #   dept: Information and Computer Sciences
+  #   description: ML and NLP in educational technology 
+
+  - name: Hong Yu
+    dept: UMass Lowell, adjunct affil. CICS
+    description: Biomedical NLP
+
+
+  - name: Ethan Zuckerman
+    dept: Public Policy, Communication, and Information
+
+ling:
+  groupname: Linguistics
+  members:
+  - name: Brian Dillon
+    dept: Linguistics
+  - name: Shota Momma
+    dept: Linguistics
+  - name: Kristine Yu
+    dept: Linguistics
+  - name: Joe Pater
+    dept: Linguistics
+  - name: Gaja Jarosz
+    dept: Linguistics
+  - name: Rajesh Bhatt
+    dept: Linguistics
+
+socsci:
+  groupname: "Social Sciences and Cultural Analytics (many depts.)"
+  members:
+  - name: Doug Rice
+    dept: Political Science
+  - name: Justin Gross
+    dept: Political Science
+  - name: Meredith Rolfe
+    dept: Political Science
+  - name: Wayne Xu
+    dept: Communications
+  - name: Rodrigo Zamith
+    dept: Journalism
+  - name: Stephen Harris
+    dept: English
