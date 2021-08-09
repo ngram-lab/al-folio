@@ -44,4 +44,12 @@ html[data-theme='dark'] {
   .fa-moon {
     display : none;
   }
+
+}
+
+.fa { color: lighten($purple-color, 20%); }
+.fab {  color: lighten($purple-color, 20%); }
+html[data-theme='dark'] {
+  .fa { color: darken($cyan-color, 10%); }
+  .fab {  color: darken($cyan-color, 10%); }
 }

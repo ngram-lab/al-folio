@@ -47,16 +47,16 @@ module MyFilters
 
     out += %{<p>}
       if person['website']
-        out += %{<a href= "#{person['website']}" target="_blank">#{person['name']}</a>}
+        out += %{<a href="#{person['website']}" target="_blank">#{person['name']}</a>}
       else
         out += person['name']
       end
       out += "<br>"
       if person['website']
-        out += %{ <a href= "#{person['website']}" target="_blank"><i class="fa fa-globe"></i></a>}
+        out += %{ <a href="#{person['website']}" target="_blank"><i class="fa fa-globe"></i></a>}
       end
       if person['twitter'] 
-        out += %{ <a href= "http://twitter.com/#{person['twitter']}" target="_blank"><i class="fab fa-twitter"></i></a>}
+        out += %{ <a href="http://twitter.com/#{person['twitter']}" target="_blank"><i class="fab fa-twitter"></i></a>}
       end
       if person['email'] 
         out += %{ <a href="mailto:#{person['email']}" target="_blank"><i class="fa fa-envelope"></i></a>}
