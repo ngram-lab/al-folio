@@ -7,8 +7,26 @@
   # scholar: jLpCQugAAAAJ&hl
   twitter: "dojoteef"
 
+- name: Maha Alkhairy
+  image: 
+  altimage: 
+  position: PhD student
+  email: malkhairy (at) umass.edu
+  website: 
+  # scholar: jLpCQugAAAAJ&hl
+  twitter: 
+
+- name: Rico Angell
+  image: rico.png
+  altimage: 
+  position: PhD student
+  email: rangell (at) umass.edu
+  website: https://people.cs.umass.edu/~rangell/
+  # scholar: jLpCQugAAAAJ&hl
+  twitter: 
+
 - name: Trapit Bansal
-  # image: blah.jpg
+  image: trapit.jpeg
   altimage: 
   position: PhD student
   email: tbansal (at) cs.umass.edu
@@ -17,7 +35,7 @@
   twitter: "TrapitBansal"
 
 - name: Haw-Shiuan Chang
-  # image: blah.jpg
+  image: hawshiuan.jpeg
   altimage: 
   position: PhD student
   email: hschang (at) cs.umass.edu
@@ -26,7 +44,7 @@
   twitter: "Haw_Shiuan"
 
 - name: Rajarshi Das
-  # image: blah.jpg
+  image: rajarshi.jpeg
   altimage: 
   position: PhD student
   email: rajarshi_das (at) cs.umass.edu
@@ -34,8 +52,17 @@
   # scholar: jLpCQugAAAAJ&hl
   twitter: 
 
+- name: Shib Sankar Dasgupta
+  image: shib.png
+  altimage: 
+  position: PhD student
+  email: ssdasgupta (at) cs.umass.edu
+  website: https://ssdasgupta.github.io/
+  # scholar: jLpCQugAAAAJ&hl
+  twitter: 
+
 - name: Andrew Drozdov
-  # image: brendan.jpg
+  image: drozdov.jpeg
   altimage: 
   position: PhD student
   email: adrozdov (at) cs.umass.edu
@@ -43,15 +70,31 @@
   twitter: "mrdrozdov"
 
 - name: Ankita Gupta
-  # image: brendan.jpg
+  image: ankita.jpeg
   altimage: 
   position: PhD student
   email: ankitagupta (at) cs.umass.edu
   website: https://ankitaiisc.github.io/
   twitter: "Anki98765"
 
+- name: Katherine Keith
+  image: katie.jpeg
+  altimage: 
+  position: PhD student
+  email: kkeith (at) cs.umass.edu
+  website: https://kakeith.github.io/
+  twitter: "katakeith"
+
+- name: Neha Kennard
+  image: neha.png
+  altimage: 
+  position: PhD student
+  email: kennard (at) cs.umass.edu
+  website: https://nnkennard.github.io/
+  twitter: "nnkennard"
+
 - name: Kalpesh Krishna
-  # image: brendan.jpg
+  image: kalpesh.jpeg
   altimage: 
   position: PhD student
   email: kalpesh (at) cs.umass.edu
@@ -59,7 +102,7 @@
   twitter: "kalpeshk2011"
 
 - name: Xiang Lorraine Li
-  # image: brendan.jpg
+  image: lorraine.jpeg
   altimage: 
   position: PhD student
   email: xiangl (at) cs.umass.edu
@@ -67,15 +110,39 @@
   twitter: "xiang_lorraine"
 
 - name: Nicholas Monath
-  # image: brendan.jpg
+  image: nick.png
   altimage: 
   position: PhD student
   email: nmonath (at) cs.umass.edu
   website: https://people.cs.umass.edu/~nmonath/
   twitter: "nicholasmonath"
 
+- name:  Sheshera Mysore
+  image: sheshera.jpeg
+  altimage: 
+  position: PhD student
+  email: smysore (at) cs.umass.edu
+  website: https://msheshera.github.io/
+  twitter: "MSheshera"
+
+- name:  Dhruvesh Patel
+  image: dhruvesh.jpeg
+  altimage: 
+  position: PhD student
+  email: dhruveshpate (at) umass.edu
+  website: http://dhruveshp.com/
+  twitter: "_dhruveshp"
+
+- name: Subendhu Rongali
+  image: subbu.png
+  altimage: 
+  position: PhD student
+  email: srongali (at) cs.umass.edu
+  website: https://subendhurongali.netlify.app/
+  twitter:
+
 - name: Simeng Sun
-  # image: brendan.jpg
+  image: simeng.png
   altimage: 
   position: PhD student
   email: simengsun (at) cs.umass.edu
@@ -83,7 +150,7 @@
   twitter: "simeng_ssun"
 
 - name: Dung Thai
-  # image: brendan.jpg
+  image: june.jpeg
   altimage: 
   position: PhD student
   email: dthai (at) iesl.cs.umass.edu
@@ -91,7 +158,7 @@
   twitter: "dgthai"
 
 - name: Katherine Thai
-  # image: brendan.jpg
+  image: katherine.jpeg
   altimage: 
   position: PhD student
   email: kbthai (at) cs.umass.edu
@@ -99,7 +166,7 @@
   twitter: "kthai1618"
 
 - name: Tu Vu
-  # image: brendan.jpg
+  image: tuvu.jpeg
   altimage: 
   position: PhD student
   email: tuvu (at) cs.umass.edu
@@ -107,11 +174,28 @@
   twitter: "tuvuumass"
 
 - name: Shufan Wang
-  # image: brendan.jpg
+  image: shufan.jpeg
   altimage: 
   position: PhD student
   email: shufanwang (at) cs.umass.edu
   website: https://people.cs.umass.edu/~shufanwang/
   twitter: "shufan_wang_"
+
+- name: Wenlong Zhao
+  image: wenlong.png
+  altimage: 
+  position: PhD student
+  email: wenlongzhao (at) umass.edu
+  website: 
+  twitter: 
+
+- name: Dongxu Zhang
+  image: dongxu.jpeg
+  altimage: 
+  position: PhD student
+  email: dongxuzhang (at) cs.umass.edu
+  website: https://sites.google.com/site/zhangdongxuu
+  twitter: 
+
 
 
