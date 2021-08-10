@@ -33,7 +33,7 @@ cics:
     website: https://brenocon.com/
     twitter: "brendan642"
     # scholar: 5kUDcJ0AAAAJ
-    description: Computational social science, social factors in NLP
+    description: NLP for computational social science, social factors in NLP
     dept: CICS
 
   - name: Andrew McCallum
@@ -53,7 +53,12 @@ cics:
 
   - name: Hamed Zamani
     dept: CICS
-    description: Conversational information retrieval
+    description: Information retrieval and recommendation
+    image: zamani.jpg
+    website: https://groups.cs.umass.edu/zamani/
+    email: zamani (at) cs.umass.edu
+
+    status: done
 
   - name: Bruce Croft
     dept: CICS
@@ -70,6 +75,9 @@ cics:
   - name: Hong Yu
     dept: UMass Lowell, adjunct affil. CICS
     description: Biomedical NLP
+    website: https://www.cics.umass.edu/faculty/directory/hong_yu
+    scholar: TyXe64wAAAAJ
+    status: done
 
 
   - name: Ethan Zuckerman
@@ -80,6 +88,12 @@ ling:
   members:
   - name: Brian Dillon
     dept: Linguistics
+    description: computational psycholinguistics
+    website: https://people.umass.edu/bwdillon/
+    twitter: "linguistbrian"
+    image: dillon.jpg
+    status: done
+
   - name: Shota Momma
     dept: Linguistics
   - name: Kristine Yu
@@ -98,6 +112,7 @@ socsci:
     dept: Political Science
   - name: Justin Gross
     dept: Political Science
+    status: agree
   - name: Meredith Rolfe
     dept: Political Science
   - name: Wayne Xu

@@ -18,7 +18,9 @@ TODO
  - CS 490A
  - CS 585 - discontinued.
  - CS 685
- - search engine courses? CS 446, 646
+ - search engine courses? CS 446, 646 hamed: """
+For courses, I am the instructor for 646. There are also 446 (recent instructor: David Fisher) and 546 (recent instructor: me) that are relevant. 791U is a relevant seminar too which is occasionally offered.
+"""
  - Ling - compling 1 (rajesh's)
  - Ling - compling 2 (brian's)
  - Ling - cog modeling (gaja's)
