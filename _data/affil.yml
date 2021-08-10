@@ -49,7 +49,7 @@ cics:
 
   - name: Narges Mahyar
     dept: CICS
-    description: HCI, visualization, analysis of civic data
+    description:
 
   - name: Hamed Zamani
     dept: CICS
