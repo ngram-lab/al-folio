@@ -1,18 +1,50 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Iyyer":
+  - firstname: ["Mohit"]
+    url: https://people.cs.umass.edu/~miyyer/
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"O’Connor":
+  - firstname: ["Brendan"]
+    url: https://brenocon.com
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Thompson":
+  - firstname: ["Laure"]
+    url: https://people.cs.umass.edu/~laurejt/
 
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"McCallum":
+  - firstname: ["Andrew"]
+    url: https://people.cs.umass.edu/~mccallum/
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Akoury":
+  - firstname: ["Nader"]
+    url: https://people.cs.umass.edu/~nsa
+
+"Drozdov":
+  - firstname: ["Andrew"]
+    url: https://mrdrozdov.github.io/
+
+"Krishna":
+  - firstname: ["Kalpesh"]
+    url: https://martiansideofthemoon.github.io
+
+"Sun":
+  - firstname: ["Simeng"]
+    url: https://people.cs.umass.edu/~simengsun
+
+"Thai":
+  - firstname: ["Katherine"]
+    url: http://katherinethai.github.io/
+
+  - firstname: ["Dung", "June"]
+    url: https://people.cs.umass.edu/~dthai/
+
+"Wang":
+  - firstname: ["Shufan"]
+    url: https://people.cs.umass.edu/~shufanwang/
+
+"Vu":
+  - firstname: ["Tu"]
+    url: https://people.cs.umass.edu/~tuvu/
+
+"Chang":
+  - firstname: ["Haw-Shiuan"]
+    url: https://samkendi.wixsite.com/haw-shiuan
