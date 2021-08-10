@@ -18,14 +18,15 @@ TODO
  - CS 490A
  - CS 585 - discontinued.
  - CS 685
+ - search engine courses? CS 446, 646
  - Ling - compling 1 (rajesh's)
  - Ling - compling 2 (brian's)
- - Ling - cog
- - Ling - speech
- - DACSS - doug's course
+ - Ling - cog modeling (gaja's)
+ - Ling - speech (kristine's)
+ - DACSS - doug's new course
 
 <h1>Degree Programs</h1>
-<p><b>Undergraduate:</b></p>
+<p>Undergraduate:</p>
 <ul>
 <li>CICS offers <a href="https://www.cics.umass.edu/degrees">several undergraduate programs</a>, including Computer Science and Informatics, which are great to study NLP.
 The CS major includes an NLP subplan/track [TODO updated link?].
@@ -34,15 +35,15 @@ The CS major includes an NLP subplan/track [TODO updated link?].
 <li>NLP and NLP-related coursework can of course be included in many other majors, though be aware that availability may be an issue for certain courses.</li>
 </ul>
 
-<p><b>Masters:</b> [TODO]</p>
+<p>Masters: [TODO]</p>
 <ul>
 <li>CICS MS.  DS Concentration</li>
 <li>DACSS</li>
 </ul>
 
-<p><b>PhD:</b> </p>
+<p>PhD: </p>
 <ul>
 <li><a href="https://www.cics.umass.edu/degree-program/doctoral">Computer Science PhD program</a> in CICS.</li>
-<li>UMass NLP research also has growing participation from PhD students in Linguistics and other departments.
+<li>More graduate students from Linguistics and others are doing NLP research at UMass too!
 If you are considering multiple departments for PhD studies, make sure to research how the structure, content, and outcomes of study differ between departments.</li>
 </ul>

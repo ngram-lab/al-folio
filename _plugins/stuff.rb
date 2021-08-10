@@ -70,7 +70,8 @@ module MyFilters
 
       if person['description']
         out += %{<br>}
-        out += %{<i>NLP interests</i>:<br> #{person['description']}}
+        # out += %{<i>Interests</i>:<br> #{person['description']}}
+        out += %{#{person['description']}}
         # out += %{<div style="margin:0; padding:0; max-width: 300px"><i>NLP interests</i>: #{person['description']}</div>}
         # out += %{<p style="margin:0; padding:0; max-width: 300px"><i>NLP interests</i>: #{person['description']}</p>}
       end
