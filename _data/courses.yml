@@ -1,0 +1,39 @@
+- shortname: INFO 490C/690C
+  title: Introduction to Social and Cultural Analytics
+- shortname: COMPSCI 490A
+  title: Applications of Natural Language Processing
+  url: "https://people.cs.umass.edu/~brenocon/cs490a_f20/"
+- shortname: COMPSCI 585
+  title: Introduction to Natural Language Processing.
+  note: "As of 2020 this is not offered. Please take 490A or 685 as appropriate."
+- shortname: COMPSCI 685
+  url: "https://people.cs.umass.edu/~miyyer/cs685/"
+  title: Advanced Natural Language Processing
+- shortname: COMPSCI 446
+  url: "https://ciir.cs.umass.edu/~dfisher/cs446/"
+  title: Search Engines
+- shortname: COMPSCI 546
+  url: "https://people.cs.umass.edu/~zamani/cs546/"
+  title: Applied Information Retrieval
+- shortname: COMPSCI 646
+  url: "https://people.cs.umass.edu/~rahimi/teaching/cs646-fall2020/cs646.html"
+  title: Information Retrieval
+- shortname: COMPSCI 791U
+  url: "https://people.cs.umass.edu/~rahimi/teaching/seminar-spring2020/seminar.htm"
+  title: Advanced Topics in Information Retrieval
+- shortname: LING 509
+  url: "https://sites.google.com/site/umasslx409/"
+  title: Introduction to Computational Linguistics
+- shortname: LING 492
+  title: "Computational Linguistics: Use and Meaning"
+  note: "This is intended to be taken after Ling 509."
+- shortname: LING 592B
+  title: Speech Processing
+- shortname: LING 692C
+  url: "https://blogs.umass.edu/linguist692c-jarosz/"
+  title: "Cognitive Modeling (aka Computational Psycholinguistics)"
+- shortname: LING 797C
+  url: "https://blogs.umass.edu/linguist797c-jarosz/"
+  title: Computational Phonology
+- shortname: DACSS
+  title: Text as Data [TODO need number/title from doug]
