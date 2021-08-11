@@ -78,12 +78,8 @@ cics:
     website: https://bio-nlp.org/
     scholar: TyXe64wAAAAJ
     image: hongyu.jpg
-    email: Hong_Yu (at) uml.edu
+    email: "Hong_Yu (at) uml.edu"
     status: done
-
-
-  - name: Ethan Zuckerman
-    dept: Public Policy, Communication, and Information
 
 ling:
   groupname: Linguistics
@@ -123,3 +119,12 @@ socsci:
     dept: Journalism
   - name: Stephen Harris
     dept: English
+
+  - name: Ethan Zuckerman
+    dept: Public Policy, Comm., and Info.
+    twitter: "EthanZ"
+    image: ethanz.jpg
+    website: https://ethanzuckerman.com/
+    email: 
+    description: Media attention, digital governance
+
