@@ -1,5 +1,4 @@
 cics:
-  groupname: CICS
   members:
   - name: Laure Thompson
     image: laure.jpg
@@ -73,7 +72,7 @@ cics:
   #   description: ML and NLP in educational technology 
 
   - name: Hong Yu
-    dept: UMass Lowell, adjunct affil. CICS
+    dept: UMass Lowell; adjunct affiliate in CICS
     description: Biomedical NLP
     website: https://bio-nlp.org/
     scholar: TyXe64wAAAAJ
@@ -82,7 +81,6 @@ cics:
     status: done
 
 ling:
-  groupname: Linguistics
   members:
   - name: Brian Dillon
     dept: Linguistics
@@ -104,7 +102,6 @@ ling:
     dept: Linguistics
 
 socsci:
-  groupname: "Social Sciences and Cultural Analytics (many depts.)"
   members:
   - name: Doug Rice
     dept: Political Science
@@ -121,7 +118,7 @@ socsci:
     dept: English
 
   - name: Ethan Zuckerman
-    dept: Public Policy, Comm., and Info.
+    dept: Public Policy, Comm., and Information
     twitter: "EthanZ"
     image: ethanz.jpg
     website: https://ethanzuckerman.com/
