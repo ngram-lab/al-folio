@@ -64,7 +64,8 @@ module MyFilters
 
       if person['dept']
         out += %{<br>}
-        out += %{<i>Dept.:</i> #{person['dept']}}
+        # out += %{<i>Dept.:</i> #{person['dept']}}
+        out += %{<i>#{person['dept']}</i>}
       end
 
 
