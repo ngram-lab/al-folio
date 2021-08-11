@@ -4,7 +4,7 @@
   title: Applications of Natural Language Processing
   url: "https://people.cs.umass.edu/~brenocon/cs490a_f20/"
 - shortname: COMPSCI 585
-  title: Introduction to Natural Language Processing.
+  title: Introduction to Natural Language Processing
   note: "As of 2020 this is not offered. Please take 490A or 685 as appropriate."
 - shortname: COMPSCI 685
   url: "https://people.cs.umass.edu/~miyyer/cs685/"
@@ -35,5 +35,5 @@
 - shortname: LING 797C
   url: "https://blogs.umass.edu/linguist797c-jarosz/"
   title: Computational Phonology
-- shortname: DACSS
-  title: Text as Data [TODO need number/title from doug]
+- shortname: DACSS 697D
+  title: "Special Topics - Text as Data"

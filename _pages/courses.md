@@ -8,9 +8,8 @@ nav: true
 ---
 
 <p>
-Here is a list (possibly incomplete) of courses and programs to study
-natural language processing at UMass.
-Courses on many essential and related topics, such as machine learning, are omitted.
+Here is a list of courses and programs to study
+natural language processing, computational linguistics, and textual cultural analytics at UMass.
 </p>
 
 <h1>Courses</h1>
@@ -55,6 +54,6 @@ Courses on many essential and related topics, such as machine learning, are omit
 <p>PhD: </p>
 <ul>
 <li><a href="https://www.cics.umass.edu/degree-program/doctoral">Computer Science PhD</a> program in CICS.</li>
-<li><a href="https://www.umass.edu/linguistics/graduate-program-linguistics">Linguistics PhD program</a> (e.g., as part of the <a href="https://blogs.umass.edu/linguist/computational-linguistics/">computational linguistics research group</a>).</li>
+<li><a href="https://www.umass.edu/linguistics/graduate-program-linguistics">Linguistics PhD program</a> (see the <a href="https://blogs.umass.edu/linguist/computational-linguistics/">computational linguistics research group</a>).</li>
 <li>If you are considering multiple departments for PhD studies, make sure to research how the structure, content, and outcomes of study differ between departments.</li>
 </ul>
