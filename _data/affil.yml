@@ -54,6 +54,7 @@ cics:
     dept: CICS
     description: Information retrieval and recommendation
     image: zamani.jpg
+    twitter: hamedzamani
     website: https://groups.cs.umass.edu/zamani/
     email: zamani (at) cs.umass.edu
 
@@ -85,6 +86,7 @@ ling:
     description: Computational psycholinguistics
     website: https://people.umass.edu/bwdillon/
     twitter: "linguistbrian"
+    email: brian (at) linguist.umass.edu
     image: dillon.jpg
     status: done
 
@@ -106,7 +108,11 @@ socsci:
 
   - name: Justin Gross
     dept: Political Science
-    status: agree
+    image: jhgross.jpeg
+    website: http://justinhgross.com/
+    email: jhgross (at) umass.edu
+    twitter: justinhgross
+    description: NLP and content analysis of political ideologies and media
 
   - name: Meredith Rolfe
     dept: Political Science

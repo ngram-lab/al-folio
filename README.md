@@ -10,6 +10,3 @@ I used homebrew ruby on mac (`brew install ruby`) which it in a dir off path so 
 
 Note that `_plugins/stuff.rb` has the code that makes a person's photo/info grid cell.
 
-You need to restart the server after either
- - editing/recompiling .yml files 
- - editing stuff.rb plugin file
