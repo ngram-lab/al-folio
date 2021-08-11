@@ -31,7 +31,7 @@ module MyFilters
 
     out = %{
       <div id = "#{person['name'].gsub(" ","-")}" class="col-sm-3 person" style="margin:0 auto">
-        <div style="margin:0 auto; padding-left:0; padding-right:0; max-width:250px">
+        <div style="margin:0 auto; padding-top:6px; padding-left:0; padding-right:0; max-width:250px">
             <center>
     }
 
@@ -64,7 +64,8 @@ module MyFilters
 
       if person['dept']
         out += %{<br>}
-        out += %{<i>Dept.:</i> #{person['dept']}}
+        # out += %{<i>Dept.:</i> #{person['dept']}}
+        out += %{<i>#{person['dept']}</i>}
       end
 
 
