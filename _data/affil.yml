@@ -57,8 +57,6 @@ cics:
     website: https://groups.cs.umass.edu/zamani/
     email: zamani (at) cs.umass.edu
 
-    status: done
-
   - name: Bruce Croft
     dept: CICS
     description: Information retrieval
@@ -84,7 +82,7 @@ ling:
   members:
   - name: Brian Dillon
     dept: Linguistics
-    description: computational psycholinguistics
+    description: Computational psycholinguistics
     website: https://people.umass.edu/bwdillon/
     twitter: "linguistbrian"
     image: dillon.jpg
@@ -105,17 +103,24 @@ socsci:
   members:
   - name: Doug Rice
     dept: Political Science
+
   - name: Justin Gross
     dept: Political Science
     status: agree
+
   - name: Meredith Rolfe
     dept: Political Science
   - name: Wayne Xu
     dept: Communications
   - name: Rodrigo Zamith
     dept: Journalism
+
   - name: Stephen Harris
     dept: English
+    image: harrisstephen2019.jpg
+    website: https://people.umass.edu/~sharris/
+    email: sharris (at) english.umass.edu
+    description: Historical linguistics and non-literal language
 
   - name: Ethan Zuckerman
     dept: Public Policy, Comm., and Information
