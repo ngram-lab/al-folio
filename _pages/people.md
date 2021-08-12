@@ -48,7 +48,7 @@ news: true  # includes a list of news items
 
 <h2>Alumni</h2>
 
-<p>A few recent UMass NLP alumni. (Incomplete list - still under construction. See also <a href="http://www.iesl.cs.umass.edu/people">IESL alumni list</a>.)</p>
+<p>Some recent and past UMass NLP alumni. (Incomplete list - still under construction. See also <a href="http://www.iesl.cs.umass.edu/people">IESL alumni list</a>.)</p>
 
 <ul>
   {% assign sorted = site.data.alumni | sort: "year" | reverse %}
@@ -62,6 +62,9 @@ news: true  # includes a list of news items
       ({{person.degree}})
       {% if person.firstjob %}
         → {{person.firstjob}}
+      {% endif %}
+      {% if person.currentjob %}
+        → <i>currently</i> {{person.currentjob}}
       {% endif %}
     </li>
   {% endfor %}

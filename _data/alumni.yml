@@ -21,6 +21,42 @@
   website: https://www.abehandler.com/
   degree: PhD, expected 2021
   year: 2021
-  firstjob: Instructor, University of Colorado Boulder
+  firstjob: Instructor, University of Colorado, Boulder
 
+- name: Claire Cardie
+  website: https://www.cs.cornell.edu/home/cardie/
+  year: 1994
+  degree: PhD, 1994, advisor Wendy Lehnert
+  currentjob: Professor, Cornell University
 
+- name: Ellen Riloff
+  website: http://www.cs.utah.edu/~riloff/
+  year: 1994
+  degree: PhD, 1994, advisor Wendy Lehnert
+  currentjob: Professor, University of Utah
+
+- name: David Mimno
+  website: https://mimno.infosci.cornell.edu/
+  year: 2012
+  degree: PhD, 2012
+  firstjob: CRA Computing Innovation Fellow, Princeton University
+  currentjob: Associate Professor, Cornell University
+
+- name: Hanna Wallach
+  website: http://dirichlet.net/
+  currentjob: Senior Principal Researcher, Microsoft Research and Adjunct Associate Professor, UMass Amherst
+  year: 2010
+  degree: Postdoc, 2007-2010
+
+- name: Sameer Singh
+  website: https://sameersingh.org/
+  year: 2014
+  degree: PhD, 2014
+  firstjob: Postdoctoral Researcher, University of Washington
+  currentjob: Assistant Professor, University of California, Irvine
+
+- name: Sebastian Riedel
+  year: 2011
+  degree: Postdoc, 2009-2011
+  website: https://www.riedelcastro.org/
+  currentjob: Researcher, Facebook AI Research and Professor, University College London
