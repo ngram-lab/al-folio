@@ -150,6 +150,7 @@ scholar:
 
   style: apa
   locale: en
+  sort_by: abbr
 
   source: /_bibliography/
   bibliography: papers.bib
