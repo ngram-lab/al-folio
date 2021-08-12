@@ -8,6 +8,12 @@ BTO: this works for me
 I used homebrew ruby on mac (`brew install ruby`) which it in a dir off path so for me it was
 `/opt/homebrew/opt/ruby/bin/bundle`, `/opt/homebrew/opt/ruby/bin/ruby` etc.
 
+And then
+
+3. `git commit -am bla`
+4. `git push` ... so other website editors can access your changes
+5. `make push` does the rsync to nlp.cs.umass.edu!
+
 Note that `_plugins/stuff.rb` has the code that makes a person's photo/info grid cell.
 
 Image resizing. This works well
