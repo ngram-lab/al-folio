@@ -88,19 +88,31 @@ ling:
     twitter: "linguistbrian"
     email: brian (at) linguist.umass.edu
     image: dillon.jpg
-    status: done
 
   - name: Shota Momma
     dept: Linguistics
+    website: https://shotam.github.io/
+    image: shota.jpg
+
   - name: Kristine Yu
     website: https://www.krisyu.org/
     dept: Linguistics
+    image: kyu.jpg
+
   - name: Joe Pater
     dept: Linguistics
+    website: https://blogs.umass.edu/pater/
+    image: pater.jpg
+
   - name: Gaja Jarosz
     dept: Linguistics
+    website: https://blogs.umass.edu/jarosz/
+    image: gaja.jpg
+
   - name: Rajesh Bhatt
     dept: Linguistics
+    website: https://people.umass.edu/bhatt/
+    image: rajesh.jpg
 
 socsci:
   members:
@@ -119,12 +131,17 @@ socsci:
     twitter: justinhgross
     description: NLP and content analysis of political ideologies and media
 
-  - name: Meredith Rolfe
-    dept: Political Science
   - name: Weiai Wayne Xu
     dept: Communications
-  - name: Rodrigo Zamith
-    dept: Journalism
+    website: https://curiositybits.cc/
+    image: waynexu.jpg
+    email: weiaixu (at) umass.edu
+    twitter: WeiaiWayne
+
+  # - name: Meredith Rolfe
+  #   dept: Political Science
+  # - name: Rodrigo Zamith
+  #   dept: Journalism
 
   - name: Stephen Harris
     dept: English
