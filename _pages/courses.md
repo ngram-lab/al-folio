@@ -9,7 +9,7 @@ nav: true
 
 <p>
 Here is a list of courses and programs to study
-natural language processing, computational linguistics, and textual cultural analytics at UMass.
+natural language processing and computational linguistics at UMass.
 </p>
 
 <h1>Courses</h1>

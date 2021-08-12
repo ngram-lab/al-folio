@@ -11,12 +11,10 @@ module MyFilters
   
   def personfilter(person)
 
-    # puts "CTX"
-    # p @context.registers[:site].config
-
     ## https://stackoverflow.com/questions/11410611/get-jekyll-configuration-inside-plugin
     ## refers to dead wiki page, wtf dudes
     cc = @context.registers[:site].config
+    # puts "CTX"
     # p cc
 
     imgsrc = person['image'] ? 

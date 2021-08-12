@@ -1,5 +1,6 @@
-- shortname: INFO 490C/690C
+- shortname: INFO 490CA/690CA
   title: Introduction to Social and Cultural Analytics
+  url: ../assets/pdf/info490ca-2021.pdf
 - shortname: COMPSCI 490A
   title: Applications of Natural Language Processing
   url: "https://people.cs.umass.edu/~brenocon/cs490a_f20/"
@@ -35,5 +36,11 @@
 - shortname: LING 797C
   url: "https://blogs.umass.edu/linguist797c-jarosz/"
   title: Computational Phonology
-- shortname: DACSS 697D
+- shortname: POLISCI 797TA
   title: "Special Topics - Text as Data"
+  url: ../assets/pdf/polisci797ta-2021.pdf
+- shortname: COMM 497DB
+  title: "Survey/Digital Behavioral Data"
+  url: https://curiositybits.cc/tutorial/
+# - title: [TODO wayne's course]
+# - title: [TODO justin's ideology seminar]

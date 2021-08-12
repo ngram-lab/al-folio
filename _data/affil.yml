@@ -93,6 +93,7 @@ ling:
   - name: Shota Momma
     dept: Linguistics
   - name: Kristine Yu
+    website: https://www.krisyu.org/
     dept: Linguistics
   - name: Joe Pater
     dept: Linguistics
@@ -105,6 +106,10 @@ socsci:
   members:
   - name: Doug Rice
     dept: Political Science
+    image: rice.jpg
+    description: Computational legal studies
+    email: drrice (at) umass.edu
+    website: http://douglas-rice.net/
 
   - name: Justin Gross
     dept: Political Science
