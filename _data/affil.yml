@@ -93,26 +93,35 @@ ling:
     dept: Linguistics
     website: https://shotam.github.io/
     image: shota.jpg
+    email: snegishi (at) umass.edu
+    twitter: "shota_momma"
 
   - name: Kristine Yu
     website: https://www.krisyu.org/
     dept: Linguistics
     image: kyu.jpg
+    email: krisyu (at) linguist.umass.edu
+    twitter: "linguist_krisyu"
 
   - name: Joe Pater
     dept: Linguistics
     website: https://blogs.umass.edu/pater/
     image: pater.jpg
+    twitter: "Joe_Pater"
+    email: pater (at) linguist.umass.edu
 
   - name: Gaja Jarosz
     dept: Linguistics
     website: https://blogs.umass.edu/jarosz/
     image: gaja.jpg
+    email: jarosz (at) linguist.umass.edu
+    twitter: "gajajarosz"
 
   - name: Rajesh Bhatt
     dept: Linguistics
     website: https://people.umass.edu/bhatt/
     image: rajesh.jpg
+    email: bhatt (at) linguist.umass.edu
 
 socsci:
   members:
