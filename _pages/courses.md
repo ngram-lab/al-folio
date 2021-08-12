@@ -8,8 +8,11 @@ nav: true
 ---
 
 <p>
-Here is a list of courses and programs to study
-natural language processing and computational linguistics at UMass.
+Here is a list of courses and programs at UMass to study
+the overlapping areas of
+natural language processing, computational linguistics,
+and cultural analytics,
+taught by NLP <a href="../affiliates/">affiliated faculty</a>.
 </p>
 
 <h1>Courses</h1>
