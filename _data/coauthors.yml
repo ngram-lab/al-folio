@@ -42,6 +42,99 @@
   - firstname: ["Brendan"]
     url: https://brenocon.com
 
+"Keith":
+  - firstname: ["Katherine"]
+    url: https://kakeith.github.io/
+
+"Blodgett":
+  - firstname: ["Su Lin"]
+    url: https://sblodgett.github.io/
+
+"Strubell":
+  - firstname: ["Emma"]
+    url: https://strubell.github.io/
+
+"Verga":
+  - firstname: ["Patrick"]
+    url: "https://scholar.google.com/citations?user=T_vJm5oAAAAJ&hl=en"
+
+"Handler":
+  - firstname: ["Abram"]
+    url: https://www.abehandler.com/
+
+"Green":
+  - firstname: ["Lisa"]
+    url: https://www.umass.edu/linguistics/member/lisa-green
+
+"Jensen":
+  - firstname: ["David"]
+    url: https://groups.cs.umass.edu/jensen/
+
+Sheldon:
+  - firstname: ["Daniel"]
+    url: https://people.cs.umass.edu/~sheldon/
+
+Wei:
+  - firstname: ["Johnny", "Johnny Tian-Zheng"]
+    url: https://johntzwei.github.io/
+
+Ritter:
+  - firstname: ["Alan"]
+    url: http://aritter.github.io/
+Wallach:
+  - firstname: ["Hanna"]
+    url: http://dirichlet.net/
+Denny:
+  - url: http://www.mjdenny.com/
+    firstname: ["Matt","Matthew J."]
+Ai:
+  - firstname: Qingyao
+    url: https://ir.aiqingyao.org/
+Belanger:
+  - firstname: David
+    url: https://davidbelanger.github.io/
+Foley:
+  - url: https://jjfoley.me/
+    firstname: ["John"]
+Allan:
+  - url: https://ciir.cs.umass.edu/~allan/
+    firstname: ["James"]
+Croft:
+  - url: https://ciir.cs.umass.edu/croft
+    firstname: ["Bruce", "W. Bruce"]
+Halterman:
+  - url: https://andrewhalterman.com/
+    firstname: ["Andrew"]
+Sarwar:
+  - url: "https://people.cs.umass.edu/~smsarwar/"
+    firstname: ["Sheikh Muhammad","Sheikh"]
+Neal:
+  - url: https://people.umass.edu/anneal/
+    firstname: Anissa
+Cohen:
+  - url: https://dscohen.github.io/
+    firstname: ["Daniel"]
+Naseri:
+  - url: https://people.cs.umass.edu/~shnaseri/
+    firstname: ["Shahrzad"]
+Dillon:
+  - url: https://people.umass.edu/bwdillon/
+    firstname: Brian
+Jarosz:
+  - url: https://blogs.umass.edu/jarosz/
+    firstname: Gaja
+Pater:
+  - firstname: Joe
+    url: https://blogs.umass.edu/pater/
+Nelson:
+  - firstname: "Max"
+    url: https://blogs.umass.edu/manelson/
+"II":
+  - url: http://agrissom.sites.haverford.edu/
+    firstname: "Alvin Grissom"
+Nguyen:
+  - url: https://machineslearner.com/
+    firstname: Khanh
 "Thompson":
   - firstname: ["Laure"]
     url: https://people.cs.umass.edu/~laurejt/

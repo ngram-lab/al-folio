@@ -9,7 +9,7 @@ nav: true
 
 <div class="publications">
 
-<p>This page lists most of our publications since 2015. (It includes a few non-paper citations, like invited talks or edited volumes.) You can also access papers from the personal websites of lab members.
+<p>This page lists most of our publications and preprints since 2015. (It includes a few non-paper citations, like invited talks or edited volumes.) Papers are also available from the personal websites of lab members.
 </p>
 
 {% for y in page.years %}

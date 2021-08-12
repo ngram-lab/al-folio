@@ -69,25 +69,37 @@
 
       <div class="periodical">
       {% if entry.type == "article" %}
-        <em>{{entry.journal}}</em>
+        <em>{{entry.journal}}</em>, {{entry.year}}
       {% elsif entry.type == "inproceedings" %}
-        <em>In {{entry.booktitle}}</em>
-      {% endif %}
-      {% if entry.year %}
+        In <em>{{entry.booktitle}}</em>, {{entry.year}}
+      {% elsif entry.info %}
+        {{entry.info}}, {{entry.year}}
+      {% else %}
         {{entry.year}}
       {% endif %}
       </div>
     {% endif %}
 
     <div class="links">
+
+    {% comment %}
     {% if entry.abstract %}
       <a class="abstract btn btn-sm z-depth-0" role="button">Abs</a>
     {% endif %}
-    {% if entry.arxiv %}
-      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
+    {% endcomment %}
+
+    {% if entry.paper %}
+      {% if entry.paper contains '://' %}
+      <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
+      {% else %}
+      <a href="{{ entry.paper | prepend: '/assets/paper/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
+      {% endif %}
     {% endif %}
     {% if entry.bibtex_show %}
         <a class="bibtex btn btn-sm z-depth-0" role="button">Bib</a>
+    {% endif %}
+    {% if entry.arxiv %}
+      <a href="http://arxiv.org/abs/{{ entry.arxiv }}" class="btn btn-sm z-depth-0" role="button" target="_blank">arXiv</a>
     {% endif %}
     {% if entry.html %}
       <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
@@ -97,13 +109,6 @@
       <a href="{{ entry.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
       {% else %}
       <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
-      {% endif %}
-    {% endif %}
-    {% if entry.paper %}
-      {% if entry.paper contains '://' %}
-      <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
-      {% else %}
-      <a href="{{ entry.paper | prepend: '/assets/paper/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Paper</a>
       {% endif %}
     {% endif %}
     {% if entry.supp %}
