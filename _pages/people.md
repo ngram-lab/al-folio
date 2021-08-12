@@ -45,3 +45,26 @@ news: true  # includes a list of news items
   {% endfor %}
 </div>
 <hr>
+
+<h2>Alumni</h2>
+
+<p>A few recent UMass NLP alumni. (Incomplete list - still under construction. See also <a href="http://www.iesl.cs.umass.edu/people">IESL alumni list</a>.)</p>
+
+<ul>
+  {% assign sorted = site.data.alumni | sort: "year" | reverse %}
+  {% for person in sorted %}
+    <li>
+      {% if person.website %}
+        <a href="{{person.website}}" target="_blank">{{person.name}}</a>
+      {% else %}
+        {{person.name}}
+      {% endif %}
+      ({{person.degree}})
+      {% if person.firstjob %}
+        → {{person.firstjob}}
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+  
