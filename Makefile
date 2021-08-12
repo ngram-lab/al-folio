@@ -12,4 +12,5 @@ pushtest: build
 push: build
 	@echo "TODO this will deploy to the correct umass server once that is set up."
 	exit -1
+	rsync -avz --progress --exclude '*~' --exclude '.DS_Store' --chmod=Da+rwx,a+rw _site/ TODO_TARGET_PATH
 
