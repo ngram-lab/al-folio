@@ -10,3 +10,7 @@ I used homebrew ruby on mac (`brew install ruby`) which it in a dir off path so 
 
 Note that `_plugins/stuff.rb` has the code that makes a person's photo/info grid cell.
 
+Image resizing. This works well
+``` 
+% convert -resize 400x mohit-orig.jpg mohit.jpg                            
+```

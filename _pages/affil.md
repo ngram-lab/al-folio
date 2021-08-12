@@ -34,7 +34,9 @@ we show faculty in three roughly disciplinary groups:
 the <a href="#socsci">Social Sciences and Humanities</a>.
 </p>
 
+{% comment %}
 <div style="color:red">[NOTE - this is TENTATIVE placeholder content to see how it looks. LISTED FACULTY ARE ONLY EXAMPLES AND HAVE NOT NECESSARILY AGREED TO BE ON THIS LIST. We will not publish this page or anyone on list without agreement from them. Therefore if you are reading this do not post link to the web etc. to prevent confusion.]</div>
+{% endcomment %}
 
 
 <a name="cics"></a>

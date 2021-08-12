@@ -10,7 +10,6 @@ pushtest: build
 	rsync -avz _site/ anyall.org:www/al-folio
 
 push: build
-	@echo "TODO this will deploy to the correct umass server once that is set up."
-	exit -1
-	rsync -avz --progress --exclude '*~' --exclude '.DS_Store' --chmod=Da+rwx,a+rw _site/ TODO_TARGET_PATH
+	rsync -avz --exclude '*~' --exclude '.DS_Store' --exclude '*-nosync' --chmod=Dg+rws,g+rw _site/ nlp.cs.umass.edu:/var/www/nlp/_site/
+	# ssh nlp.cs.umass.edu chgrp -R nlpwww /var/www/nlp/_site
 
