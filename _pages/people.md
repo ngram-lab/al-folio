@@ -66,6 +66,9 @@ news: true  # includes a list of news items
       {% if person.currentjob %}
         → <i>currently</i> {{person.currentjob}}
       {% endif %}
+      {% if person.nextjob %}
+        → {{person.nextjob}}
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
