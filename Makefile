@@ -7,7 +7,7 @@ build:
 	bundle exec jekyll build
 
 check:
-	(git diff --stat .; git status -s .) > tmp.changes
+	(git -c color.status=always diff --stat .; git -c color.status=always status -s .) > tmp.changes
 	@[ -s tmp.changes ] && (echo "\n>>> WARNING: unchecked in changes! >>>"; cat tmp.changes; echo "<<< WARNING collaborators won't get these changes") || echo "Good, no changes."
 
 pushtest: build
