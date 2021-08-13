@@ -8,7 +8,7 @@ cics:
     website: https://people.cs.umass.edu/~laurejt/
     twitter: "thompson_laure"
     description: Digital humanities, cultural analytics, model interpretation
-    dept: CICS
+    # dept: CICS
     # scholar: 5kUDcJ0AAAAJ
 
   - name: Mohit Iyyer
@@ -22,7 +22,7 @@ cics:
     # github: winstonchiong
     # orcid: "orcid.org/0000-0001-9188-1920"
     description: Deep learning, generation, question answering, narratives
-    dept: CICS
+    # dept: CICS
 
   - name: Brendan O'Connor
     image: brendan2.jpg
@@ -33,7 +33,7 @@ cics:
     twitter: "brendan642"
     # scholar: 5kUDcJ0AAAAJ
     description: NLP for computational social science, social factors in NLP
-    dept: CICS
+    # dept: CICS
 
   - name: Andrew McCallum
     image: andrew.jpg
@@ -44,14 +44,14 @@ cics:
     twitter: "andrewmccallum"
     # scholar: 5kUDcJ0AAAAJ
     description: Machine learning, information extraction, knowledge bases
-    dept: CICS
+    # dept: CICS
 
   - name: Narges Mahyar
-    dept: CICS
+    # dept: CICS
     description:
 
   - name: Hamed Zamani
-    dept: CICS
+    # dept: CICS
     description: Information retrieval and recommendation
     image: zamani.jpg
     twitter: hamedzamani
@@ -59,11 +59,11 @@ cics:
     email: zamani (at) cs.umass.edu
 
   - name: Bruce Croft
-    dept: CICS
+    # dept: CICS
     description: Information retrieval
 
   - name: James Allan
-    dept: CICS
+    # dept: CICS
     description: Information retrieval
 
   # - name: Andrew Lan (?)
@@ -82,7 +82,7 @@ cics:
 ling:
   members:
   - name: Brian Dillon
-    dept: Linguistics
+    # dept: Linguistics
     description: Computational psycholinguistics
     website: https://people.umass.edu/bwdillon/
     twitter: "linguistbrian"
@@ -98,10 +98,11 @@ ling:
 
   - name: Kristine Yu
     website: https://www.krisyu.org/
-    dept: Linguistics
+    # dept: Linguistics
     image: kyu.jpg
     email: krisyu (at) linguist.umass.edu
     twitter: "linguist_krisyu"
+    description: Computational prosody, phonetics, phonology
 
   - name: Joe Pater
     dept: Linguistics
