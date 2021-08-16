@@ -23,10 +23,15 @@ Natural language processing is part of a broader multidisciplinary study of <b>c
   <li>Using NLP to make practical tools for users (e.g. in information retrieval, human-computer interaction, etc.).</li>
 </ul>
 
+{% comment %}
 <p>These topics closely interact: for example, since language is specific to humans, methods that work with it (as studied in NLP) are deeply affected by fundamental characteristics of language (as studied in linguistics). Models developed in NLP are often useful to yield deeper insights about language (as studied in computational linguistics). 
 Humans' internal language facility is designed for communication, and thus are closely aligned with social factors in language use (as studied in sociolinguistics). And user applications — whether for health scientists, social scientists, or in other domains -- motivate important NLP problems and methods.
+{% endcomment %}
 
-<p>This is a list of some NLP-adjacent faculty across the UMass Amherst campus from many different departments, who use or interact with NLP methods in their studies along these lines, and often collaborate and teach related courses as well.
+<p>We list below many faculty at UMass Amherst who teach, research, and collaborate across these related areas.
+{% comment %}
+This is a list of some NLP-adjacent faculty across the UMass Amherst campus from many different departments, who use or interact with NLP methods in their studies along these lines, and often collaborate and teach related courses as well.
+{% endcomment %}
 While dividing a multidisciplinary space is always imperfect, for convenience
 we show faculty in three roughly disciplinary groups:
 <a href="#cics">CICS</a>,

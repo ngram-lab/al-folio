@@ -78,9 +78,10 @@ cics:
     # image: allan.jpg
     image: allan4.jpg
 
-  # - name: Andrew Lan (?)
-  #   dept: CICS
-  #   description: ML and NLP in educational technology 
+  # - name: Razieh Negin Rahimi
+  #   website: https://people.cs.umass.edu/~rahimi/
+  #   email: rahimi (at) cs.umass.edu
+  #   twitter: "Negin_Rahimi"
 
   - name: Hong Yu
     dept: UMass Lowell; adjunct affiliate in CICS
@@ -90,6 +91,7 @@ cics:
     image: hongyu.jpg
     email: "Hong_Yu (at) uml.edu"
     status: done
+
 
 ling:
   members:
