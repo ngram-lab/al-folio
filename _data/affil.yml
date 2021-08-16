@@ -48,7 +48,11 @@ cics:
 
   - name: Narges Mahyar
     # dept: CICS
-    description:
+    website: https://groups.cs.umass.edu/nmahyar/
+    image: narges_profile2_2015-5.jpg
+    twitter: nargesmahyar
+    email: nmahyar (at) cs.umass.edu
+    description: Human-computer interaction and civic technology
 
   - name: Hamed Zamani
     # dept: CICS
@@ -58,13 +62,21 @@ cics:
     website: https://groups.cs.umass.edu/zamani/
     email: zamani (at) cs.umass.edu
 
-  - name: Bruce Croft
-    # dept: CICS
+  - name: W. Bruce Croft
+    dept: Emeritus
     description: Information retrieval
+    website: https://ciir.cs.umass.edu/croft
+    email: croft (at) cs.umass.edu
+    image: croft.jpg
 
   - name: James Allan
     # dept: CICS
     description: Information retrieval
+    website: https://ciir.cs.umass.edu/~allan/
+    email: allan (at) cs.umass.edu
+    # image: ja-picture.jpeg
+    # image: allan.jpg
+    image: allan4.jpg
 
   # - name: Andrew Lan (?)
   #   dept: CICS
@@ -159,6 +171,7 @@ socsci:
     website: https://people.umass.edu/~sharris/
     email: sharris (at) english.umass.edu
     description: Historical linguistics and non-literal language
+    # description: Historical corpus linguistics and non-literal language
 
   - name: Ethan Zuckerman
     dept: Public Policy, Comm., and Information
