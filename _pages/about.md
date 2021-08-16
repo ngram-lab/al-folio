@@ -19,3 +19,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 The natural language processing group at UMass Amherst is made up of faculty and students from the <a href="https://www.cics.umass.edu/">College of Information & Computer Sciences</a>, as well as affiliated members in linguistics and the humanities. Our research spans a diverse range of topics, including computational social science, information extraction, neural language modeling and representation learning, question answering, and digital humanities. 
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/gokart.JPG" data-zoomable>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/arcade.JPG" data-zoomable>
+    </div>
+</div>
+<div class="caption">
+    In addition to working on NLP, we also do fun stuff like gokarting, minigolf, and hiking!
+</div>
