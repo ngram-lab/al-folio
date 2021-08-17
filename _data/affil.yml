@@ -20,7 +20,7 @@ cics:
     twitter: "Mohit Iyyer"
     # github: winstonchiong
     # orcid: "orcid.org/0000-0001-9188-1920"
-    description: Deep learning, generation, question answering, narratives
+    description: Text generation, question answering, narratives
 
   - name: Brendan O'Connor
     image: brendan2.jpg
@@ -92,6 +92,27 @@ cics:
     image: Przemek-3.jpg
     description: Computational social science, fair and explainable ML
     twitter: "przemyslslaw"
+
+  - name: Andrew Lan
+    website: https://people.umass.edu/~andrewlan/
+    email: andrewlan (at) cs.umass.edu
+    image: lan.jpeg
+    description: educational content generation, learner knowledge assessment from text
+    twitter: 
+
+  - name: Madalina (Ina) Fiterau
+    website: https://www.cics.umass.edu/people/fiterau-brostean-ina
+    email: mfiterau (at) cs.umass.edu
+    image: ina.jpeg
+    description: clinical NLP, multimodal learning
+    twitter: mfiterau
+
+  - name: Subhransu Maji
+    website: https://people.cs.umass.edu/~smaji/
+    email: smaji (at) cs.umass.edu
+    image: subhransu.jpeg
+    description: visual recognition, interpretable AI
+    twitter: majisubhransu
 
 
 ling:
