@@ -71,7 +71,7 @@ cics:
 
   - name: James Allan
     # dept: CICS
-    description: Information retrieval
+    description: Information retrieval and controversy detection
     website: https://ciir.cs.umass.edu/~allan/
     email: allan (at) cs.umass.edu
     # image: ja-picture.jpeg
