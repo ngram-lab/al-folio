@@ -1,3 +1,5 @@
+*-nosync
+tmp.changes
 _site
 .bundle
 .sass-cache
