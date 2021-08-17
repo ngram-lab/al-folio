@@ -97,21 +97,21 @@ cics:
     website: https://people.umass.edu/~andrewlan/
     email: andrewlan (at) cs.umass.edu
     image: lan.jpeg
-    description: educational content generation, learner knowledge assessment from text
+    description: Educational content generation, learner assessment from text
     twitter: 
 
   - name: Madalina (Ina) Fiterau
     website: https://www.cics.umass.edu/people/fiterau-brostean-ina
     email: mfiterau (at) cs.umass.edu
     image: ina.jpeg
-    description: clinical NLP, multimodal learning
+    description: Clinical NLP, multimodal learning
     twitter: mfiterau
 
   - name: Subhransu Maji
     website: https://people.cs.umass.edu/~smaji/
     email: smaji (at) cs.umass.edu
     image: subhransu.jpeg
-    description: visual recognition, interpretable AI
+    description: Visual recognition, interpretable AI
     twitter: majisubhransu
 
 
@@ -147,7 +147,7 @@ ling:
     # description: Phonology, computational models of human learning
     # description: Phonology and computational models of human learning
     # description: Phonology; neural net and MaxEnt models of human learning
-    description: Phonology and computational modeling of human learning
+    description: Phonology and computational models of human learning
 
   - name: Gaja Jarosz
     website: https://blogs.umass.edu/jarosz/
