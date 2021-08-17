@@ -139,11 +139,15 @@ ling:
     description: Computational prosody, phonetics, phonology
 
   - name: Joe Pater
-    dept: Linguistics
     website: https://blogs.umass.edu/pater/
     image: pater.jpg
     twitter: "Joe_Pater"
     email: pater (at) linguist.umass.edu
+    # description: Phonology, computational modeling of human learning with MaxEnt models and neural nets
+    # description: Phonology, computational models of human learning
+    # description: Phonology and computational models of human learning
+    # description: Phonology; neural net and MaxEnt models of human learning
+    description: Phonology and computational modeling of human learning
 
   - name: Gaja Jarosz
     website: https://blogs.umass.edu/jarosz/
