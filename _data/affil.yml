@@ -78,10 +78,12 @@ cics:
     # image: allan.jpg
     image: allan4.jpg
 
-  # - name: Razieh Negin Rahimi
-  #   website: https://people.cs.umass.edu/~rahimi/
-  #   email: rahimi (at) cs.umass.edu
-  #   twitter: "Negin_Rahimi"
+  - name: Razieh Negin Rahimi
+    website: https://people.cs.umass.edu/~rahimi/
+    email: rahimi (at) cs.umass.edu
+    twitter: "Negin_Rahimi"
+    image: negin-rahimi.jpg
+    description: Information retrieval and explainable search
 
   - name: Hong Yu
     dept: UMass Lowell; adjunct affiliate in CICS
