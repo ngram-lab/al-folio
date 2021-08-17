@@ -98,7 +98,6 @@ cics:
 ling:
   members:
   - name: Brian Dillon
-    # dept: Linguistics
     description: Computational psycholinguistics
     website: https://people.umass.edu/bwdillon/
     twitter: "linguistbrian"
@@ -114,7 +113,6 @@ ling:
 
   - name: Kristine Yu
     website: https://www.krisyu.org/
-    # dept: Linguistics
     image: kyu.jpg
     email: krisyu (at) linguist.umass.edu
     twitter: "linguist_krisyu"
@@ -128,11 +126,12 @@ ling:
     email: pater (at) linguist.umass.edu
 
   - name: Gaja Jarosz
-    dept: Linguistics
     website: https://blogs.umass.edu/jarosz/
     image: gaja.jpg
     email: jarosz (at) linguist.umass.edu
     twitter: "gajajarosz"
+    # BTO - gaja away until 8/21
+    description: Computational phonology and acquisition
 
   - name: Rajesh Bhatt
     dept: Linguistics
