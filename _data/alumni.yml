@@ -11,6 +11,18 @@
   year: 2019
   firstjob: Assistant Professor, Carnegie Mellon University
 
+- name: Pat Verga
+  website: https://twitter.com/pat_verga?lang=en
+  degree: PhD, 2019
+  year: 2019
+  firstjob: Research Scientist, Google
+
+- name: Charles Sutton
+  website: https://homepages.inf.ed.ac.uk/csutton/
+  degree: PhD, 2008
+  year: 2008
+  currentjob: Research Scientist, Google AI and Associate Professor at University of Edinburgh
+
 - name: Katherine Keith
   website: https://kakeith.github.io/
   degree: PhD, expected 2021
@@ -43,18 +55,67 @@
   firstjob: CRA Computing Innovation Fellow, Princeton University
   currentjob: Associate Professor, Cornell University
 
+- name: David Belanger
+  website: https://davidbelanger.github.io/
+  year: 2017
+  degree: PhD, 2017
+  firstjob: Research Scientist, Google Brain
+
+- name: Arvind Neelakantan
+  website: https://www.linkedin.com/in/arvind-neelakantan-140709a9
+  year: 2017
+  degree: PhD, 2017
+  firstjob: Research Scientist, Google Brain
+  currentjob: Research Lead, OpenAI
+
+- name: Luke Vilnis
+  website: https://people.cs.umass.edu/~luke/
+  year: 2020
+  degree: PhD, 2020
+  firstjob: Research Scientist, Google
+
 - name: Hanna Wallach
   website: http://dirichlet.net/
   currentjob: Senior Principal Researcher, Microsoft Research and Adjunct Associate Professor, UMass Amherst
   year: 2010
   degree: Postdoc, 2007-2010
 
+- name: Gideon Mann
+  website: https://www.techatbloomberg.com/people/gideon-mann/
+  currentjob: Head of Data Science, Bloomberg
+  year: 2007
+  degree: Postdoc, 2007
+
+- name: Laura Dietz
+  website: https://www.cs.unh.edu/~dietz/
+  currentjob: Assistant Professor, University of New Hampshire
+  year: 2012
+  degree: Postdoc, 2010-2012
+
+- name: Jeffrey Flanigan
+  website: https://jflanigan.github.io/
+  currentjob: Assistant Professor, University of California, Santa Cruz
+  year: 2019
+  degree: Postdoc, 2019
+
+- name: Pedram Rooshenas
+  website: https://rooshenas.github.io/
+  currentjob: Assistant Professor, University of North Carolina, Charlotte
+  year: 2020
+  degree: Postdoc, 2020
+
+- name: Tim O'Gorman
+  website: https://timjogorman.github.io/
+  currentjob: Senior Research Scientist, Thorn
+  year: 2020
+  degree: Postdoc, 2020
+
 - name: Sameer Singh
   website: https://sameersingh.org/
   year: 2014
   degree: PhD, 2014
   firstjob: Postdoctoral Researcher, University of Washington
-  currentjob: Assistant Professor, University of California, Irvine
+  currentjob: Associate Professor, University of California, Irvine
 
 - name: Sebastian Riedel
   year: 2011

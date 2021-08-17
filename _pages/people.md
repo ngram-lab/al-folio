@@ -15,11 +15,11 @@ news: true  # includes a list of news items
 </article> -->
 
 <p>
-  We are the members of the UMass Natural Language Processing lab in CICS!  See also our broader list of <a href="../affiliates/">multidisciplinary affiliates</a>.
+  We are the members of the UMass Natural Language Processing lab in CICS! This page contains current <a href="#fac">faculty</a>, <a href="#postdocs">postdocs</a>, <a href="#phd">PhD students</a>, and <a href="#alum">alumni</a>. See also our broader list of <a href="../affiliates/">multidisciplinary affiliates</a>.
 </p>
 
+<a name="fac"></a>
 <h2>Faculty</h2>
-
 <div class="row">
   {% for person in site.data.faculty %}
     {{person | personfilter}}
@@ -29,6 +29,7 @@ news: true  # includes a list of news items
 
 <hr>
 
+<a name="postdocs"></a>
 <h2>Postdocs</h2>
 <div class="row">
   {% for person in site.data.postdocs %}
@@ -38,6 +39,7 @@ news: true  # includes a list of news items
 
 <hr>
 
+<a name="phd"></a>
 <h2>PhD students</h2>
 <div class="row">
   {% for person in site.data.students %}
@@ -46,6 +48,7 @@ news: true  # includes a list of news items
 </div>
 <hr>
 
+<a name="alum"></a>
 <h2>Alumni</h2>
 
 <p>Some recent and past UMass NLP alumni. (Incomplete list - still under construction. See also <a href="http://www.iesl.cs.umass.edu/people">IESL alumni list</a>.)</p>
