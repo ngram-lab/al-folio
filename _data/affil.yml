@@ -8,7 +8,6 @@ cics:
     website: https://people.cs.umass.edu/~laurejt/
     twitter: "thompson_laure"
     description: Cultural analytics, interpretability, data-centric interventions
-    # dept: CICS
     # scholar: 5kUDcJ0AAAAJ
 
   - name: Mohit Iyyer
@@ -22,7 +21,6 @@ cics:
     # github: winstonchiong
     # orcid: "orcid.org/0000-0001-9188-1920"
     description: Deep learning, generation, question answering, narratives
-    # dept: CICS
 
   - name: Brendan O'Connor
     image: brendan2.jpg
@@ -33,7 +31,6 @@ cics:
     twitter: "brendan642"
     # scholar: 5kUDcJ0AAAAJ
     description: NLP for computational social science, social factors in NLP
-    # dept: CICS
 
   - name: Andrew McCallum
     image: andrew.jpg
@@ -44,10 +41,8 @@ cics:
     twitter: "andrewmccallum"
     # scholar: 5kUDcJ0AAAAJ
     description: Machine learning, information extraction, knowledge bases
-    # dept: CICS
 
   - name: Narges Mahyar
-    # dept: CICS
     website: https://groups.cs.umass.edu/nmahyar/
     image: narges_profile2_2015-5.jpg
     twitter: nargesmahyar
@@ -55,7 +50,6 @@ cics:
     description: Human-computer interaction and civic technology
 
   - name: Hamed Zamani
-    # dept: CICS
     description: Information retrieval and recommendation
     image: zamani.jpg
     twitter: hamedzamani
@@ -70,7 +64,6 @@ cics:
     image: croft.jpg
 
   - name: James Allan
-    # dept: CICS
     description: Information retrieval and controversy detection
     website: https://ciir.cs.umass.edu/~allan/
     email: allan (at) cs.umass.edu
@@ -92,7 +85,12 @@ cics:
     scholar: TyXe64wAAAAJ
     image: hongyu.jpg
     email: "Hong_Yu (at) uml.edu"
-    status: done
+
+  - name: Przemyslaw Grabowicz
+    website: https://sites.google.com/site/przemyslawgrabowicz/
+    email: przemyslslaw (at) gmail.com
+    image: Przemek-3.jpg
+    description: Computational social science, fair and explainable ML
 
 
 ling:
