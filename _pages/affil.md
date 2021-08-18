@@ -50,6 +50,12 @@ the <a href="#socsci">Social Sciences and Humanities</a>.
 
 <a name="ling"></a>
 <h2>Linguistics</h2>
+<p>See also the
+  <a
+  href="https://blogs.umass.edu/linguist/computational-linguistics/">Computational
+  Linguistics research area</a> page on the
+  <a href="https://www.umass.edu/linguistics/">Linguistics website</a>.
+</p>
 <div class="row">
 {% assign sorted = site.data.affil.ling.members | sort: 'name' %}
 {% for person in sorted %}
