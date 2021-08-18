@@ -20,7 +20,7 @@ Natural language processing is part of a broader multidisciplinary study of <b>c
   <li>Computational methods to effectively generate, analyze, and ideally understand natural language (<i>natural language processing</i>).</li>
   <li>Computational modeling of how humans process and use language (<i>computational linguistics</i>; e.g., in linguistics, psychology, etc.).</li>
   <li>Computational study of language in society and culture, and NLP for automated content analysis (<i>cultural analytics</i>; e.g. in political science, literature, media studies, etc.).</li>
-  <li>Using NLP to make practical tools for users (e.g. in information retrieval, human-computer interaction, etc.).</li>
+  <li>Using NLP to make practical tools for users (e.g. in information retrieval, human-computer interaction, educational technology, multimodal systems, etc.).</li>
 </ul>
 
 {% comment %}
@@ -38,11 +38,6 @@ we show faculty in three roughly disciplinary groups:
 <a href="#ling">Linguistics</a>, and 
 the <a href="#socsci">Social Sciences and Humanities</a>.
 </p>
-
-{% comment %}
-<div style="color:red">[NOTE - this is TENTATIVE placeholder content to see how it looks. LISTED FACULTY ARE ONLY EXAMPLES AND HAVE NOT NECESSARILY AGREED TO BE ON THIS LIST. We will not publish this page or anyone on list without agreement from them. Therefore if you are reading this do not post link to the web etc. to prevent confusion.]</div>
-{% endcomment %}
-
 
 <a name="cics"></a>
 <h2>Information and Computer Sciences</h2>
