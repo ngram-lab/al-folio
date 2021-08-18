@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-The natural language processing group at UMass Amherst is made up of faculty and students from the <a href="https://www.cics.umass.edu/">College of Information & Computer Sciences</a>, as well as affiliated members in linguistics and the humanities. Our research spans a diverse range of topics, including computational social science, information extraction, neural language modeling and representation learning, question answering, and digital humanities. 
+The natural language processing group at UMass Amherst is made up of faculty and students from the <a href="https://www.cics.umass.edu/">College of Information & Computer Sciences</a>, as well as affiliated members in linguistics, social sciences and humanities. Our research spans a diverse range of topics, including computational social science, information extraction, neural language modeling and representation learning, question answering, and digital humanities. 
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
