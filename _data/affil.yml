@@ -155,7 +155,7 @@ ling:
     email: jarosz (at) linguist.umass.edu
     twitter: "gajajarosz"
     # BTO - gaja away until 8/21
-    description: Computational phonology and acquisition
+    description: Computational phonology, learnability, and acquisition
 
   - name: Rajesh Bhatt
     # dept: Linguistics
@@ -164,10 +164,11 @@ ling:
     email: bhatt (at) linguist.umass.edu
     description: Syntactic theory, Hindi/Urdu treebanks
 
-  # - name: Michael Becker
-  #   website: https://becker.phonologist.org/
-  #   image: 
-  #   email: michael (at) linguist.umass.edu
+  - name: Michael Becker
+    website: https://becker.phonologist.org/
+    image: michael2018.jpg
+    email: michael (at) linguist.umass.edu
+    description: Computational phonology, minoritized languages
 
 socsci:
   members:
