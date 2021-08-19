@@ -18,14 +18,20 @@ nav: true
   research.</li>
   <li><a href="https://ds.cs.umass.edu/mlfl">Machine Learning and Friends Lunch (MLFL)</a></li>
   <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a>, which hosts a seminar series.</li>
-  <li><a href="https://blogs.umass.edu/cogsci/institute/">Cognitive Science Institute</a></li>
-  <li><a href="https://www.umass.edu/linguistics/">UMass Linguistics</a>, <a href="https://www.facebook.com/groups/ling5/">Five Colleges Linguistics</a></li>
   <li><a href="https://ds.cs.umass.edu/">Center for Data Science</a></li>
   <li>Research groups in CICS:
     <ul>
       <li><a href="http://ciir.cs.umass.edu/">Center for Intelligent Information Retrieval (CIIR)</a></li>
       <li><a href="http://www.iesl.cs.umass.edu/">Information Extraction and Synthesis Laboratory (IESL)</a></li>
       <li><a href="http://slanglab.cs.umass.edu/">Socio-Statistical Language Analysis (SLANG)</a></li>
+    </ul>
+  </li>
+  <li><a href="https://blogs.umass.edu/cogsci/institute/">Cognitive Science Institute</a></li>
+  <li>Linguistics:
+    <ul>
+      <li><a href="https://www.umass.edu/linguistics/">Linguistics Department</a></li>
+      <li><a href="https://blogs.umass.edu/linguist/computational-linguistics/">Computational Linguistics research area</a></li>
+      <li><a href="https://www.facebook.com/groups/ling5/">Five Colleges Linguistics</a></li>
     </ul>
   </li>
 </ul>

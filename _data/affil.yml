@@ -125,7 +125,6 @@ ling:
     image: dillon.jpg
 
   - name: Shota Momma
-    dept: Linguistics
     website: https://shotam.github.io/
     image: shota.jpg
     email: snegishi (at) umass.edu
@@ -163,6 +162,11 @@ ling:
     website: https://people.umass.edu/bhatt/
     image: rajesh.jpg
     email: bhatt (at) linguist.umass.edu
+
+  # - name: Michael Becker
+  #   website: https://becker.phonologist.org/
+  #   image: 
+  #   email: michael (at) linguist.umass.edu
 
 socsci:
   members:
