@@ -158,10 +158,11 @@ ling:
     description: Computational phonology and acquisition
 
   - name: Rajesh Bhatt
-    dept: Linguistics
+    # dept: Linguistics
     website: https://people.umass.edu/bhatt/
     image: rajesh.jpg
     email: bhatt (at) linguist.umass.edu
+    description: Syntactic theory, Hindi/Urdu treebanks
 
   # - name: Michael Becker
   #   website: https://becker.phonologist.org/
