@@ -3,13 +3,82 @@
   url: ../assets/pdf/info490ca-2021.pdf
 - shortname: COMPSCI 490A
   title: Applications of Natural Language Processing
-  url: "https://people.cs.umass.edu/~brenocon/cs490a_f20/"
+  url: "https://people.cs.umass.edu/~brenocon/cs490a_f21/"
+  offerings:
+    - year: 2021
+      shortyear: "21"
+      by: Thompson, O'Connor
+      url: https://people.cs.umass.edu/~brenocon/cs490a_f21/
+    - year: 2020
+      shortyear: "20"
+      by: O'Connor
+      url: https://people.cs.umass.edu/~brenocon/cs490a_f20/
 - shortname: COMPSCI 585
   title: Introduction to Natural Language Processing
   note: "As of 2020 this is not offered. Please take 490A or 685 as appropriate."
+  offerings:
+    - year: 2019
+      shortyear: "19"
+      by: Iyyer
+      url: 
+    - year: 2018
+      shortyear: "18"
+      by: Iyyer
+      url: 
+    - year: 2017
+      shortyear: "17"
+      by: O'Connor
+      url: http://people.cs.umass.edu/~brenocon/inlp2017/
+    - year: 2016
+      shortyear: "16"
+      by: O'Connor
+      url: http://people.cs.umass.edu/~brenocon/inlp2016/
+    - year: 2015
+      shortyear: "15"
+      by: O'Connor
+      url: http://people.cs.umass.edu/~brenocon/inlp2015/
+    - year: 2014
+      shortyear: "14"
+      by: O'Connor
+      url: http://people.cs.umass.edu/~brenocon/inlp2014/
+    - year: 2013
+      shortyear: "13"
+      by: McCallum
+      url: 
+    - year: 2012
+      shortyear: "12"
+      by: McCallum
+      url: 
+    - year: 2009
+      shortyear: "09"
+      by: Smith
+      url: http://people.cs.umass.edu/~dasmith/inlp2009/
+    - year: 2007
+      shortyear: "07"
+      by: McCallum
+      url: http://people.cs.umass.edu/~mccallum/courses/inlp2007/
 - shortname: COMPSCI 685
   url: "https://people.cs.umass.edu/~miyyer/cs685/"
   title: Advanced Natural Language Processing
+  offerings:
+    - year: 2021
+      shortyear: "F21"
+      url: https://people.cs.umass.edu/~brenocon/cs685_s21/
+    - year: 2020
+      shortyear: "S20"
+      url: https://people.cs.umass.edu/~brenocon/cs685_s20/
+    - year: 2020
+      shortyear: "F20"
+      url: 
+    - year: 2019
+      shortyear: "S19 (690D)"
+      url: https://people.cs.umass.edu/~brenocon/cs690d_s19/
+    - year: 2018
+      shortyear: "S18 (690N)"
+      url: https://people.cs.umass.edu/~brenocon/anlp2018/
+    - year: 2017
+      shortyear: "S17 (690N)"
+      url: https://people.cs.umass.edu/~brenocon/anlp2017/
 - shortname: COMPSCI 446
   url: "https://ciir.cs.umass.edu/~dfisher/cs446/"
   title: Search Engines

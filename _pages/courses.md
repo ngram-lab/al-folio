@@ -28,7 +28,18 @@ taught by NLP <a href="../affiliates/">affiliated faculty</a>.
       {{cc.title}}.
     {% endif %}
     {% if cc.note %}
-      <i>({{cc.note}})</i>
+      <i>{{cc.note}}</i>
+    {% endif %}
+    {% if cc.offerings %}
+      <span class="offerings">Prev. offerings:
+      {% for oo in cc.offerings %}
+        {% if oo.url %}
+          <a href="{{oo.url}}">{{oo.shortyear}}</a>
+        {% else %}
+          {{oo.shortyear}}
+        {% endif %}
+      {% endfor %}
+      </span>
     {% endif %}
   </li>
 {% endfor %}
