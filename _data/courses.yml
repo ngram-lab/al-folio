@@ -41,14 +41,14 @@
       shortyear: "14"
       by: O'Connor
       url: http://people.cs.umass.edu/~brenocon/inlp2014/
-    - year: 2013
-      shortyear: "13"
-      by: McCallum
-      url: 
-    - year: 2012
-      shortyear: "12"
-      by: McCallum
-      url: 
+    # - year: 2013
+    #   shortyear: "13"
+    #   by: McCallum
+    #   url: 
+    # - year: 2012
+    #   shortyear: "12"
+    #   by: McCallum
+    #   url: 
     - year: 2009
       shortyear: "09"
       by: Smith
@@ -57,6 +57,12 @@
       shortyear: "07"
       by: McCallum
       url: http://people.cs.umass.edu/~mccallum/courses/inlp2007/
+    - year: 2004
+      shortyear: "04"
+      url: https://people.cs.umass.edu/~mccallum/courses/inlp2004/
+    - year: 1996
+      shortyear: "96"
+      url: https://web.cs.umass.edu/csinfo/autogen/cmpscidescf96.html#585
 - shortname: COMPSCI 685
   url: "https://people.cs.umass.edu/~miyyer/cs685/"
   title: Advanced Natural Language Processing

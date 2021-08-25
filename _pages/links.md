@@ -12,10 +12,12 @@ nav: true
 <ul>
   <li><b>UMass NLP reading group:</b> this meets approximately weekly most semesters.
   We currently coordinate and announce via the <a
-  href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp google group</a>. 
-  Membership is restricted to the UMass community; the most recent policy is
-  that CS students may join if they are engaged in faculty-advised
-  research.</li>
+  href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp google
+  group</a> outside the lab, as well as the internal NLP lab slack group.
+  The reading group is open to the UMass community, but for space reasons, we have to restrict CS student
+  participation
+  to those who are engaged in faculty-advised research.
+  </li>
   <li><a href="https://ds.cs.umass.edu/mlfl">Machine Learning and Friends Lunch (MLFL)</a></li>
   <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a>, which hosts a seminar series.</li>
   <li><a href="https://ds.cs.umass.edu/">Center for Data Science</a></li>
