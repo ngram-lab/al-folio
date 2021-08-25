@@ -19,6 +19,7 @@ nav: true
   to those who are engaged in faculty-advised research.
   </li>
   <li><a href="https://ds.cs.umass.edu/mlfl">Machine Learning and Friends Lunch (MLFL)</a></li>
+  <li><a href="https://ds.cs.umass.edu/ds-tea">Data Science Tea</a></li>
   <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a>, which hosts a seminar series.</li>
   <li><a href="https://ds.cs.umass.edu/">Center for Data Science</a></li>
   <li>Research groups in CICS:
