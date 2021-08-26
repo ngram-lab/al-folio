@@ -7,16 +7,20 @@ order: 5
 nav: true
 ---
 
+
+<h1>Courses</h1>
+
 <p>
 Here is a list of courses and programs at UMass to study
 the overlapping areas of
 natural language processing, computational linguistics,
 and cultural analytics,
 taught by NLP <a href="../affiliates/">affiliated faculty</a>.
+Some have links to syllabi or websites from some, but not necessary all, previous offerings;
+if you'd like to know future availability,
+ask instructors or see department websites, such as the
+<a href="https://www.cics.umass.edu/content/course-offering-plan">CICS course offering plan</a>.
 </p>
-
-<h1>Courses</h1>
-
 
 <ul>
 {% for cc in site.data.courses %}
@@ -31,14 +35,18 @@ taught by NLP <a href="../affiliates/">affiliated faculty</a>.
       <i>{{cc.note}}</i>
     {% endif %}
     {% if cc.offerings %}
-      <span class="offerings">Prev. offerings:
-      {% for oo in cc.offerings %}
-        {% if oo.url %}
+      <span class="offerings">[
+      {%- for oo in cc.offerings -%}
+        {%- if oo.url -%}
           <a href="{{oo.url}}">{{oo.shortyear}}</a>
-        {% else %}
+        {%- else -%}
           {{oo.shortyear}}
+        {%- endif -%}
+        {%- if forloop.last == false -%}
+          , 
         {% endif %}
-      {% endfor %}
+      {%- endfor -%}
+      ]
       </span>
     {% endif %}
   </li>
@@ -54,14 +62,14 @@ taught by NLP <a href="../affiliates/">affiliated faculty</a>.
 <li><a href="https://www.cics.umass.edu/">CICS</a> offers <a href="https://www.cics.umass.edu/degrees">several undergraduate majors</a>, including both Computer Science and Informatics.
 <!-- The CS major includes an NLP concentration [TODO updated link?]. -->
 </li>
-<li>Linguistics, in collaboration with CICS, offers a degree in Computational Linguistics. The normal <a href="https://www.umass.edu/linguistics/linguistics-major">Linguistics major</a> may be appropriate as well.</li>
+<li><a href="https://www.umass.edu/linguistics/">Linguistics</a>, in collaboration with CICS, offers a degree in Computational Linguistics. The normal <a href="https://www.umass.edu/linguistics/linguistics-major">Linguistics major</a> may be appropriate as well.</li>
 <li>NLP and NLP-related coursework can of course be included in many other majors, though be aware that availability may be an issue for certain courses.</li>
 </ul>
 
 <p>Masters:</p>
 <ul>
 <li><a href="https://www.cics.umass.edu/degree-program/masters">Computer Science MS</a> program in CICS.  See also its <a href="https://www.cics.umass.edu/grads/data-science-concentration-elective-requirements">Data Science concentration</a>.</li>
-<li><a href="https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program">Data Analytics and Computational Social Science Program</a>.
+<li><a href="https://www.umass.edu/sbs/data-analytics-and-computational-social-science-program">Data Analytics and Computational Social Science Program</a> in <a href="https://www.umass.edu/sbs/">SBS</a>.
 </li>
 </ul>
 

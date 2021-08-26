@@ -71,11 +71,12 @@
       shortyear: "S21"
       url: https://people.cs.umass.edu/~brenocon/cs685_s21/
     - year: 2020
-      shortyear: "S20"
-      url: https://people.cs.umass.edu/~brenocon/cs685_s20/
-    - year: 2020
       shortyear: "F20"
       url: 
+    - year: 2020
+      shortyear: "S20"
+      url: https://people.cs.umass.edu/~brenocon/cs685_s20/
+    # BTO: didn't mohit teach it in F19 ?
     - year: 2019
       shortyear: "S19 (690D)"
       url: https://people.cs.umass.edu/~brenocon/cs690d_s19/
@@ -100,20 +101,28 @@
 - shortname: LING 509
   url: "https://sites.google.com/site/umasslx409/"
   title: Introduction to Computational Linguistics
-- shortname: LING 492
+- shortname: LING 492B
   title: "Computational Linguistics: Use and Meaning"
   note: "This is intended to be taken after Ling 509."
+  offerings:
+    - shortyear: "15"
+      url: ../assets/pdf/ling492b-2015.pdf
 - shortname: LING 592B
   title: Speech Processing
+  url: ../assets/pdf/ling592b-s14.pdf
+  # offerings:
+  #   - shortyear: "14"
+  #     url: ../assets/pdf/ling592b-s14.pdf
+  #     url2: https://web.archive.org/web/20170917163756/http://courses.umass.edu/linguist592b-kmyu/
 - shortname: LING 692C
   url: "https://blogs.umass.edu/linguist692c-jarosz/"
   title: "Cognitive Modeling (aka Computational Psycholinguistics)"
 - shortname: LING 797C
   url: "https://blogs.umass.edu/linguist797c-jarosz/"
   title: Computational Phonology
-- shortname: POLISCI 797TA / DACSS 697D
+- shortname: POLSCI 797TA / DACSS 697D
   title: "Special Topics - Text as Data"
-  url: ../assets/pdf/polisci797ta-2021.pdf
+  url: ../assets/pdf/polsci797ta-2021.pdf
 - shortname: COMM 497DB
   title: "Survey/Digital Behavioral Data"
   url: https://curiositybits.cc/tutorial/
