@@ -66,11 +66,14 @@ news: true  # includes a list of news items
       {% if person.firstjob %}
         → {{person.firstjob}}
       {% endif %}
-      {% if person.currentjob %}
-        → <i>currently</i> {{person.currentjob}}
-      {% endif %}
       {% if person.nextjob %}
         → {{person.nextjob}}
+      {% endif %}
+      {% if person.currentjob %}
+        {% unless person.firstjob %}
+          → &hellip;
+        {% endunless %}
+        → {{person.currentjob}}
       {% endif %}
     </li>
   {% endfor %}
