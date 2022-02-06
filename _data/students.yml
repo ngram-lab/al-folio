@@ -125,6 +125,14 @@
   website: https://msheshera.github.io/
   twitter: "MSheshera"
 
+- name: Tessa Masis
+  image: masis.jpeg
+  altimage:
+  position: PhD student
+  email: tmasis (at) cs.umass.edu
+  website: https://tmasis.github.io/
+  twitter: 
+
 - name:  Dhruvesh Patel
   image: dhruvesh.jpeg
   altimage: 
