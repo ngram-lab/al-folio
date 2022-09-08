@@ -1,6 +1,294 @@
 ---
 ---
 
+
+
+@article{Mishra_Monath_Boratko_Kobren_McCallum_2022,
+  abbr={AAAI},
+  title={An Evaluative Measure of Clustering Methods Incorporating Hyperparameter Sensitivity},
+  volume={36},
+  url={https://ojs.aaai.org/index.php/AAAI/article/view/20747},
+  DOI={10.1609/aaai.v36i7.20747},
+  number={7},
+  journal={Proceedings of the AAAI Conference on Artificial Intelligence},
+  author={Mishra, Siddhartha and Monath, Nicholas and Boratko, Michael and Kobren, Ariel and McCallum, Andrew},
+  year={2022},
+  month={Jun.},
+  pages={7788-7796}
+}
+
+@inproceedings{das2022knowledge,
+  abbr={ICML},
+  title={Knowledge base question answering by case-based reasoning over subgraphs},
+  author={Das, Rajarshi and Godbole, Ameya and Naik, Ankita and Tower, Elliot and Zaheer, Manzil and Hajishirzi, Hannaneh and Jia, Robin and McCallum, Andrew},
+  booktitle={International Conference on Machine Learning},
+  pages={4777--4793},
+  year={2022},
+  organization={PMLR}
+}
+
+@inproceedings{dasgupta-etal-2022-word2box,
+    abbr={ACL},
+    title = "{W}ord2{B}ox: Capturing Set-Theoretic Semantics of Words using Box Embeddings",
+    author = "Dasgupta, Shib  and
+      Boratko, Michael  and
+      Mishra, Siddhartha  and
+      Atmakuri, Shriya  and
+      Patel, Dhruvesh  and
+      Li, Xiang  and
+      McCallum, Andrew",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.161",
+    doi = "10.18653/v1/2022.acl-long.161",
+    pages = "2263--2276",
+    abstract = "Learning representations of words in a continuous space is perhaps the most fundamental task in NLP, however words interact in ways much richer than vector dot product similarity can provide. Many relationships between words can be expressed set-theoretically, for example, adjective-noun compounds (eg. {``}red cars{''}⊆{``}cars{''}) and homographs (eg. {``}tongue{''}∩{``}body{''} should be similar to {``}mouth{''}, while {``}tongue{''}∩{``}language{''} should be similar to {``}dialect{''}) have natural set-theoretic interpretations. Box embeddings are a novel region-based representation which provide the capability to perform these set-theoretic operations. In this work, we provide a fuzzy-set interpretation of box embeddings, and learn box representations of words using a set-theoretic training objective. We demonstrate improved performance on various word similarity tasks, particularly on less common words, and perform a quantitative and qualitative analysis exploring the additional unique expressivity provided by Word2Box.",
+}
+
+
+@inproceedings{ray2022sublinear,
+  abbr={AAAI},
+  title={Sublinear Time Approximation of Text Similarity Matrices},
+  author={Ray, Archan and Monath, Nicholas and McCallum, Andrew and Musco, Cameron},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={36},
+  number={7},
+  pages={8072--8080},
+  year={2022}
+}
+
+@inproceedings{angell2022interactive,
+  abbr={ICML},
+  title={Interactive Correlation Clustering with Existential Cluster Constraints},
+  author={Angell, Rico and Monath, Nicholas and Yadav, Nishant and McCallum, Andrew},
+  booktitle={International Conference on Machine Learning},
+  pages={703--716},
+  year={2022},
+  organization={PMLR}
+}
+
+@inproceedings{agarwal-etal-2022-entity,
+    abbr={NAACL},
+    title = "Entity Linking via Explicit Mention-Mention Coreference Modeling",
+    author = "Agarwal, Dhruv  and
+      Angell, Rico  and
+      Monath, Nicholas  and
+      McCallum, Andrew",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.343",
+    doi = "10.18653/v1/2022.naacl-main.343",
+    pages = "4644--4658",
+    abstract = "Learning representations of entity mentions is a core component of modern entity linking systems for both candidate generation and making linking predictions. In this paper, we present and empirically analyze a novel training approach for learning mention and entity representations that is based on building minimum spanning arborescences (i.e., directed spanning trees) over mentions and entities across documents to explicitly model mention coreference relationships. We demonstrate the efficacy of our approach by showing significant improvements in both candidate generation recall and linking accuracy on the Zero-Shot Entity Linking dataset and MedMentions, the largest publicly available biomedical dataset. In addition, we show that our improvements in candidate generation yield higher quality re-ranking models downstream, setting a new SOTA result in linking accuracy on MedMentions. Finally, we demonstrate that our improved mention representations are also effective for the discovery of new entities via cross-document coreference.",
+}
+
+
+@inproceedings{kennard-etal-2022-disapere,
+    abbr={NAACL},
+    title = "{DISAPERE}: A Dataset for Discourse Structure in Peer Review Discussions",
+    author = "Kennard, Neha  and
+      O{'}Gorman, Tim  and
+      Das, Rajarshi  and
+      Sharma, Akshay  and
+      Bagchi, Chhandak  and
+      Clinton, Matthew  and
+      Yelugam, Pranay Kumar  and
+      Zamani, Hamed  and
+      McCallum, Andrew",
+    booktitle = "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies",
+    month = jul,
+    year = "2022",
+    address = "Seattle, United States",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.naacl-main.89",
+    doi = "10.18653/v1/2022.naacl-main.89",
+    pages = "1234--1249",
+    abstract = "At the foundation of scientific evaluation is the labor-intensive process of peer review. This critical task requires participants to consume vast amounts of highly technical text. Prior work has annotated different aspects of review argumentation, but discourse relations between reviews and rebuttals have yet to be examined. We present DISAPERE, a labeled dataset of 20k sentences contained in 506 review-rebuttal pairs in English, annotated by experts. DISAPERE synthesizes label sets from prior work and extends them to include fine-grained annotation of the rebuttal sentences, characterizing their context in the review and the authors{'} stance towards review arguments. Further, we annotate \textit{every} review and rebuttal sentence. We show that discourse cues from rebuttals can shed light on the quality and interpretation of reviews. Further, an understanding of the argumentative strategies employed by the reviewers and authors provides useful signal for area chairs and other decision makers.",
+}
+
+
+@article{10.1145/3524025,
+abbr={TIIS},
+author = {Handler, Abram and Mahyar, Narges and O’Connor, Brendan},
+title = {ClioQuery: Interactive Query-Oriented Text Analytics for Comprehensive Investigation of Historical News Archives},
+year = {2022},
+issue_date = {September 2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {12},
+number = {3},
+issn = {2160-6455},
+url = {https://doi.org/10.1145/3524025},
+doi = {10.1145/3524025},
+abstract = {Historians and archivists often find and analyze the occurrences of query words in newspaper archives to help answer fundamental questions about society. But much work in text analytics focuses on helping people investigate other textual units, such as events, clusters, ranked documents, entity relationships, or thematic hierarchies. Informed by a study into the needs of historians and archivists, we thus propose ClioQuery, a text analytics system uniquely organized around the analysis of query words in context. ClioQuery&nbsp;applies text simplification techniques from natural language processing to help historians quickly and comprehensively gather and analyze all occurrences of a query word across an archive. It also pairs these new NLP methods with more traditional features like linked views and in-text highlighting to help engender trust in summarization techniques. We evaluate ClioQuery&nbsp;with two separate user studies, in which historians explain how ClioQuery’s novel text simplification features can help facilitate historical research. We also evaluate with a separate quantitative comparison study, which shows that ClioQuery&nbsp;helps crowdworkers find and remember historical information. Such results suggest possible new directions for text analytics in other query-oriented settings.},
+journal = {ACM Trans. Interact. Intell. Syst.},
+month = {jul},
+articleno = {22},
+numpages = {49},
+keywords = {history, Digital humanities, user interfaces, interactive text analytics}
+}
+
+@inproceedings{keith-etal-2021-text,
+    abbr={Causal NLP},
+    title = "Text as Causal Mediators: Research Design for Causal Estimates of Differential Treatment of Social Groups via Language Aspects",
+    author = "Keith, Katherine  and
+      Rice, Douglas  and
+      O{'}Connor, Brendan",
+    booktitle = "Proceedings of the First Workshop on Causal Inference and NLP",
+    month = nov,
+    year = "2021",
+    address = "Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.cinlp-1.2",
+    doi = "10.18653/v1/2021.cinlp-1.2",
+    pages = "21--32",
+    abstract = "Using observed language to understand interpersonal interactions is important in high-stakes decision making. We propose a causal research design for observational (non-experimental) data to estimate the natural direct and indirect effects of social group signals (e.g. race or gender) on speakers{'} responses with separate aspects of language as causal mediators. We illustrate the promises and challenges of this framework via a theoretical case study of the effect of an advocate{'}s gender on interruptions from justices during U.S. Supreme Court oral arguments. We also discuss challenges conceptualizing and operationalizing causal variables such as gender and language that comprise of many components, and we articulate technical open challenges such as temporal dependence between language mediators in conversational settings.",
+}
+
+@inproceedings{hwang-etal-2022-event,
+    abbr={ACL},
+    title = "Event-Event Relation Extraction using Probabilistic Box Embedding",
+    author = "Hwang, EunJeong  and
+      Lee, Jay-Yoon  and
+      Yang, Tianyi  and
+      Patel, Dhruvesh  and
+      Zhang, Dongxu  and
+      McCallum, Andrew",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-short.26",
+    doi = "10.18653/v1/2022.acl-short.26",
+    pages = "235--244",
+    abstract = "To understand a story with multiple events, it is important to capture the proper relations across these events. However, existing event relation extraction (ERE) framework regards it as a multi-class classification task and do not guarantee any coherence between different relation types, such as anti-symmetry. If a phone line {``}died{''} after {``}storm{''}, then it is obvious that the {``}storm{''} happened before the {``}died{''}. Current framework of event relation extraction do not guarantee this coherence and thus enforces it via constraint loss function (Wang et al., 2020). In this work, we propose to modify the underlying ERE model to guarantee coherence by representing each event as a box representation (BERE) without applying explicit constraints. From our experiments, BERE also shows stronger conjunctive constraint satisfaction while performing on par or better in F1 compared to previous models with constraint injection.",
+}
+
+
+@inproceedings{bansal-etal-2021-diverse,
+    abbr={EMNLP},
+    title = "Diverse Distributions of Self-Supervised Tasks for Meta-Learning in {NLP}",
+    author = "Bansal, Trapit  and
+      Gunasekaran, Karthick Prasad  and
+      Wang, Tong  and
+      Munkhdalai, Tsendsuren  and
+      McCallum, Andrew",
+    booktitle = "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2021",
+    address = "Online and Punta Cana, Dominican Republic",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.emnlp-main.469",
+    doi = "10.18653/v1/2021.emnlp-main.469",
+    pages = "5812--5824",
+    abstract = "Meta-learning considers the problem of learning an efficient learning process that can leverage its past experience to accurately solve new tasks. However, the efficacy of meta-learning crucially depends on the distribution of tasks available for training, and this is often assumed to be known a priori or constructed from limited supervised datasets. In this work, we aim to provide task distributions for meta-learning by considering self-supervised tasks automatically proposed from unlabeled text, to enable large-scale meta-learning in NLP. We design multiple distributions of self-supervised tasks by considering important aspects of task diversity, difficulty, type, domain, and curriculum, and investigate how they affect meta-learning performance. Our analysis shows that all these factors meaningfully alter the task distribution, some inducing significant improvements in downstream few-shot accuracy of the meta-learned models. Empirically, results on 20 downstream tasks show significant improvements in few-shot learning {--} adding up to +4.2{\%} absolute accuracy (on average) to the previous unsupervised meta-learning method, and perform comparably to supervised methods on the FewRel 2.0 benchmark.",
+}
+
+
+@inproceedings{greenberg2021exact,
+  abbr={UAI},
+  title={Exact and approximate hierarchical clustering using A},
+  author={Greenberg, Craig S and Macaluso, Sebastian and Monath, Nicholas and Dubey, Avinava and Flaherty, Patrick and Zaheer, Manzil and Ahmed, Amr and Cranmer, Kyle and McCallum, Andrew},
+  booktitle={Uncertainty in Artificial Intelligence},
+  pages={2061--2071},
+  year={2021},
+  organization={PMLR}
+}
+
+@inproceedings{boratko2021min,
+  abbr={UAI},
+  title={Min/max stability and box distributions},
+  author={Boratko, Michael and Burroni, Javier and Dasgupta, Shib Sankar and McCallum, Andrew},
+  booktitle={Uncertainty in Artificial Intelligence},
+  pages={2146--2155},
+  year={2021},
+  organization={PMLR}
+}
+
+@article{boratko2021capacity,
+  abbr={NeurIPS},
+  title={Capacity and Bias of Learned Geometric Embeddings for Directed Graphs},
+  author={Boratko, Michael and Zhang, Dongxu and Monath, Nicholas and Vilnis, Luke and Clarkson, Kenneth L and McCallum, Andrew},
+  journal={Advances in Neural Information Processing Systems},
+  volume={34},
+  pages={16423--16436},
+  year={2021}
+}
+
+@inproceedings{chang-mccallum-2022-softmax,
+    abbr={ACL},
+    title = "Softmax Bottleneck Makes Language Models Unable to Represent Multi-mode Word Distributions",
+    author = "Chang, Haw-Shiuan  and
+      McCallum, Andrew",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.554",
+    doi = "10.18653/v1/2022.acl-long.554",
+    pages = "8048--8073",
+    abstract = "Neural language models (LMs) such as GPT-2 estimate the probability distribution over the next word by a softmax over the vocabulary. The softmax layer produces the distribution based on the dot products of a single hidden state and the embeddings of words in the vocabulary. However, we discover that this single hidden state cannot produce all probability distributions regardless of the LM size or training data size because the single hidden state embedding cannot be close to the embeddings of all the possible next words simultaneously when there are other interfering word embeddings between them. In this work, we demonstrate the importance of this limitation both theoretically and practically. Our work not only deepens our understanding of softmax bottleneck and mixture of softmax (MoS) but also inspires us to propose multi-facet softmax (MFS) to address the limitations of MoS. Extensive empirical analyses confirm our findings and show that against MoS, the proposed MFS achieves two-fold improvements in the perplexity of GPT-2 and BERT.",
+}
+
+
+@inproceedings{halterman-etal-2021-corpus,
+    abbr={ACL Findings},
+    title = "Corpus-Level Evaluation for Event {QA}: The {I}ndia{P}olice{E}vents Corpus Covering the 2002 {G}ujarat Violence",
+    author = "Halterman, Andrew  and
+      Keith, Katherine  and
+      Sarwar, Sheikh  and
+      O{'}Connor, Brendan",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL-IJCNLP 2021",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.findings-acl.371",
+    doi = "10.18653/v1/2021.findings-acl.371",
+    pages = "4240--4253",
+}
+
+
+@inproceedings{lfqa22,
+abbr={NAACL},
+author={Shufan Wang and Fangyuan Xu and Laure Thompson and Eunsol Choi and Mohit Iyyer},
+Booktitle = {North American Association for Computational Linguistics},
+Year = "2022",
+Title={Modeling Exemplification in Long-form Question Answering via Retrieval},
+}
+
+@inproceedings{chbrk22,
+abbr={NAACL},
+author={Simeng Sun and Katherine Thai and Mohit Iyyer},
+Booktitle = {North American Association for Computational Linguistics},
+Year = "2022",
+Title={ChapterBreak: A Challenge Dataset for Long-Range Language Models},
+}
+
+@inproceedings{relic22,
+abbr={ACL},
+author={Katherine Thai and Yapei Chang and Kalpesh Krishna and Mohit Iyyer},
+Booktitle = {Association of Computational Linguistics},
+Year = "2022",
+Title={RELiC: Retrieving Evidence for Literary Claims},
+}
+
+@inproceedings{neg22,
+abbr={Negative Results Workshop},
+author={Simeng Sun and Brian Dillon and Mohit Iyyer},
+Booktitle = {Workshop on Insights from Negative Results in NLP @ ACL 2022},
+Year = "2022",
+Title={How Much Do Modifications to Transformer Language Models Affect Their Ability to Learn Linguistic Knowledge?},
+}
+
 @inproceedings{DBLP:conf/iclr/VilnisM15,
   abbr={ICLR},
   bibtex_show={true}, 

@@ -34,6 +34,15 @@
   # scholar: jLpCQugAAAAJ&hl
   twitter: "TrapitBansal"
 
+- name: Erica Cai
+  image: erica.jpg
+  altimage: 
+  position: PhD student
+  email: ecai (at) cs.umass.edu
+  website: https://www.linkedin.com/in/erica-cai-a3b99016a/
+  # scholar: jLpCQugAAAAJ&hl
+  twitter: "erica__ec"
+
 - name: Haw-Shiuan Chang
   image: hawshiuan.jpeg
   altimage: 
@@ -42,6 +51,15 @@
   website: http://people.umass.edu/hawshiuancha/
   # scholar: jLpCQugAAAAJ&hl
   twitter: "Haw_Shiuan"
+
+- name: Yapei Chang
+  image: yapei.jpg
+  altimage: 
+  position: PhD student
+  email: yapeichang (at) umass.edu
+  website: https://lilakk.github.io/
+  # scholar: jLpCQugAAAAJ&hl
+  twitter: "YapeiChang"
 
 - name: Rajarshi Das
   image: rajarshi.jpeg
@@ -77,13 +95,13 @@
   website: https://ankitaiisc.github.io/
   twitter: "Anki98765"
 
-- name: Katherine Keith
-  image: katie.jpeg
-  altimage: 
-  position: PhD student
-  email: kkeith (at) cs.umass.edu
-  website: https://kakeith.github.io/
-  twitter: "katakeith"
+# - name: Katherine Keith
+#   image: katie.jpeg
+#   altimage: 
+#   position: PhD student
+#   email: kkeith (at) cs.umass.edu
+#   website: https://kakeith.github.io/
+#   twitter: "katakeith"
 
 - name: Neha Kennard
   image: neha.png
