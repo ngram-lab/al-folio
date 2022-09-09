@@ -1,3 +1,47 @@
+- name: Subendhu Rongali
+  website: https://subendhurongali.netlify.app/
+  degree: PhD, 2022
+  year: 2022
+  firstjob: Amazon Alexa AI
+
+- name: Haw-Shiuan Chang
+  website: https://ken77921.github.io/
+  degree: PhD, 2022
+  year: 2022
+  firstjob: Postdoctoral Researcher, Amazon Alexa AI
+
+- name: Xiang Lorraine Li
+  website: https://people.cs.umass.edu/~xiangl/
+  degree: PhD, 2022
+  year: 2022
+  firstjob: Young Investigator, AI2
+  nextjob: Assistant Professor, University of Pittsburgh (starting 2023)
+
+- name: Katherine Keith
+  website: https://kakeith.github.io/
+  degree: PhD, 2021
+  year: 2021
+  firstjob: Young Investigator, AI2 (starting 2021)
+  nextjob: Assistant Professor, Williams College (starting 2022)
+
+- name: Abram Handler
+  website: https://www.abehandler.com/
+  degree: PhD, 2021
+  year: 2021
+  firstjob: Instructor, University of Colorado, Boulder
+
+- name: Nicholas Monath
+  website: https://scholar.google.com/citations?user=PTfhfCQAAAAJ
+  degree: PhD, 2021
+  year: 2021
+  firstjob: Research Scientist, Google
+
+- name: Craig Greenberg
+  website: https://www.nist.gov/people/craig-greenberg
+  degree: PhD, 2020
+  year: 2020
+  firstjob: Multimodal Information Group, NIST
+
 - name: Trapit Bansal
   website: https://trapitbansal.com/
   degree: PhD, 2021
@@ -6,8 +50,8 @@
 
 - name: Rajarshi Das
   website: http://rajarshd.github.io/
-  degree: PhD, 2021
-  year: 2021
+  degree: PhD, 2022
+  year: 2022
   firstjob: Postdoctoral Researcher, University of Washington
 
 - name: Su Lin Blodgett
@@ -34,19 +78,6 @@
   degree: PhD, 2008
   year: 2008
   currentjob: Research Scientist, Google AI and Associate Professor at University of Edinburgh
-
-- name: Katherine Keith
-  website: https://kakeith.github.io/
-  degree: PhD, 2021
-  year: 2021
-  firstjob: Young Investigator, AI2 (starting 2021)
-  nextjob: Assistant Professor, Williams College (starting 2022)
-
-- name: Abram Handler
-  website: https://www.abehandler.com/
-  degree: PhD, 2021
-  year: 2021
-  firstjob: Instructor, University of Colorado, Boulder
 
 - name: Claire Cardie
   website: https://www.cs.cornell.edu/home/cardie/

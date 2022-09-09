@@ -34,15 +34,6 @@
   # scholar: jLpCQugAAAAJ&hl
   twitter: "erica__ec"
 
-- name: Haw-Shiuan Chang
-  image: hawshiuan.jpeg
-  altimage: 
-  position: PhD student
-  email: hschang (at) cs.umass.edu
-  website: http://people.umass.edu/hawshiuancha/
-  # scholar: jLpCQugAAAAJ&hl
-  twitter: "Haw_Shiuan"
-
 - name: Yapei Chang
   image: yapei.jpg
   altimage: 
@@ -51,15 +42,6 @@
   website: https://lilakk.github.io/
   # scholar: jLpCQugAAAAJ&hl
   twitter: "YapeiChang"
-
-- name: Rajarshi Das
-  image: rajarshi.jpeg
-  altimage: 
-  position: PhD student
-  email: rajarshi_das (at) cs.umass.edu
-  website: http://rajarshd.github.io/
-  # scholar: jLpCQugAAAAJ&hl
-  twitter: 
 
 - name: Shib Sankar Dasgupta
   image: shib.jpg
@@ -86,13 +68,13 @@
   website: https://ankitaiisc.github.io/
   twitter: "Anki98765"
 
-# - name: Katherine Keith
-#   image: katie.jpeg
-#   altimage: 
-#   position: PhD student
-#   email: kkeith (at) cs.umass.edu
-#   website: https://kakeith.github.io/
-#   twitter: "katakeith"
+- name: Marisa Hudspeth
+  image: marisa.jpg
+  altimage: 
+  position: PhD student
+  email: mhudspeth (at) cs.umass.edu
+  website: marisahudspeth.com
+  twitter: "marisahudspeth"
 
 - name: Neha Kennard
   image: neha.png
@@ -109,22 +91,6 @@
   email: kalpesh (at) cs.umass.edu
   website: https://martiansideofthemoon.github.io/
   twitter: "kalpeshk2011"
-
-- name: Xiang Lorraine Li
-  image: lorraine.jpeg
-  altimage: 
-  position: PhD student
-  email: xiangl (at) cs.umass.edu
-  website: https://people.cs.umass.edu/~xiangl/
-  twitter: "xiang_lorraine"
-
-- name: Nicholas Monath
-  image: nick.png
-  altimage: 
-  position: PhD student
-  email: nmonath (at) cs.umass.edu
-  website: https://people.cs.umass.edu/~nmonath/
-  twitter: "nicholasmonath"
 
 - name:  Sheshera Mysore
   image: sheshera.jpeg
@@ -150,13 +116,13 @@
   website: http://dhruveshp.com/
   twitter: "_dhruveshp"
 
-- name: Subendhu Rongali
-  image: subbu.png
+- name:  Chau Pham
+  image: chau.jpg
   altimage: 
   position: PhD student
-  email: srongali (at) cs.umass.edu
-  website: https://subendhurongali.netlify.app/
-  twitter:
+  email: ctpham (at) umass.edu
+  website: https://chtmp223.github.io
+  twitter: "chtmp223"
 
 - name: Simeng Sun
   image: simeng.png
