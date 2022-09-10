@@ -1,3 +1,12 @@
+- name: Dhruv Agarwal
+  image: profile_dhruv.png
+  altimage: 
+  position: PhD student
+  email: dagarwal (at) cs.umass.edu
+  website: https://people.cs.umass.edu/~dagarwal/
+  # scholar: jLpCQugAAAAJ&hl
+  twitter: "dhruvagarwal17"
+
 - name: Nader Akoury
   image: nader.png
   altimage: 
