@@ -140,6 +140,14 @@
   email: brozonoyer (at) iesl.cs.umass.edu
   website: https://www.linkedin.com/in/benjamin-rozonoyer-b45590139
 
+- name: Yixiao Song
+  image: yixiao.jpg
+  altimage: 
+  position: PhD student (linguistics)
+  email: yixiaosong (at) umass.edu
+  website: https://yixiao-song.github.io/
+  twitter: "yixiao_song"
+
 - name: Simeng Sun
   image: simeng.png
   altimage: 
@@ -179,6 +187,14 @@
   email: shufanwang (at) cs.umass.edu
   website: https://people.cs.umass.edu/~shufanwang/
   twitter: "shufan_wang_"
+
+- name: Nishant Yadav
+  image: nishant.png
+  altimage: 
+  position: PhD student
+  email: nishantyadav (at) cs.umass.edu
+  website: https://people.cs.umass.edu/~nishantyadav
+  twitter: 
 
 - name: Wenlong Zhao
   image: wenlong.png

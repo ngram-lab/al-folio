@@ -32,6 +32,16 @@ cics:
     # scholar: 5kUDcJ0AAAAJ
     description: NLP for computational social science, social factors in NLP
 
+  - name: Amir Houmansadr
+    image: amir.jpeg
+    altimage: 
+    position: Associate Professor
+    email: amir (at) cs.umass.edu
+    website: https://people.cs.umass.edu/~amir/
+    twitter: "houmansadr"
+    # scholar: 5kUDcJ0AAAAJ
+    description: Privacy and security in ML / NLP
+
   - name: Andrew McCallum
     image: andrew.jpg
     altimage: 
@@ -62,6 +72,7 @@ cics:
     website: https://ciir.cs.umass.edu/croft
     email: croft (at) cs.umass.edu
     image: croft.jpg
+
 
   - name: James Allan
     description: Information retrieval and controversy detection
@@ -207,6 +218,14 @@ socsci:
     website: https://people.umass.edu/~sharris/
     email: sharris (at) english.umass.edu
     description: Historical linguistics and non-literal language
+    # description: Historical corpus linguistics and non-literal language
+
+  - name: Moira Inghilleri
+    dept: Comparative Literature
+    image: moira.jpeg
+    website: https://www.umass.edu/complit/member/moira-inghilleri
+    email: minghilleri (at) complit.umass.edu
+    description: Translation, translation ethics, philosophy of language
     # description: Historical corpus linguistics and non-literal language
 
   - name: Ethan Zuckerman
