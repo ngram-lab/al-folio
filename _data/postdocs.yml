@@ -1,11 +1,3 @@
-- name: Michael Boratko
-  image: boratko.png
-  altimage: 
-  position: Postdoc
-  email: mboratko (at) iesl.cs.umass.edu
-  website: https://people.cs.umass.edu/~mboratko/
-  twitter:
-
 - name: Marzena Karpinska
   image: mkarpinska.jpg
   altimage: 
@@ -13,12 +5,3 @@
   email: mkarpinska (at) cs.umass.edu
   website: https://marzenakrp.github.io/
   twitter: "mar_kar_"
-
-- name: Jay-Yoon Lee
-  image: jayyoon.jpg
-  altimage: 
-  position: Postdoc
-  email: jaylee (at) iesl.cs.umass.edu
-  website: https://leejayyoon.github.io/
-  twitter: 
-
