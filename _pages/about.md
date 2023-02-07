@@ -25,7 +25,7 @@ The natural language processing group at UMass Amherst is made up of faculty and
     <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/cics_social_2022.jpg" data-zoomable="">
   </div>
   <div class="col-sm mt-3 mt-md-0">
-      <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/hike_2021.jpeg" data-zoomable="">
+      <img class="img-fluid rounded z-depth-1" src="{{ site.baseurl }}/assets/img/hike_2021.jpg" data-zoomable="">
   </div>
 </div>
 
