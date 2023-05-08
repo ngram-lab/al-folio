@@ -5,6 +5,14 @@
   title: Applications of Natural Language Processing
   url: "https://people.cs.umass.edu/~brenocon/cs490a_f21/"
   offerings:
+    - year: 2023
+      shortyear: "23"
+      by: O'Connor
+      url: https://people.cs.umass.edu/~brenocon/cs490a_f23/
+    - year: 2022
+      shortyear: "22"
+      by: Thompson
+      url: https://people.cs.umass.edu/~laurejt/teaching/CS490A-F22-syllabus.pdf
     - year: 2021
       shortyear: "21"
       by: Thompson, O'Connor
