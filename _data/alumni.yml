@@ -1,3 +1,9 @@
+- name: Dongxu Zhang
+  degree: PhD, 2023
+  website: https://zhangdongxu.github.io
+  year: 2023
+  firstjob: Researcher, ASAPP
+
 - name: Jay-Yoon Lee
   website: https://leejayyoon.github.io/
   degree: Postdoc, 2022
@@ -177,3 +183,4 @@
   degree: Postdoc, 2009-2011
   website: https://www.riedelcastro.org/
   currentjob: Researcher, Facebook AI Research and Professor, University College London
+
