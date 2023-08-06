@@ -7,7 +7,7 @@
     url: https://marzenakrp.github.io/
 
 "Kennard":
-  - firstname: ["Neha Nayak"]
+  - firstname: ["Neha Nayak", "Neha"]
     url: https://nnkennard.github.io/
 
 "Cai":
@@ -209,3 +209,22 @@ Nguyen:
 "Chang":
   - firstname: ["Haw-Shiuan"]
     url: https://samkendi.wixsite.com/haw-shiuan
+
+  - firstname: ["Yapei"]
+    url: https://lilakk.github.io
+
+"Dasgupta":
+  - firstname: ["Shib"]
+    url: https://ssdasgupta.github.io/
+
+"Patel":
+  - firstname: ["Dhruvesh"]
+    url: http://dhruveshp.com/
+
+"Angell":
+  - firstname: ["Rico"]
+    url: https://people.cs.umass.edu/~rangell/
+
+"Agarwal":
+  - firstname: ["Dhruv"]
+    url: https://people.cs.umass.edu/~dagarawal/
