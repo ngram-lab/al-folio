@@ -120,7 +120,7 @@ Denny:
   - url: http://www.mjdenny.com/
     firstname: ["Matt","Matthew J."]
 Ai:
-  - firstname: Qingyao
+  - firstname: ["Qingyao"]
     url: https://ir.aiqingyao.org/
 Belanger:
   - firstname: David
