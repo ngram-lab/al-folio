@@ -142,7 +142,7 @@ Sarwar:
     firstname: ["Sheikh Muhammad","Sheikh"]
 Neal:
   - url: https://people.umass.edu/anneal/
-    firstname: Anissa
+    firstname: ["Anissa"]
 Cohen:
   - url: https://dscohen.github.io/
     firstname: ["Daniel"]
