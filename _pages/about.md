@@ -48,19 +48,22 @@ The natural language processing group at UMass Amherst is made up of faculty and
   </ol>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lab_social_may_2023.jpg" alt="First photo">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/hike_2023.jpg" alt="First photo">
+    </div>
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/lab_social_may_2023.jpg" alt="Second photo">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/cics_social_2022.jpg" alt="Second photo">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/cics_social_2022.jpg" alt="Third photo">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/hike_2021.jpg" alt="Third photo">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/hike_2021.jpg" alt="Fourth photo">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/gokart.JPG" alt="Fourth photo">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/gokart.JPG" alt="Fifth photo">
     </div>
     <div class="carousel-item">
-      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/arcade.JPG" alt="Fifth photo">
+      <img class="d-block w-100" src="{{ site.baseurl }}/assets/img/arcade.JPG" alt="Sixth photo">
     </div>
   </div>
   <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
