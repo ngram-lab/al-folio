@@ -10,14 +10,11 @@ nav: true
 <p>Some NLP-related seminar series, institutes and groups at UMass:</p>
 
 <ul>
-  <li><b>UMass NLP reading group:</b> this meets approximately weekly most semesters.
-  We currently coordinate and announce via the <a
-  href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp google
-  group</a> outside the lab, as well as the internal NLP lab slack group.
-  The reading group is open to the UMass community, but for space reasons, we have to restrict CS student
-  participation
-  to those who are engaged in faculty-advised research.
-  </li>
+<li><a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">UMass NLP Seminar</a> meets approximately weekly during the semester.
+(Formerly was the NLP Reading Group.)
+Coordination and announcements are typically through the
+<a href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp mailing list</a> and/or #reading-group within the internal umass-nlp slack group.
+</li>
   <li><a href="https://ds.cs.umass.edu/mlfl">Machine Learning and Friends Lunch (MLFL)</a></li>
   <li><a href="https://ds.cs.umass.edu/ds-tea">Data Science Tea</a></li>
   <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a>, which hosts a seminar series.</li>
