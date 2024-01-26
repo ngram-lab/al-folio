@@ -1,6 +1,3 @@
-- shortname: INFO 490CA/690CA
-  title: Introduction to Social and Cultural Analytics
-  url: ../assets/pdf/info490ca-2021.pdf
 - shortname: COMPSCI 485/490A
   title: Applications of Natural Language Processing
   url: "https://people.cs.umass.edu/~brenocon/cs490a_f23/"
@@ -119,6 +116,9 @@
 - shortname: COMPSCI 791U
   url: "https://people.cs.umass.edu/~rahimi/teaching/seminar-spring2020/seminar.htm"
   title: Advanced Topics in Information Retrieval
+- shortname: INFO 490CA/690CA
+  title: Introduction to Social and Cultural Analytics
+  url: ../assets/pdf/info490ca-2021.pdf
 - shortname: LING 409/509
   url: "https://sites.google.com/site/umasslx409/"
   title: Introduction to Computational Linguistics
