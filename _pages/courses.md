@@ -79,3 +79,6 @@ ask instructors or see department websites, such as the
 <li><a href="https://www.umass.edu/linguistics/graduate-program-linguistics">Linguistics PhD program</a> (see the <a href="https://blogs.umass.edu/linguist/computational-linguistics/">computational linguistics research group</a>).</li>
 <li>If you are considering multiple departments for PhD studies, make sure to research how the structure, content, and outcomes of study differ between departments.</li>
 </ul>
+
+<p>
+In addition, we greet the many students from a variety of departments, across humanities, social sciences, sciences, engineering, and other Five Colleges, who take NLP and related courses at UMass.  For particular courses, at times there can be enrollment constraints; interested students should contact instructors if they have questions.
