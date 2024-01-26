@@ -80,5 +80,8 @@ ask instructors or see department websites, such as the
 <li>If you are considering multiple departments for PhD studies, make sure to research how the structure, content, and outcomes of study differ between departments.</li>
 </ul>
 
+<h1>Course Enrollments</h1>
 <p>
-In addition, we greet the many students from a variety of departments, across humanities, social sciences, sciences, engineering, and other Five Colleges, who take NLP and related courses at UMass.  For particular courses, at times there can be enrollment constraints; interested students should contact instructors if they have questions.
+Many students from a variety of departments, across humanities, social sciences, sciences, engineering, and other Five Colleges, have taken NLP and related courses at UMass.  Depending on the particular department and course, at times there can be enrollment constraints; interested students can contact instructors if they have questions.
+
+<p>For COMPSCI and INFO courses, these CICS webpages on [undergraduate enrollments](https://www.cics.umass.edu/ugrad-education/overrides) and [graduate enrollments](https://www.cics.umass.edu/content/overrides-non-computer-science-graduate-students) may be relevant.
