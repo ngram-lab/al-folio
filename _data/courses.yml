@@ -1,24 +1,27 @@
 - shortname: INFO 490CA/690CA
   title: Introduction to Social and Cultural Analytics
   url: ../assets/pdf/info490ca-2021.pdf
-- shortname: COMPSCI 490A
+- shortname: COMPSCI 485/490A
   title: Applications of Natural Language Processing
   url: "https://people.cs.umass.edu/~brenocon/cs490a_f23/"
   offerings:
+    - year: 2024
+      shortyear: "S24"
+      by: O'Connor
     - year: 2023
-      shortyear: "23"
+      shortyear: "F23"
       by: O'Connor
       url: https://people.cs.umass.edu/~brenocon/cs490a_f23/
     - year: 2022
-      shortyear: "22"
+      shortyear: "F22"
       by: Thompson
       url: https://people.cs.umass.edu/~laurejt/teaching/CS490A-F22-syllabus.pdf
     - year: 2021
-      shortyear: "21"
+      shortyear: "F21"
       by: Thompson, O'Connor
       url: https://people.cs.umass.edu/~brenocon/cs490a_f21/
     - year: 2020
-      shortyear: "20"
+      shortyear: "F20"
       by: O'Connor
       url: https://people.cs.umass.edu/~brenocon/cs490a_f20/
 - shortname: COMPSCI 585
@@ -75,7 +78,14 @@
   url: "https://people.cs.umass.edu/~miyyer/cs685/"
   title: Advanced Natural Language Processing
   offerings:
+    - year: 2023
+      shortyear: "S23"
+      url: https://web.archive.org/web/20231118223613/https://people.cs.umass.edu/~miyyer/cs685/
+    - year: 2022
+      shortyear: "S22"
+      url: https://web.archive.org/web/20220810174927/https://people.cs.umass.edu/~miyyer/cs685/
     - year: 2021
+      url: https://web.archive.org/web/20220705094056/https://people.cs.umass.edu/~miyyer/cs685/
       shortyear: "S21"
       url: https://people.cs.umass.edu/~brenocon/cs685_s21/
     - year: 2020
