@@ -84,4 +84,4 @@ ask instructors or see department websites, such as the
 <p>
 Many students from a variety of departments, across humanities, social sciences, sciences, engineering, and other Five Colleges, have taken NLP and related courses at UMass.  Depending on the particular department and course, at times there can be enrollment constraints; interested students can contact instructors if they have questions.
 
-<p>For COMPSCI and INFO courses, these CICS webpages on [undergraduate enrollments](https://www.cics.umass.edu/ugrad-education/overrides) and [graduate enrollments](https://www.cics.umass.edu/content/overrides-non-computer-science-graduate-students) may be relevant.
+<p>For COMPSCI and INFO courses, these CICS webpages on <a href="https://www.cics.umass.edu/ugrad-education/overrides">undergraduate enrollments</a> and <a href="https://www.cics.umass.edu/content/overrides-non-computer-science-graduate-students">graduate enrollments</a> may be relevant.
