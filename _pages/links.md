@@ -7,18 +7,22 @@ order: 6
 nav: true
 ---
 
-<p>Some NLP-related seminar series, institutes and groups at UMass:</p>
+<p>Some NLP-related seminar series at UMass:</p>
 
 <ul>
 <li><a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">UMass NLP Seminar</a> meets approximately weekly during the semester.
 (Formerly was the NLP Reading Group.)
 Coordination and announcements are typically through the
-<a href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp mailing list</a> and/or #reading-group within the internal umass-nlp slack group.
+<a href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp mailing list</a> and/or #reading-group within the umass-nlp slack group.
 </li>
-  <li><a href="https://ds.cs.umass.edu/mlfl">Machine Learning and Friends Lunch (MLFL)</a></li>
-  <li><a href="https://ds.cs.umass.edu/ds-tea">Data Science Tea</a></li>
-  <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a>, which hosts a seminar series.</li>
+  <li><a href="https://ds.cs.umass.edu/mlfl">Machine Learning and Friends Lunch (MLFL)</a></li>, a seminar series including some NLP-related speakers.
+  <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a>, which hosts a seminar series with some NLP-related speakers.</li>
+</ul>
+
+<p>NLP-related institutes and groups at or near UMass:</p>
+<ul>
   <li><a href="https://ds.cs.umass.edu/">Center for Data Science</a></li>
+  <li><a href="https://blogs.umass.edu/cogsci/institute/">Cognitive Science Institute</a></li>
   <li>Research groups in CICS:
     <ul>
       <li><a href="http://ciir.cs.umass.edu/">Center for Intelligent Information Retrieval (CIIR)</a></li>
@@ -26,7 +30,6 @@ Coordination and announcements are typically through the
       <li><a href="http://slanglab.cs.umass.edu/">Socio-Statistical Language Analysis (SLANG)</a></li>
     </ul>
   </li>
-  <li><a href="https://blogs.umass.edu/cogsci/institute/">Cognitive Science Institute</a></li>
   <li>Linguistics:
     <ul>
       <li><a href="https://www.umass.edu/linguistics/">Linguistics Department</a></li>
