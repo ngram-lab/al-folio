@@ -15,8 +15,9 @@ nav: true
 Coordination and announcements are typically through the
 <a href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp mailing list</a> and/or #reading-group within the umass-nlp slack group.
 </li>
-  <li><a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch (MLFL)</a></li>, a seminar series including some NLP-related speakers.
-  <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a>, which hosts a seminar series with some NLP-related speakers.</li>
+  <li><a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch (MLFL)</a></li>
+  <li><a href="https://ciir.cs.umass.edu/talks">Center for Intelligent Information Retrieval (CIIR) Talk Series</a>
+  <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a> seminars
 </ul>
 
 <p>NLP-related institutes and groups at or near UMass:</p>
