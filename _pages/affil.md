@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /affiliates/
-title: affiliates
+title: faculty
 description:
-order: 3
+order: 2
 nav: true
 news: true  # includes a list of news items
 
@@ -28,15 +28,12 @@ Natural language processing is part of a broader multidisciplinary study of <b>c
 Humans' internal language facility is designed for communication, and thus are closely aligned with social factors in language use (as studied in sociolinguistics). And user applications — whether for health scientists, social scientists, or in other domains -- motivate important NLP problems and methods.
 {% endcomment %}
 
-<p>We list below many faculty at UMass Amherst who teach, research, and collaborate across these related areas.
-{% comment %}
-This is a list of some NLP-adjacent faculty across the UMass Amherst campus from many different departments, who use or interact with NLP methods in their studies along these lines, and often collaborate and teach related courses as well.
-{% endcomment %}
-While dividing a multidisciplinary space is always imperfect, for convenience
-we show faculty in three roughly disciplinary groups:
+<p>Below are some of the many faculty at UMass Amherst who teach, research, and collaborate across these related areas.
+While dividing a multidisciplinary space is always imperfect, they are sorted into
+three roughly disciplinary groups:
 <a href="#cics">CICS</a>,
 <a href="#ling">Linguistics</a>, and 
-the <a href="#socsci">Social Sciences and Humanities</a>.
+<a href="#socsci">Social Sciences and Humanities</a>.
 </p>
 
 <a name="cics"></a>

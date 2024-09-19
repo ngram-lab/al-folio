@@ -236,3 +236,11 @@ socsci:
     email: 
     description: Media attention, digital governance
 
+  - name: Mohammad Atari
+    dept: Psychology
+    image: mohammad-jj-crop.jpg
+    website: https://mohammadatari.com/
+    email: matari (at) umass.edu
+    twitter: MohammadAtari90
+    description: Computational psychology, ethics in AI, NLP for psychology
+
