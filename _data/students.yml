@@ -101,14 +101,6 @@
   website: http://yekyung.info/
   twitter: "YekyungKim"
 
-- name:  Sheshera Mysore
-  image: sheshera.jpeg
-  altimage: 
-  position: PhD student
-  email: smysore (at) cs.umass.edu
-  website: https://msheshera.github.io/
-  twitter: "MSheshera"
-
 - name: Tessa Masis
   image: masis.jpeg
   altimage:
@@ -133,12 +125,28 @@
   website: https://chtmp223.github.io
   twitter: "chtmp223"
 
+- name: Rishanth Rajendhran
+  image: rishanth.png
+  altimage:
+  position: PhD student
+  email: pearls_lucid0a (at) icloud.com
+  website: https://rishanthrajendhran.github.io
+  twitter: "idhurishi"
+
 - name:  Benjamin Rozonoyer
   image: benjamin.png
   altimage: 
   position: PhD student
   email: brozonoyer (at) iesl.cs.umass.edu
   website: https://www.linkedin.com/in/benjamin-rozonoyer-b45590139
+
+- name: Jenna Russell
+  image:
+  altimage:
+  position: PhD student
+  email: jrussell (at) umass.edu
+  website: https://jenna-russell.github.io
+  twitter:
 
 - name: Yixiao Song
   image: yixiao.jpg
@@ -156,13 +164,6 @@
   website: https://people.cs.umass.edu/~simengsun/
   twitter: "simeng_ssun"
 
-- name: Dung Thai
-  image: june.jpeg
-  altimage: 
-  position: PhD student
-  email: dthai (at) iesl.cs.umass.edu
-  website: https://people.cs.umass.edu/~dthai/
-  twitter: "dgthai"
 
 - name: Katherine Thai
   image: katherine.jpeg
@@ -180,13 +181,6 @@
   website: https://people.cs.umass.edu/~shufanwang/
   twitter: "shufan_wang_"
 
-- name: Nishant Yadav
-  image: nishant.png
-  altimage: 
-  position: PhD student
-  email: nishantyadav (at) cs.umass.edu
-  website: https://people.cs.umass.edu/~nishantyadav
-  twitter: 
 
 - name: Wenlong Zhao
   image: wenlong.png
