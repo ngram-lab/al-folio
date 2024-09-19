@@ -1,3 +1,9 @@
+- name: Simeng Sun
+  degree: PhD, 2024
+  website: https://simengsun.github.io/
+  year: 2024
+  firstjob: Research Scientist, NVidia
+
 - name: Nader Akoury
   degree: PhD, 2024
   website: https://people.cs.umass.edu/~nsa/
@@ -89,7 +95,7 @@
   degree: PhD, 2022
   year: 2022
   firstjob: Postdoctoral Researcher, University of Washington
-  currentjob: Amazon
+  currentjob: AWS AI Labs
 
 - name: Su Lin Blodgett
   website: https://sblodgett.github.io/
