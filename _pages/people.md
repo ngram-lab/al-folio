@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 </article> -->
 
 <p>
-We are the members of the UMass Natural Language Processing lab in <a href="https://www.cics.umass.edu/">CICS</a>! This page contains current faculty, postdocs, and graduate students; see also our <a href="../alumni/">alumni</a> and <a href="../affiliates/">faculty affiliates</a>.
+We are the members of the UMass Natural Language Processing lab in <a href="https://www.cics.umass.edu/">CICS</a>! This page contains current faculty, postdocs, and PhD students; see also our <a href="../alumni/">alumni</a> and <a href="../affiliates/">faculty affiliates</a>.
 </p>
 
 <a name="fac"></a>
