@@ -23,7 +23,7 @@
       url: https://people.cs.umass.edu/~brenocon/cs490a_f20/
 - shortname: COMPSCI 585
   title: Introduction to Natural Language Processing
-  note: "As of 2020 this is not offered. Please take 490A or 685 as appropriate."
+  # note: "As of 2020 this is not offered. Please take 490A or 685 as appropriate."
   offerings:
     - year: 2019
       shortyear: "19"
