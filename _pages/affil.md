@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /affiliates/
-title: affiliates
+title: faculty
 description:
-order: 3
+order: 2
 nav: true
 news: true  # includes a list of news items
 
@@ -36,7 +36,7 @@ While dividing a multidisciplinary space is always imperfect, for convenience
 we show faculty in three roughly disciplinary groups:
 <a href="#cics">CICS</a>,
 <a href="#ling">Linguistics</a>, and 
-the <a href="#socsci">Social Sciences and Humanities</a>.
+<a href="#socsci">Social Sciences and Humanities</a>.
 </p>
 
 <a name="cics"></a>

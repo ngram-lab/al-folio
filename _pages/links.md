@@ -3,21 +3,21 @@ layout: page
 permalink: /links/
 title: links
 description:
-order: 6
+order: 7
 nav: true
 ---
 
 <p>Some NLP-related seminar series at UMass:</p>
 
 <ul>
-<li><a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">UMass NLP Seminar</a> meets approximately weekly during the semester.
-(Formerly was the NLP Reading Group.)
+  <li><a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">UMass NLP Seminar</a> meets approximately weekly during the semester.
+(Formerly known as the NLP Reading Group.)
 Coordination and announcements are typically through the
 <a href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp mailing list</a> and/or #reading-group within the umass-nlp slack group.
-</li>
+  </li>
   <li><a href="https://umass-mlfl.github.io/">Machine Learning and Friends Lunch (MLFL)</a></li>
-  <li><a href="https://ciir.cs.umass.edu/talks">Center for Intelligent Information Retrieval (CIIR) Talk Series</a>
-  <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a> seminars
+  <li><a href="https://ciir.cs.umass.edu/talks">Center for Intelligent Information Retrieval (CIIR) Talk Series</a></li>
+  <li><a href="http://www.cssi.umass.edu/">Computational Social Science Institute (CSSI)</a> seminars</li>
 </ul>
 
 <p>NLP-related institutes and groups at or near UMass:</p>

@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /members/
-title: members
-order: 2
+title: lab
+order: 3
 description:
 nav: true
 news: true  # includes a list of news items
@@ -15,7 +15,7 @@ news: true  # includes a list of news items
 </article> -->
 
 <p>
-  We are the members of the UMass Natural Language Processing lab in CICS! This page contains current <a href="#fac">faculty</a>, <a href="#postdocs">postdocs</a>, <a href="#phd">PhD students</a>, and <a href="#alum">alumni</a>. See also our broader list of <a href="../affiliates/">multidisciplinary affiliates</a>.
+We are the members of the UMass Natural Language Processing lab in <a href="https://www.cics.umass.edu/">CICS</a>! This page contains current faculty, postdocs, and graduate students; see also our <a href="../alumni/">alumni</a> and <a href="../affiliates/">faculty affiliates</a>.
 </p>
 
 <a name="fac"></a>
@@ -48,35 +48,3 @@ news: true  # includes a list of news items
 </div>
 <hr>
 
-<a name="alum"></a>
-<h2>Alumni</h2>
-
-<p>Some recent and past UMass NLP alumni. (Incomplete list - still under construction. See also <a href="http://www.iesl.cs.umass.edu/people">IESL alumni list</a>.)</p>
-
-<ul>
-  {% assign sorted = site.data.alumni | sort: "year" | reverse %}
-  {% for person in sorted %}
-    <li>
-      {% if person.website %}
-        <a href="{{person.website}}" target="_blank">{{person.name}}</a>
-      {% else %}
-        {{person.name}}
-      {% endif %}
-      ({{person.degree}})
-      {% if person.firstjob %}
-        → {{person.firstjob}}
-      {% endif %}
-      {% if person.nextjob %}
-        → {{person.nextjob}}
-      {% endif %}
-      {% if person.currentjob %}
-        {% unless person.firstjob %}
-          → &hellip;
-        {% endunless %}
-        → {{person.currentjob}}
-      {% endif %}
-    </li>
-  {% endfor %}
-</ul>
-
-  

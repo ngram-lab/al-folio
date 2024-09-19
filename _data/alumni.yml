@@ -1,3 +1,9 @@
+- name: Nader Akoury
+  degree: PhD, 2024
+  website: https://people.cs.umass.edu/~nsa/
+  year: 2024
+  firstjob: Postdoctoral Researcher, Cornell University
+
 - name: Kalpesh Krishna
   degree: PhD, 2023
   website: https://martiansideofthemoon.github.io/
@@ -38,21 +44,21 @@
   website: https://ken77921.github.io/
   degree: PhD, 2022
   year: 2022
-  firstjob: Postdoctoral Researcher, Amazon Alexa AI
+  firstjob: Postdoc Researcher, Amazon Alexa AI
 
 - name: Xiang Lorraine Li
   website: https://people.cs.umass.edu/~xiangl/
   degree: PhD, 2022
   year: 2022
   firstjob: Young Investigator, AI2
-  nextjob: Assistant Professor, University of Pittsburgh (starting 2023)
+  nextjob: Assistant Professor, University of Pittsburgh
 
 - name: Katherine Keith
   website: https://kakeith.github.io/
   degree: PhD, 2021
   year: 2021
-  firstjob: Young Investigator, AI2 (starting 2021)
-  nextjob: Assistant Professor, Williams College (starting 2022)
+  firstjob: Young Investigator, AI2
+  nextjob: Assistant Professor, Williams College
 
 - name: Abram Handler
   website: https://www.abehandler.com/
@@ -120,7 +126,7 @@
   website: http://www.cs.utah.edu/~riloff/
   year: 1994
   degree: PhD, 1994, advisor Wendy Lehnert
-  currentjob: Professor, University of Utah
+  currentjob: Professor, University of Arizona
 
 - name: David Mimno
   website: https://mimno.infosci.cornell.edu/
