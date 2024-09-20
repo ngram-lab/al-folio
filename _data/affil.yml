@@ -10,6 +10,13 @@ cics:
     description: Cultural analytics, interpretability, data-centric interventions
     # scholar: 5kUDcJ0AAAAJ
 
+  - name: Chuang Gan
+    email: chuangg (at) umass.edu
+    website: https://people.csail.mit.edu/ganchuang/
+    twitter: "gan_chuang"
+    description: Computer vision, multimodal foundation models
+    image: chuanggan.jpg
+
   - name: Mohit Iyyer
     image: mohit.jpg
     altimage: 
