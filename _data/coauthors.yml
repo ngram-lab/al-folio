@@ -240,3 +240,113 @@ Nguyen:
 "Agarwal":
   - firstname: ["Dhruv"]
     url: https://people.cs.umass.edu/~dagarawal/
+
+############
+
+Allan:
+- firstname:
+  - James
+  url: https://ciir.cs.umass.edu/~allan/
+Atari:
+- firstname:
+  - Mohammad
+  url: https://mohammadatari.com/
+Becker:
+- firstname:
+  - Michael
+  url: https://becker.phonologist.org/
+Bhatt:
+- firstname:
+  - Rajesh
+  url: https://people.umass.edu/bhatt/
+Croft:
+- firstname:
+  - W.
+  url: https://ciir.cs.umass.edu/croft
+Dillon:
+- firstname:
+  - Brian
+  url: https://people.umass.edu/bwdillon/
+Fiterau:
+- firstname:
+  - Madalina
+  url: https://www.cics.umass.edu/people/fiterau-brostean-ina
+Grabowicz:
+- firstname:
+  - Przemyslaw
+  url: https://people.cs.umass.edu/~grabowicz/
+Gross:
+- firstname:
+  - Justin
+  url: http://justinhgross.com/
+Harris:
+- firstname:
+  - Stephen
+  url: https://people.umass.edu/~sharris/
+Houmansadr:
+- firstname:
+  - Amir
+  url: https://people.cs.umass.edu/~amir/
+Inghilleri:
+- firstname:
+  - Moira
+  url: https://www.umass.edu/complit/member/moira-inghilleri
+Iyyer:
+- firstname:
+  - Mohit
+  url: http://people.cs.umass.edu/~miyyer/
+Jarosz:
+- firstname:
+  - Gaja
+  url: https://blogs.umass.edu/jarosz/
+Lan:
+- firstname:
+  - Andrew
+  url: https://people.umass.edu/~andrewlan/
+Mahyar:
+- firstname:
+  - Narges
+  url: https://groups.cs.umass.edu/nmahyar/
+Maji:
+- firstname:
+  - Subhransu
+  url: https://people.cs.umass.edu/~smaji/
+
+Momma:
+- firstname:
+  - Shota
+  url: https://shotam.github.io/
+
+Pater:
+- firstname:
+  - Joe
+  url: https://blogs.umass.edu/pater/
+Rahimi:
+- firstname:
+  - Razieh
+  url: https://people.cs.umass.edu/~rahimi/
+Rice:
+- firstname:
+  - Doug
+  url: http://douglas-rice.net/
+
+Xu:
+- firstname:
+  - Weiai
+  url: https://curiositybits.cc/
+Yu:
+- firstname:
+  - Hong
+  url: https://bio-nlp.org/
+- firstname:
+  - Kristine
+  url: https://www.krisyu.org/
+Zamani:
+- firstname:
+  - Hamed
+  url: https://groups.cs.umass.edu/zamani/
+Zuckerman:
+- firstname:
+  - Ethan
+  url: https://ethanzuckerman.com/
+
