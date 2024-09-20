@@ -16,7 +16,15 @@
     {% if entry.type == "thesis" %}
       {{reference}}
     {% else %}
-      <div class="title">{{entry.title}}</div>
+      <div class="title">
+        {% if entry.url %}
+          <a href="{{entry.url}}" target="_blank">{{entry.title}}</a>
+        {% elsif entry.paper && !entry.url && (entry.paper contains '://') %}
+          <a href="{{entry.paper}}" target="_blank">{{entry.title}}</a>
+        {% else %}
+          {{entry.title}}
+        {% endif %}
+      </div>
       <div class="author">
         {% for author in entry.author_array %}
           {% assign author_is_self = false %}
