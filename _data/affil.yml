@@ -253,3 +253,12 @@ socsci:
     twitter: MohammadAtari90
     description: Computational psychology, ethics in AI, NLP for psychology
 
+  - name: Kelsey Soub
+    dept: Public Policy
+    image: kelsey.jpeg
+    email: kshoub (at) umass.edu
+    website: https://www.kelseyshoub.com/
+    twitter: "k_shoub"
+    description: Identity, policing, discourse and policy change
+    # scholar: 5kUDcJ0AAAAJ
+    #
