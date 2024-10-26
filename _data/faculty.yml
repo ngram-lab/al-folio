@@ -1,12 +1,23 @@
-- name: Laure Thompson
-  image: laure.jpg
+# - name: Laure Thompson
+#   image: laure.jpg
+#   altimage: 
+#   position: Assistant Professor
+#   email: laurejt (at) cs.umass.edu
+#   website: https://people.cs.umass.edu/~laurejt/
+#   twitter: "thompson_laure"
+#   description: Cultural analytics, interpretability, data-centric interventions
+#   # scholar: 5kUDcJ0AAAAJ
+#
+#
+- name: Katrin Erk
+  image: katrin.jpg
   altimage: 
-  position: Assistant Professor
-  email: laurejt (at) cs.umass.edu
-  website: https://people.cs.umass.edu/~laurejt/
-  twitter: "thompson_laure"
-  description: Cultural analytics, interpretability, data-centric interventions
-  # scholar: 5kUDcJ0AAAAJ
+  position: 
+  email: 
+  website: https://www.katrinerk.com/
+  # scholar: v7kFHRoAAAAJ
+  dept: CICS & Linguistics (starting 2025)
+  description: Computational semantics
 
 - name: Mohit Iyyer
   image: mohit.jpg
@@ -18,7 +29,9 @@
   twitter: "MohitIyyer"
   # github: winstonchiong
   # orcid: "orcid.org/0000-0001-9188-1920"
-  description: Text generation, QA, representation learning, narratives
+  # dept: (Through 2024)
+  dept: Adj. affil. (as of 2025)
+  description: Text generation, QA, narratives
 
 - name: Brendan O'Connor
   image: brendan2.jpg

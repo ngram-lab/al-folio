@@ -29,15 +29,15 @@ Humans' internal language facility is designed for communication, and thus are c
 {% endcomment %}
 
 <p>Below are some of the many faculty at UMass Amherst who teach, research, and collaborate across these related areas.
-While dividing a multidisciplinary space is always imperfect, they are sorted into
-three roughly disciplinary groups:
+This includes faculty with appointments in
 <a href="#cics">CICS</a>,
 <a href="#ling">Linguistics</a>, and 
+several other departments across the 
 <a href="#socsci">Social Sciences and Humanities</a>.
 </p>
 
 <a name="cics"></a>
-<h2>Information and Computer Sciences</h2>
+<h2>Information and Computer Sciences (CICS)</h2>
 <div class="row">
 {% assign sorted = site.data.affil.cics.members | sort: 'name' %}
 {% for person in sorted %}

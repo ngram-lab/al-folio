@@ -1,13 +1,30 @@
 cics:
   members:
+  - name: Ethan Zuckerman
+    dept: Public Policy, Comm., and Information
+    twitter: "EthanZ"
+    image: ethanz.jpg
+    website: https://ethanzuckerman.com/
+    email: 
+    description: Media attention, digital governance
+    
+  - name: Katrin Erk
+    image: katrin.jpg
+    email: 
+    website: https://www.katrinerk.com/
+    # scholar: v7kFHRoAAAAJ
+    dept: CICS & Linguistics
+    description: Computational semantics
+
   - name: Laure Thompson
     image: laure.jpg
     altimage: 
     position: Assistant Professor
+    dept: Adjunct affiliate, CICS
     email: laurejt (at) cs.umass.edu
     website: https://people.cs.umass.edu/~laurejt/
     twitter: "thompson_laure"
-    description: Cultural analytics, interpretability, data-centric interventions
+    description: Cultural analytics, interpretability
     # scholar: 5kUDcJ0AAAAJ
 
   - name: Chuang Gan
@@ -24,10 +41,9 @@ cics:
     email: miyyer (at) cs.umass.edu
     website: http://people.cs.umass.edu/~miyyer/
     # scholar: jLpCQugAAAAJ&hl
-    twitter: "Mohit Iyyer"
-    # github: winstonchiong
-    # orcid: "orcid.org/0000-0001-9188-1920"
-    description: Text generation, QA, representation learning, narratives
+    twitter: "MohitIyyer"
+    dept: Adjunct affiliate, CICS (as of 2025)
+    description: Text generation, QA
 
   - name: Brendan O'Connor
     image: brendan2.jpg
@@ -97,7 +113,7 @@ cics:
     description: Information retrieval and explainable search
 
   - name: Hong Yu
-    dept: UMass Lowell; adjunct affiliate in CICS
+    dept: Adjunct affiliate, CICS
     description: Biomedical NLP
     website: https://bio-nlp.org/
     scholar: TyXe64wAAAAJ
@@ -108,7 +124,8 @@ cics:
     website: https://people.cs.umass.edu/~grabowicz/
     email: przemyslslaw (at) gmail.com
     image: Przemek-3.jpg
-    description: Computational social science, fair and explainable ML
+    description: Comp. social science, fair and explainable ML
+    dept: Adjunct affiliate, CICS
     twitter: "przemyslslaw"
 
   - name: Andrew Lan
@@ -134,9 +151,19 @@ cics:
 
 # todo - chuang
 
+joint:
+
 
 ling:
   members:
+  - name: Katrin Erk
+    image: katrin.jpg
+    email: 
+    website: https://www.katrinerk.com/
+    # scholar: v7kFHRoAAAAJ
+    dept: CICS & Linguistics
+    description: Computational semantics
+    
   - name: Brian Dillon
     description: Computational psycholinguistics
     website: https://people.umass.edu/bwdillon/
@@ -145,7 +172,7 @@ ling:
     image: dillon.jpg
 
   - name: Shota Momma
-    website: https://shotam.github.io/
+    website: https://websites.umass.edu/snegishi/
     image: shota.jpg
     email: snegishi (at) umass.edu
     twitter: "shota_momma"
@@ -192,17 +219,18 @@ ling:
 
 socsci:
   members:
-  - name: Doug Rice
-    dept: Political Science
+  - name: Douglas Rice
+    dept: Political Science and Legal Studies
     image: rice.jpg
     description: Computational legal studies
     email: drrice (at) umass.edu
     website: http://douglas-rice.net/
 
   - name: Justin Gross
-    dept: Political Science
+    dept: Political Science and DACSS
     image: jhgross.jpeg
-    website: http://justinhgross.com/
+    website: https://www.umass.edu/political-science/about/directory/justin-h-gross
+    scholar: nFErTlcAAAAJ
     email: jhgross (at) umass.edu
     twitter: justinhgross
     description: NLP and content analysis of political ideologies and media
@@ -253,7 +281,7 @@ socsci:
     twitter: MohammadAtari90
     description: Computational psychology, ethics in AI, NLP for psychology
 
-  - name: Kelsey Soub
+  - name: Kelsey Shoub
     dept: Public Policy
     image: kelsey.jpeg
     email: kshoub (at) umass.edu
