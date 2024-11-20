@@ -3,8 +3,12 @@
   url: "https://people.cs.umass.edu/~brenocon/cs490a_f23/"
   offerings:
     - year: 2024
+      shortyear: "F24"
+      url: https://people.cs.umass.edu/~brenocon/cs485_f24/
+    - year: 2024
       shortyear: "S24"
       by: O'Connor
+      url: https://people.cs.umass.edu/~brenocon/cs485_s24/
     - year: 2023
       shortyear: "F23"
       by: O'Connor
@@ -110,6 +114,26 @@
 - shortname: COMPSCI 646
   url: "https://people.cs.umass.edu/~rahimi/teaching/cs646-fall2020/cs646.html"
   title: Information Retrieval
+- shortname: COMPSCI 692L
+  url: /seminar/
+  title: "NLP Seminar"
+  offerings:
+    - year: 2025
+      shortyear: "S25"
+      url: /seminar/
+    - year: 2024
+      shortyear: "F24"
+      url: https://people.cs.umass.edu/~miyyer/nlpseminar/
+    - year: 2024
+      shortyear: "S24"
+      url: https://people.cs.umass.edu/~miyyer/nlpseminar/spring24.html
+    - year: 2023
+      shortyear: "F23"
+      url: https://people.cs.umass.edu/~miyyer/nlpseminar/fall23.html
+    - year: 2023
+      shortyear: "S23"
+      url: https://people.cs.umass.edu/~miyyer/nlpseminar/spring23.html
+
 - shortname: COMPSCI 696DS
   url: "https://ds.cs.umass.edu/industry/industry-mentorship-program"
   title: Industry Mentorship Program
