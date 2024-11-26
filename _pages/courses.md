@@ -28,6 +28,8 @@ ask instructors or see department websites, such as the
     {{cc.shortname}}:
     {% if cc.url %}
       <a href="{{cc.url}}">{{cc.title}}</a>.
+    {% elsif cc.offerings[0].url %}
+      <a href="{{cc.offerings[0].url}}">{{cc.title}}</a>.
     {% else %}
       {{cc.title}}.
     {% endif %}

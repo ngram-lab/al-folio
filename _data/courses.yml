@@ -1,6 +1,6 @@
 - shortname: COMPSCI 485/490A
   title: Applications of Natural Language Processing
-  url: "https://people.cs.umass.edu/~brenocon/cs490a_f23/"
+  url: "https://people.cs.umass.edu/~brenocon/cs485_f24/"
   offerings:
     - year: 2024
       shortyear: "F24"
@@ -168,9 +168,16 @@
 - shortname: LING 797C
   url: "https://blogs.umass.edu/linguist797c-jarosz/"
   title: Computational Phonology
-- shortname: POLSCI 797TA / DACSS 697D
-  title: "Special Topics - Text as Data"
-  url: ../assets/pdf/polsci797ta-2021.pdf
+- shortname: DACSS 758 
+  title: "Text as Data"
+  note: "a.k.a. DACSS 697D / POLSCI 797TA"
+  offerings:
+    - year: 2022
+      shortyear: "22"
+      url: ../assets/pdf/dacss697d-2022.pdf
+    - year: 2021
+      shortyear: "21"
+      url: ../assets/pdf/polsci797ta-2021.pdf
 - shortname: COMM 497DB
   title: "Survey/Digital Behavioral Data"
   url: https://curiositybits.cc/tutorial/
