@@ -23,7 +23,7 @@ This discussion course meets Wednesdays, 11:30am-12:45pm, room CS 142 during the
 
 *Course catalog description:* Weekly seminar requiring students to read an NLP paper and discuss and review it from a variety of perspectives. Some weeks will feature invited speakers instead of paper reviews.  1 credit.
 
-For spring 2025, the NLP seminar will focus on reading and discussing the research papers of the NLP research visitors.  Visitor talks will usually not be at the class discussion time, but enrolled students will be required to attend or do make-up activities will be required.  When schedule allows, our goal is to read papers before the researcher's visit.  (Depending on the schedule, the later part of the semester may feature talks and discussions of other NLP research topics.)
+For spring 2025, the NLP seminar will focus on reading and discussing the research papers of the NLP research visitors.  Visitor talks will usually not be at the class discussion time, but enrolled students will be required to attend or do make-up activities.  When schedule allows, our goal is to read papers before the researcher's visit, and be prepared with interesting questions and discussion with them during and after their talk.  (Depending on the schedule, the later part of the semester may feature talks and discussions of other NLP research topics.)
 
 ---
 
