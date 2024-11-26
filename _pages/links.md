@@ -10,7 +10,7 @@ nav: true
 <p>Some NLP-related seminar series at UMass:</p>
 
 <ul>
-  <li><a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">UMass NLP Seminar</a> meets approximately weekly during the semester.
+  <li><a href="/seminar/">UMass NLP Seminar</a> meets approximately weekly during the semester.
 (Formerly known as the NLP Reading Group.)
 Coordination and announcements are typically through the
 <a href="https://groups.google.com/forum/#!forum/umass-nlp">umass-nlp mailing list</a> and/or #reading-group within the umass-nlp slack group.

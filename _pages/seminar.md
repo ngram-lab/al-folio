@@ -2,9 +2,9 @@
 layout: page
 permalink: /seminar/
 title: seminar
-#order: 4
+order: 6.5
 description:
-nav: false
+nav: true
 
 ---
 
