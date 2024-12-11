@@ -6,6 +6,8 @@ dd = yaml.safe_load(open("affil.yml"))
 bigout = defaultdict(list)
 
 for k in dd.keys():
+    if not dd[k]: continue
+
     for mm in dd[k]['members']:
         first = mm['name'].split()[0]
         last = mm['name'].split()[-1]
@@ -14,4 +16,5 @@ for k in dd.keys():
         # if last in bigout: print("WTF",last)
         bigout[last].append(out)
 
+bigout = dict(bigout)
 print(yaml.dump(bigout))

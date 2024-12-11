@@ -96,7 +96,6 @@ cics:
     email: croft (at) cs.umass.edu
     image: croft.jpg
 
-
   - name: James Allan
     description: Information retrieval and controversy detection
     website: https://ciir.cs.umass.edu/~allan/
@@ -149,9 +148,13 @@ cics:
     description: Visual recognition, interpretable AI
     twitter: majisubhransu
 
-# todo - chuang
-
-joint:
+  - name: Juan Zhai
+    website: https://people.cs.umass.edu/~juanzhai/
+    email: juanzhai (at) umass dot edu
+    image: juanzhai.png
+    # description: Software engineering and NLP
+    description: Software engineering-focused NLP, MT testing and repair
+    twitter: 
 
 
 ling:
