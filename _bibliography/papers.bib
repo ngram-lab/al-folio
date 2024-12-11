@@ -2103,3 +2103,46 @@ year={2021}
 abbr={JLC},
 url={https://doi.org/10.1086/701130}
 }
+
+-----------------------
+
+@article{10.1145/3643767,
+  abbr={PACMSE},
+author = {Jiang, Weipeng and Zhai, Juan and Ma, Shiqing and Zhang, Xiaoyu and Shen, Chao},
+title = {COSTELLO: Contrastive Testing for Embedding-Based Large Language Model as a Service Embeddings},
+year = {2024},
+issue_date = {July 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {1},
+number = {FSE},
+url = {https://doi.org/10.1145/3643767},
+doi = {10.1145/3643767},
+abstract = {Large language models have gained significant popularity and are often provided as a service (i.e., LLMaaS).  Companies like OpenAI and Google provide online APIs of LLMs to allow downstream users to create innovative applications.  Despite its popularity, LLM safety and quality assurance is a well-recognized concern in the real world, requiring extra efforts for testing these LLMs.  Unfortunately, while end-to-end services like ChatGPT have garnered rising attention in terms of testing, the LLMaaS embeddings have comparatively received less scrutiny.  We state the importance of testing and uncovering problematic individual embeddings without considering downstream applications.  The abstraction and non-interpretability of embedded vectors, combined with the black-box inaccessibility of LLMaaS, make testing a challenging puzzle.  This paper proposes COSTELLO, a black-box approach to reveal potential defects in abstract embedding vectors from LLMaaS by contrastive testing.  Our intuition is that high-quality LLMs can adequately capture the semantic relationships of the input texts and properly represent their relationships in the high-dimensional space.  For the given interface of LLMaaS and seed inputs, COSTELLO can automatically generate test suites and output words with potential problematic embeddings.  The idea is to synthesize contrastive samples with guidance, including positive and negative samples, by mutating seed inputs.  Our synthesis guide will leverage task-specific properties to control the mutation procedure and generate samples with known partial relationships in the high-dimensional space.  Thus, we can compare the expected relationship (oracle) and embedding distance (output of LLMs) to locate potential buggy cases.  We evaluate COSTELLO on 42 open-source (encoder-based) language models and two real-world commercial LLMaaS.  Experimental results show that COSTELLO can effectively detect semantic violations, where more than 62\% of violations on average result in erroneous behaviors (e.g., unfairness) of downstream applications.},
+journal = {Proc. ACM Softw. Eng.},
+month = jul,
+articleno = {41},
+numpages = {23},
+keywords = {Contrastive Testing, Embeddings, LLMaaS}
+}
+
+@article{10.1145/3640329,
+  abbr={TOSEM},
+author = {Zhang, Quanjun and Zhai, Juan and Fang, Chunrong and Liu, Jiawei and Sun, Weisong and Hu, Haichuan and Wang, Qingyu},
+title = {Machine Translation Testing via Syntactic Tree Pruning},
+year = {2024},
+issue_date = {June 2024},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+volume = {33},
+number = {5},
+issn = {1049-331X},
+url = {https://doi.org/10.1145/3640329},
+doi = {10.1145/3640329},
+abstract = {Machine translation systems have been widely adopted in our daily life, making life easier and more convenient. Unfortunately, erroneous translations may result in severe consequences, such as financial losses. This requires to improve the accuracy and the reliability of machine translation systems. However, it is challenging to test machine translation systems because of the complexity and intractability of the underlying neural models. To tackle these challenges, we propose a novel metamorphic testing approach by syntactic tree pruning (STP) to validate machine translation systems. Our key insight is that a pruned sentence should have similar crucial semantics compared with the original sentence. Specifically, STP (1) proposes a core semantics-preserving pruning strategy by basic sentence structures and dependency relations on the level of syntactic tree representation, (2) generates source sentence pairs based on the metamorphic relation, and (3) reports suspicious issues whose translations break the consistency property by a bag-of-words model. We further evaluate STP on two state-of-the-art machine translation systems (i.e., Google Translate and Bing Microsoft Translator) with 1,200 source sentences as inputs. The results show that STP accurately finds 5,073 unique erroneous translations in Google Translate and 5,100 unique erroneous translations in Bing Microsoft Translator (400\% more than state-of-the-art techniques), with 64.5\% and 65.4\% precision, respectively. The reported erroneous translations vary in types and more than 90\% of them are not found by state-of-the-art techniques. There are 9,393 erroneous translations unique to STP, which is 711.9\% more than state-of-the-art techniques. Moreover, STP is quite effective in detecting translation errors for the original sentences with a recall reaching 74.0\%, improving state-of-the-art techniques by 55.1\% on average.},
+journal = {ACM Trans. Softw. Eng. Methodol.},
+month = jun,
+articleno = {125},
+numpages = {39},
+keywords = {Software testing, machine translation, metamorphic testing}
+}
