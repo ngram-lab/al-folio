@@ -6,11 +6,12 @@ cics:
     image: ethanz.jpg
     website: https://ethanzuckerman.com/
     email: 
+    email_hidden: ethanz@umass.edu
     description: Media attention, digital governance
     
   - name: Katrin Erk
     image: katrin.jpg
-    email: 
+    email_hidden: katrin.erk@utexas.edu
     website: https://www.katrinerk.com/
     # scholar: v7kFHRoAAAAJ
     dept: CICS & Linguistics
