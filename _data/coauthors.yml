@@ -241,7 +241,13 @@ Nguyen:
   - firstname: ["Dhruv"]
     url: https://people.cs.umass.edu/~dagarawal/
 
+#####
+
+
 ############
+#
+# Below: seeded from autogen from affil.yml.  If regenerating, look at diffs to
+# replace manual modifications
 
 Allan:
 - firstname:
@@ -333,7 +339,9 @@ Rice:
 Xu:
 - firstname:
   - Weiai
+  - Weiai Wayne
   url: https://curiositybits.cc/
+
 Yu:
 - firstname:
   - Hong
