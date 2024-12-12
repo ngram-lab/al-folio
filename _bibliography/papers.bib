@@ -9,6 +9,8 @@
     url = "https://aclanthology.org/2023.findings-emnlp.456",
 }
 
+----------------------------------------
+
 @inproceedings{kennedy2022gab, 
 	author = {Brendan Kennedy and Mohammad Atari and Aida Mostafazadeh Davani and Leigh Yeh and Ali Omrani and  Yehsong Kim and Kris Coombs and Shreya Havaldar and Gwenyth Portillo-Wightman and Elaine Gonzalez and Joe Hoover and Aida Azatian and Alyzeh Hussain and Austin Lara and Gabriel Cardenas and Adam Omary and Christina Park and Xin Wang and Clarisa Wijaya and Yong Zhang and Beth Meyerowitz and  Morteza Dehghani}, 
 	booktitle = "Language Resources and Evaluation", 
@@ -16,6 +18,111 @@
 	year = {2022}, 
 	abbr = {LREC}, 
 	url = {https://doi.org/10.1007/s10579-021-09569-x} }
+
+@inproceedings{chen-etal-2024-surveying,
+  abbr={EMNLP},
+    title = "Surveying the Dead Minds: Historical-Psychological Text Analysis with Contextualized Construct Representation ({CCR}) for Classical {C}hinese",
+    author = "Chen, Yuqi  and
+      Li, Sixuan  and
+      Li, Ying  and
+      Atari, Mohammad",
+    editor = "Al-Onaizan, Yaser  and
+      Bansal, Mohit  and
+      Chen, Yun-Nung",
+    booktitle = "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2024",
+    address = "Miami, Florida, USA",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2024.emnlp-main.151",
+    doi = "10.18653/v1/2024.emnlp-main.151",
+    pages = "2597--2615",
+    abstract = "In this work, we develop a pipeline for historical-psychological text analysis in classical Chinese. Humans have produced texts in various languages for thousands of years; however, most of the computational literature is focused on contemporary languages and corpora. The emerging field of historical psychology relies on computational techniques to extract aspects of psychology from historical corpora using new methods developed in natural language processing (NLP). The present pipeline, called Contextualized Construct Representations (CCR), combines expert knowledge in psychometrics (i.e., psychological surveys) with text representations generated via Transformer-based language models to measure psychological constructs such as traditionalism, norm strength, and collectivism in classical Chinese corpora. Considering the scarcity of available data, we propose an indirect supervised contrastive learning approach and build the first Chinese historical psychology corpus (C-HI-PSY) to fine-tune pre-trained models. We evaluate the pipeline to demonstrate its superior performance compared with other approaches. The CCR method outperforms word-embedding-based approaches across all of our tasks and exceeds prompting with GPT-4 in most tasks. Finally, we benchmark the pipeline against objective, external data to further verify its validity.",
+}
+
+@inproceedings{omrani-etal-2023-social,
+  abbr={ACL},
+    title = "Social-Group-Agnostic Bias Mitigation via the Stereotype Content Model",
+    author = "Omrani, Ali  and
+      Salkhordeh Ziabari, Alireza  and
+      Yu, Charles  and
+      Golazizian, Preni  and
+      Kennedy, Brendan  and
+      Atari, Mohammad  and
+      Ji, Heng  and
+      Dehghani, Morteza",
+    editor = "Rogers, Anna  and
+      Boyd-Graber, Jordan  and
+      Okazaki, Naoaki",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.227",
+    doi = "10.18653/v1/2023.acl-long.227",
+    pages = "4123--4139",
+    abstract = "Existing bias mitigation methods require social-group-specific word pairs (e.g., {``}man{''} {--} {``}woman{''}) for each social attribute (e.g., gender), restricting the bias mitigation to only one specified social attribute. Further, this constraint renders such methods impractical and costly for mitigating bias in understudied and/or unmarked social groups. We propose that the Stereotype Content Model (SCM) {---} a theoretical framework developed in social psychology for understanding the content of stereotyping {---} can help debiasing efforts to become social-group-agnostic by capturing the underlying connection between bias and stereotypes. SCM proposes that the content of stereotypes map to two psychological dimensions of warmth and competence. Using only pairs of terms for these two dimensions (e.g., warmth: {``}genuine{''} {--} {``}fake{''}; competence: {``}smart{''} {--} {``}stupid{''}), we perform debiasing with established methods on both pre-trained word embeddings and large language models. We demonstrate that our social-group-agnostic, SCM-based debiasing technique performs comparably to group-specific debiasing on multiple bias benchmarks, but has theoretical and practical advantages over existing approaches.",
+}
+
+@article{davani-etal-2023-hate,
+    title = "Hate Speech Classifiers Learn Normative Social Stereotypes",
+    abbr={TACL},
+    author = "Davani, Aida Mostafazadeh  and
+      Atari, Mohammad  and
+      Kennedy, Brendan  and
+      Dehghani, Morteza",
+    journal = "Transactions of the Association for Computational Linguistics",
+    volume = "11",
+    year = "2023",
+    address = "Cambridge, MA",
+    publisher = "MIT Press",
+    url = "https://aclanthology.org/2023.tacl-1.18",
+    doi = "10.1162/tacl_a_00550",
+    pages = "300--319",
+    abstract = "Social stereotypes negatively impact individuals{'} judgments about different groups and may have a critical role in understanding language directed toward marginalized groups. Here, we assess the role of social stereotypes in the automated detection of hate speech in the English language by examining the impact of social stereotypes on annotation behaviors, annotated datasets, and hate speech classifiers. Specifically, we first investigate the impact of novice annotators{'} stereotypes on their hate-speech-annotation behavior. Then, we examine the effect of normative stereotypes in language on the aggregated annotators{'} judgments in a large annotated corpus. Finally, we demonstrate how normative stereotypes embedded in language resources are associated with systematic prediction errors in a hate-speech classifier. The results demonstrate that hate-speech classifiers reflect social stereotypes against marginalized groups, which can perpetuate social inequalities when propagated at scale. This framework, combining social-psychological and computational-linguistic methods, provides insights into sources of bias in hate-speech moderation, informing ongoing debates regarding machine learning fairness.",
+}
+
+@article{
+doi:10.1073/pnas.2407639121,
+    abbr={PNAS},
+author = {Michael E. W. Varnum  and Nicolas Baumard  and Mohammad Atari  and Kurt Gray },
+title = {Large Language Models based on historical text could offer informative tools for behavioral science},
+journal = {Proceedings of the National Academy of Sciences},
+volume = {121},
+number = {42},
+pages = {e2407639121},
+year = {2024},
+doi = {10.1073/pnas.2407639121},
+URL = {https://www.pnas.org/doi/abs/10.1073/pnas.2407639121},
+eprint = {https://www.pnas.org/doi/pdf/10.1073/pnas.2407639121}}
+
+
+@article{10.1093/pnasnexus/pgae245,
+  abbr={PNAS Nexus},
+    author = {Abdurahman, Suhaib and Atari, Mohammad and Karimi-Malekabadi, Farzan and Xue, Mona J and Trager, Jackson and Park, Peter S and Golazizian, Preni and Omrani, Ali and Dehghani, Morteza},
+    title = {Perils and opportunities in using large language models in psychological research},
+    journal = {PNAS Nexus},
+    volume = {3},
+    number = {7},
+    pages = {pgae245},
+    year = {2024},
+    month = {07},
+    abstract = {The emergence of large language models (LLMs) has sparked considerable interest in their potential application in psychological research, mainly as a model of the human psyche or as a general text-analysis tool. However, the trend of using LLMs without sufficient attention to their limitations and risks, which we rhetorically refer to as “GPTology”, can be detrimental given the easy access to models such as ChatGPT. Beyond existing general guidelines, we investigate the current limitations, ethical implications, and potential of LLMs specifically for psychological research, and show their concrete impact in various empirical studies. Our results highlight the importance of recognizing global psychological diversity, cautioning against treating LLMs (especially in zero-shot settings) as universal solutions for text analysis, and developing transparent, open methods to address LLMs’ opaque nature for reliable, reproducible, and robust inference from AI-generated data. Acknowledging LLMs’ utility for task automation, such as text annotation, or to expand our understanding of human psychology, we argue for diversifying human samples and expanding psychology’s methodological toolbox to promote an inclusive, generalizable science, countering homogenization, and over-reliance on LLMs.},
+    issn = {2752-6542},
+    doi = {10.1093/pnasnexus/pgae245},
+    url = {https://doi.org/10.1093/pnasnexus/pgae245},
+    eprint = {https://academic.oup.com/pnasnexus/article-pdf/3/7/pgae245/58645406/pgae245.pdf},
+}
+
+
+
+
+
+------------------------------------------------
+
+
+
 
 @inproceedings{mei-etal-2023-notable,
     title = "{NOTABLE}: Transferable Backdoor Attacks Against Prompt-based {NLP} Models",
