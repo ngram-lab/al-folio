@@ -263,7 +263,8 @@ socsci:
   - name: Moira Inghilleri
     dept: Comparative Literature
     image: moira.jpeg
-    website: https://www.umass.edu/complit/member/moira-inghilleri
+    # website: https://www.umass.edu/complit/member/moira-inghilleri
+    website: https://www.umass.edu/comparative-literature/about/directory/moira-inghilleri
     email: minghilleri (at) complit.umass.edu
     description: Translation, translation ethics, philosophy of language
     # description: Historical corpus linguistics and non-literal language
