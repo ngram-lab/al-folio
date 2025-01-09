@@ -22,7 +22,7 @@ nav: true
       {% else %}
         {{person.name}}
       {% endif %}
-      ({{person.degree}})
+      ({{person.degree | replace: "Wendy Lehnert", "<a href='https://en.wikipedia.org/wiki/Wendy_Lehnert'>Wendy Lehnert</a>" }})
       {% if person.firstjob %}
         → {{person.firstjob}}
       {% endif %}

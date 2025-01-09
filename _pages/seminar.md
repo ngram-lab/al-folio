@@ -36,4 +36,9 @@ The course is recommended for graduate students with experience in NLP, such as 
 
 ---
 
-Previous offerings of the NLP Seminar are listed on the [courses](/courses/) page.
+Speakers from some previous offerings of the NLP Seminar:
+  <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">Fall 2024</a>,
+  <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/spring24.html">Spring 2024</a>,
+  <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/fall23.html">Fall 2023</a>,
+  <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/spring23.html">Spring 2023</a>.
+
