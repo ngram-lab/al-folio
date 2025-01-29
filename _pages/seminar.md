@@ -25,7 +25,6 @@ All talks are in room CS 151 unless otherwise noted, and open to anyone at UMass
 - Thu Feb 27, 12pm-1pm: [Wenting Zhao](https://wenting-zhao.github.io/)
 - Tue Feb 25, 12pm-1pm: [Akari Asai](https://akariasai.github.io/)
 - Tue Mar 4, 12pm-1pm: TBA
-- Tentative: Fri Apr 11, 12pm-1:30: [Laura Biester](https://www.laurabiester.com/), in LGRC A104 (in the [CSSI seminar](https://cssi.umass.edu/) series)
 
 
 (For UMass faculty: [information on visit scheduling](https://docs.google.com/spreadsheets/d/1vnDgXpvgYlPqXd6L4KfzEL1hMXBYTpxT4qy7P8fOEbQ/edit?gid=0#gid=0).)
@@ -38,7 +37,7 @@ All talks are in room CS 151 unless otherwise noted, and open to anyone at UMass
 The course meets Wednesdays, 11:30am-12:45pm, room CS 142.  On days with a talk, we end early at 11:50am to head over to the talk.  Due to the required attendance at research talks on other days, we will end earlier in the semester.
 
 
-- Class session, **Feb 5**: nothing is due before class, but there is an assignment.  Read the following research paper before class, and bring a printout or electronic copy. Formulate at least two questions and be prepared to discuss in class: (1) a clarification question, about something you'd like to understand better about the paper; and (2) a question or comment about something you found interesting, would like to know more about, or an idea for future work.
+- Class session, **Feb 5** (short session): Brief introduction and small amount of paper discussion.  Nothing must be submitted before class, but there is an assignment.  Read the following research paper before class, and bring a printout or electronic copy. Formulate at least two questions and be prepared to discuss in class: (1) a clarification question, about something you'd like to understand better about the paper; and (2) a question or comment about something you found interesting, would like to know more about, or an idea for future work.
   - [Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs](https://aclanthology.org/2024.emnlp-main.1216/). Spangher et al., EMNLP 2024.  <br /><br />
 
 
@@ -59,6 +58,7 @@ The course meets Wednesdays, 11:30am-12:45pm, room CS 142.  On days with a talk,
 
 - One or two meetings after spring break, to be scheduled.
 
+- Tentative, additional talk: Fri Apr 11, 12pm-1:30: [Laura Biester](https://www.laurabiester.com/), in LGRC A104 (in the [CSSI seminar](https://cssi.umass.edu/) series)
 
 
 ### Course description
