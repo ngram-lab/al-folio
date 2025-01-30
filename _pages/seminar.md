@@ -17,13 +17,13 @@ This webpage has information about two NLP seminar activities for Spring 2025:  
 
 All talks are in room CS 151 unless otherwise noted, and open to anyone at UMass or the Five Colleges.
 
-- Wed Feb 5, 12pm-1pm: [Alexander Spangher](https://www.alexander-spangher.com/)
+- Wed Feb 5, 12pm-1pm: [Alexander Spangher](https://www.alexander-spangher.com/), [Planning in Creative Contexts](https://www.cics.umass.edu/events/nlp-seminar-alexander-spangher)
 - Mon Feb 10, 4pm-5pm: [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/)
 - Wed Feb 12, 12pm-1pm: [Sarah Wiegreffe](https://sarahwie.github.io/)
 - Wed Feb 19, 12pm-1pm: [Weixin Liang](https://ai.stanford.edu/~wxliang/)
 - Thu Feb 20, 12pm-1pm: [Yizhong Wang](https://homes.cs.washington.edu/~yizhongw/)
-- Thu Feb 27, 12pm-1pm: [Wenting Zhao](https://wenting-zhao.github.io/)
 - Tue Feb 25, 12pm-1pm: [Akari Asai](https://akariasai.github.io/)
+- Thu Feb 27, 12pm-1pm: [Wenting Zhao](https://wenting-zhao.github.io/)
 - Tue Mar 4, 12pm-1pm: TBA
 
 
