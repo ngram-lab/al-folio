@@ -78,6 +78,10 @@ Depending on the schedule, the later part of the semester may feature talks and 
 
 The course is recommended for graduate students with experience in NLP, such as one from the [UMass NLP courses page](/courses/).  COMPSCI 485 and 685 may be the most relevant.
 
+### Course details
+
+If you'd like to participate but cannot sign up in SPIRE, please submit your information on [this form](https://docs.google.com/forms/d/e/1FAIpQLSf5Uo4iMSvNoTGbrPyTmrYNdB6hjhvZfMotpVOzaQPaR8rm1Q/viewform?usp=dialog).
+
 ---
 
 Speakers from some previous offerings of the NLP Seminar:
