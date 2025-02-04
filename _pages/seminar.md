@@ -95,7 +95,7 @@ For each researcher, you'll submit two reviews:
 
 Comments should be written in your own words.
 
-Attendance is required at class sessions and talks, except for conflicting classes (for the talks), or for extenuating circumstances (in general).  Allowable circumstances include personal, health, religious, and similar reasons.  To make up a missed class session or talk, read an additional paper and submit a review through the form, and clearly mark what it's a makeup for.
+Attendance is required at class sessions and talks, except for conflicting classes (for the talks), or for extenuating circumstances (in general).  Allowable extenuating circumstances are those according to official University policy, including personal, health, religious observances, official University travel, etc.  To make up a missed class session or talk, read an additional paper and submit a review through the form, and clearly mark what it's a makeup for.
 
 ### Other course details
 
