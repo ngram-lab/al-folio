@@ -49,6 +49,7 @@ The course meets Wednesdays, 11:30am-12:45pm, room CS 142.  On days with a talk,
 - Feb 11: Paper review due for choice of Wiegreffe paper (for talk the next day)
 
 - Class session, Feb 12: Discussion on Wiegreffe paper, and talk on Feb 12.
+*[Note: may slightly change discussion assignment timing around here]*
 
 - Class session, Feb 19: Discussion on Liang, Wang, and Akari papers.  Note talks on Feb 19, Feb 20, and Feb 25.
 
