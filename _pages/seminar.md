@@ -40,7 +40,7 @@ The course meets Wednesdays, 11:30am-12:45pm, room CS 142.  On days with a talk,
   - Nothing must be submitted before class, but there is an assignment.  Read the following research paper before class, and bring a printout or electronic copy. Formulate at least two questions and be prepared to discuss in class: (1) a clarification question, about something you'd like to understand better about the paper; and (2) a question or comment about something you found interesting, would like to know more about, or an idea for future work.  (For this one, no paper review needs to be submitted.)
     - Paper: [Do LLMs Plan Like Human Writers? Comparing Journalist Coverage of Press Releases with LLMs](https://aclanthology.org/2024.emnlp-main.1216/). Spangher et al., EMNLP 2024.
     - No paper comments are due for this paper.
-    - But, a **talk review** is due by tomorrow, 2/6 (see below)
+    - But, a **talk review** is due tomorrow, 2/6 (see below)
 
 - Due **Sunday, Feb 9**: submit comments/questions for Tomlin paper (see instructions below).  Choose any paper you like from the author's website to read. The Google Form is due the night before the talk.
 
