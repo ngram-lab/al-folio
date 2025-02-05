@@ -97,9 +97,9 @@ How long does it take to read a paper?  Anywhere from 10 minutes to 4 hours or m
 
 As stated in the introductory session, for this course please aim for at least an hour of reading per paper.
 
-I (Brendan) might advise a multiple passes through the paper.  For example,  (1) Read the abstract and quickly skim through the paper, to get a feel for what they did overall, and what the major resesarch questions are that they are intending to address.  For typical experimentally-driven NLP papers, that includes looking through major results tables or analyses.  (2) Do a moderately deep read, taking notes on terminology, concepts, or various details you want to come back to.  (3) Go deeper on parts that you'd like to understand better, possibly including looking up previous work and such that is necessary to understand the main.
+I (Brendan) usually advise reading via multiple passes through the paper.  For example:  (1) Read the abstract and quickly skim through the rest of the paper, to get a feel for what they did overall, and what the major resesarch questions are that they are intending to address.  For typical experimentally-driven or empirical NLP papers, this includes seeing what all the tables and figures are.  (2) Do a moderately deep read, taking notes on terminology, concepts, or various details you want to come back to.  (3) Go deeper on parts that you'd like to understand better, possibly including looking up previous work and such that is necessary to understand the main things you want to learn.
 
-The important thing is to NOT start with a deep read, which can bog you down and cause you to spend too much time on less important details (or 
+The important thing is to NOT start with a deep read, which can bog you down and cause you to spend too much time on less important details.
 
 ### Other course details
 
