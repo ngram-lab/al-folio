@@ -18,7 +18,7 @@ This webpage has information about two NLP seminar activities for Spring 2025:  
 All talks are in room CS 151 unless otherwise noted, and open to anyone at UMass or the Five Colleges.
 
 - Wed Feb 5, 12pm-1pm: [Alexander Spangher](https://www.alexander-spangher.com/), [Planning in Creative Contexts](https://www.cics.umass.edu/events/nlp-seminar-alexander-spangher)
-- Mon Feb 10, 4pm-5pm: [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/), [Reasoning with Language Models](https://www.cics.umass.edu/events/nlp-seminar-nicholas-tomlin)
+- [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/): date TBA (Feb 10 talk cancelled)
 - Wed Feb 12, 12pm-1pm: [Sarah Wiegreffe](https://sarahwie.github.io/)
 - Wed Feb 19, 12pm-1pm: [Weixin Liang](https://ai.stanford.edu/~wxliang/)
 - Thu Feb 20, 12pm-1pm: [Yizhong Wang](https://homes.cs.washington.edu/~yizhongw/)
@@ -42,19 +42,14 @@ The course meets Wednesdays, 11:30am-12:45pm, room CS 142.  On days with a talk,
     - No paper review is due for this paper.
     - But, a **talk review** is due tomorrow, 2/6 (see below)
 
-- Due **Sunday, Feb 9**: submit comments/questions for Tomlin paper (see instructions below).  Choose any paper you like from the author's website to read. The Google Form is due the night before the talk.
-
-- Feb 10: Talk (see above).  Talk review is due the next day, Feb 11.
-
-- Feb 11: Talk review due for Tomlin's talk (Feb 10), and also paper reviews for tomorrow (Feb 12)'s class discussion.
-
 - Class session, Feb 12: Discussion on Wiegreffe and Liang papers.  Note talk on Feb 12.
+  - Thus two paper reviews are due Feb 11.  For each author, choose one of their papers as your target paper for reading and comments.
 
 - Class session, Feb 19: Discussion on Wang and Akari papers.  Note talks on Feb 19, Feb 20, and Feb 25.
 
 - Class session, Feb 26: Discussion on Zhao and TBA papers.  Note talks on Feb 27 and Mar 4.
 
-- Class session, Mar 5: No paper today.  Review discussion.
+- Class session, Mar 5: TBD
 
 - Class session, Mar 12: TBD
 
@@ -95,6 +90,16 @@ For each researcher, you'll submit two reviews:
 Comments should be written in your own words.
 
 Attendance is required at class sessions and talks, except for conflicting classes (for the talks), or for extenuating circumstances (in general).  Allowable extenuating circumstances are those according to official University policy, including personal, health, religious observances, official University travel, etc.  To make up a missed class session or talk, read an additional paper and submit a review through the form, and clearly mark what it's a makeup for.
+
+### Paper reading
+
+How long does it take to read a paper?  Anywhere from 10 minutes to 4 hours or more, depending on how much familiarity you have with a topic, background information, the paper's length, nature of contribution, writing quality, and many other factors.
+
+As stated in the introductory session, for this course please aim for at least an hour of reading per paper.
+
+I (Brendan) might advise a multiple passes through the paper.  For example,  (1) Read the abstract and quickly skim through the paper, to get a feel for what they did overall, and what the major resesarch questions are that they are intending to address.  For typical experimentally-driven NLP papers, that includes looking through major results tables or analyses.  (2) Do a moderately deep read, taking notes on terminology, concepts, or various details you want to come back to.  (3) Go deeper on parts that you'd like to understand better, possibly including looking up previous work and such that is necessary to understand the main.
+
+The important thing is to NOT start with a deep read, which can bog you down and cause you to spend too much time on less important details (or 
 
 ### Other course details
 
