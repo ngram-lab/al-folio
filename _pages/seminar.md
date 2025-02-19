@@ -15,16 +15,17 @@ This webpage has information about two NLP seminar activities for Spring 2025:  
 
 ## NLP Research Talks
 
-All talks are in room CS 151 unless otherwise noted, and open to anyone at UMass or the Five Colleges.
+Talks are typically in either CS 151 or LGRC (likely A112). Please see the [CICS Events webpage](https://www.cics.umass.edu/events?s=nlp) (linked from talk titles), and/or emails to seminars@cs.umass.edu, for the room number.
+Talks are open to anyone at UMass or the Five Colleges.
 
 - Wed Feb 5, 12pm-1pm: [Alexander Spangher](https://www.alexander-spangher.com/): [Planning in Creative Contexts](https://www.cics.umass.edu/events/nlp-seminar-alexander-spangher)
-- [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/): date TBA (original Feb 10 talk cancelled)
 - Wed Feb 12, 12pm-1pm: [Sarah Wiegreffe](https://sarahwie.github.io/): [Demystifying the Inner Workings of Language Models](https://www.cics.umass.edu/events/nlp-seminar-sarah-wiegreffe)
 - Wed Feb 19, 12pm-1pm: [Weixin Liang](https://ai.stanford.edu/~wxliang/)
-- Thu Feb 20, 12pm-1pm: [Yizhong Wang](https://homes.cs.washington.edu/~yizhongw/)
+- Thu Feb 20, 12pm-1pm: [Yizhong Wang](https://homes.cs.washington.edu/~yizhongw/), [Building a Sustainable Data Foundation for AI](https://www.cics.umass.edu/events/nlp-seminar-yizhong-wang)
 - Tue Feb 25, 12pm-1pm: [Akari Asai](https://akariasai.github.io/)
 - Thu Feb 27, 12pm-1pm: [Wenting Zhao](https://wenting-zhao.github.io/)
 - Tue Mar 4, 12pm-1pm: TBA
+- Tue Mar 11, 12pm-1pm: [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/): Reasoning with Language Models. *(Originally scheduled for Feb 10)*
 
 
 (For UMass faculty: [information on visit scheduling](https://docs.google.com/spreadsheets/d/1vnDgXpvgYlPqXd6L4KfzEL1hMXBYTpxT4qy7P8fOEbQ/edit?gid=0#gid=0).)
@@ -47,7 +48,7 @@ The course meets Wednesdays, 11:30am-12:45pm, room CS 142.  On days with a talk,
 
 - Class session, Feb 19: Discussion on Wang and Akari papers.  Note talks on Feb 19, Feb 20, and Feb 25.
 
-- Class session, Feb 26: Discussion on Zhao and TBA papers.  Note talks on Feb 27 and Mar 4.
+- Class session, Feb 26: Discussion on Zhao paper.  Note talks on Feb 27 and Mar 4.
 
 - Class session, Mar 5: TBD
 
@@ -84,7 +85,7 @@ The course is recommended for graduate students with experience in NLP, such as 
 This course is structured about NLP research seminar visitors.  For each visitor, students are required to read a paper, and go to the talk.
 
 For each researcher, you'll submit two reviews:
-1. Paper review: Read in detail a research paper, and submit a summary and comments on [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJM7rbg285ppEmRKfcma88CtNAysiHxh9Koz-om_t1mDUnVw/viewform?usp=dialog).  This is due either before the talk, or before the class session associated with that talk, whichever is earlier; see the schedule.  (No paper review is due for Spangher 2/5 since it's the first class session.)
+1. Paper review: Read in detail a research paper, and submit a summary and comments on [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLScJM7rbg285ppEmRKfcma88CtNAysiHxh9Koz-om_t1mDUnVw/viewform?usp=dialog).  This is due either the night before the class session where the author's work is being discussed (as per the schedule). (No paper review is due for Spangher 2/5 since it's the first class session.)
 2. Talk review: Take some notes during the talk. Afterward, write and submit comments on [this Google Form](https://docs.google.com/forms/d/e/1FAIpQLSddDVv77O1eN4Clh2iqKpCpqQ0Xg5QRr6tAYHlEbk51LC3k6w/viewform?usp=dialog).  This is due the day after the talk (but it might be easiest to submit it the same day, while it's still fresh).
 
 Comments should be written in your own words.
