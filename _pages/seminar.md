@@ -25,8 +25,13 @@ Talks are open to anyone at UMass or the Five Colleges.
 - Tue Feb 25, 12pm-1pm: [Akari Asai](https://akariasai.github.io/), [Beyond Scaling: Frontiers of Retrieval-Augmented Language Models](https://www.cics.umass.edu/events/nlp-seminar-akari-asai-university-washington)
 - Thu Feb 27, 12pm-1pm: [Wenting Zhao](https://wenting-zhao.github.io/)
 - Tue Mar 4, 12pm-1pm: TBA
-- Tue Mar 11, 12pm-1pm: [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/): Reasoning with Language Models. *(Originally scheduled for Feb 10)*
+- Tue Mar 11, 12pm-1pm: [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/): [Reasoning with Language Models](https://www.cics.umass.edu/events/seminar-nicholas-tomlin). *(Originally scheduled for Feb 10)*
 
+## Additional NLP Research Talks
+
+- Fri Mar 28, 12pm-1:30pm, LGRC A112: [Weiai (Wayne) Xu](https://curiositybits.cc/), in the [CSSI seminar](https://cssi.umass.edu/) series.  [Talk info](https://cssi.umass.edu/events/fri-03282025-1200/cssi-research-seminar-weiai-xu-wayne).
+- Fri Apr 11, 12pm-1:30pm, LGRC A112: [Laura Biester](https://www.laurabiester.com/), in the [CSSI seminar](https://cssi.umass.edu/) series.  [Talk info](https://cssi.umass.edu/events/fri-04112025-1200/cssi-research-seminar-laura-biester).
+- Fri May 2, 12pm-1:30pm, LGRC A112: [Brendan O'Connor](https://brenocon.com/), in the [CSSI seminar](https://cssi.umass.edu/) series.  [Talk info](https://cssi.umass.edu/events/fri-05022025-1200/cssi-research-seminar-brendan-oconnor).
 
 ## COMPSCI 692L: Discussion course for the NLP Seminar
 
@@ -52,13 +57,12 @@ The course meets Wednesdays, 11:30am-12:45pm, room CS 142.  On days with a talk,
 - Class session, Mar 5: Discussions on TBA and Tomlin papers.
     - In-class within-group presentations again. See slack message for details.
 
-- Class session, Mar 12: TBD
+- Class session, Mar 12: Final wrap-up.  No paper review is due.
 
 - No class Mar 19. Enjoy spring break!
 
-- One or two meetings after spring break, to be scheduled.
+- For course purposes, there are no requirements after spring break.  Some additional NLP-related talks have been posted above.
 
-- Tentative additional talk: Fri Apr 11, 12pm-1:30: [Laura Biester](https://www.laurabiester.com/), in LGRC A104 (in the [CSSI seminar](https://cssi.umass.edu/) series)
 
 
 ### Course description
