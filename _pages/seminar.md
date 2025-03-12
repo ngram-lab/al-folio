@@ -23,9 +23,9 @@ Talks are open to anyone at UMass or the Five Colleges.
 - Wed Feb 19, 12pm-1pm: [Weixin Liang](https://ai.stanford.edu/~wxliang/), [Societal Impact of Large Language Models](https://www.cics.umass.edu/events/nlp-seminar-weixin-liang)
 - Thu Feb 20, ***4pm-5pm***: [Yizhong Wang](https://homes.cs.washington.edu/~yizhongw/), [Building a Sustainable Data Foundation for AI](https://www.cics.umass.edu/events/nlp-seminar-yizhong-wang)
 - Tue Feb 25, 12pm-1pm: [Akari Asai](https://akariasai.github.io/), [Beyond Scaling: Frontiers of Retrieval-Augmented Language Models](https://www.cics.umass.edu/events/nlp-seminar-akari-asai-university-washington)
-- Thu Feb 27, 12pm-1pm: [Wenting Zhao](https://wenting-zhao.github.io/)
+- Thu Feb 27, 12pm-1pm: [Wenting Zhao](https://wenting-zhao.github.io/), Reasoning in the Wild
 - Tue Mar 4, 12pm-1pm: TBA
-- Tue Mar 11, 12pm-1pm: [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/): [Reasoning with Language Models](https://www.cics.umass.edu/events/seminar-nicholas-tomlin). *(Originally scheduled for Feb 10)*
+- Tue Mar 11, 12pm-1pm: [Nicholas Tomlin](https://people.eecs.berkeley.edu/~nicholas_tomlin/): [Reasoning with Language Models](https://www.cics.umass.edu/events/seminar-nicholas-tomlin).
 
 ## Additional NLP Research Talks
 
