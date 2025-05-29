@@ -178,6 +178,9 @@
     - year: 2021
       shortyear: "21"
       url: ../assets/pdf/polsci797ta-2021.pdf
+- shortname: DACSS 790T
+  url: "https://www.umass.edu/universityplus/class/summer-2025/58635/advanced-text-as-data"
+  title: Advanced Text as Data
 - shortname: COMM 497DB
   title: "Survey/Digital Behavioral Data"
   url: https://curiositybits.cc/tutorial/
