@@ -79,6 +79,14 @@
   url: "https://people.cs.umass.edu/~miyyer/cs685/"
   title: Advanced Natural Language Processing
   offerings:
+    - year: 2025
+      shortyear: "F25"
+    - year: 2025
+      shortyear: "S25"
+      url: https://people.cs.umass.edu/~hschang/cs685/
+    - year: 2024
+      shortyear: "S24"
+      url: https://people.cs.umass.edu/~miyyer/cs685/
     - year: 2023
       shortyear: "S23"
       url: https://web.archive.org/web/20231118223613/https://people.cs.umass.edu/~miyyer/cs685/
