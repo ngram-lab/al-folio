@@ -33,16 +33,6 @@
   dept: Adjunct affiliate (as of 2025)
   description: Text generation, QA, narratives
 
-- name: Brendan O'Connor
-  image: brendan2.jpg
-  altimage: 
-  position: Associate Professor
-  email: brenocon (at) cs.umass.edu
-  website: https://brenocon.com/
-  twitter: "brendan642"
-  # scholar: 5kUDcJ0AAAAJ
-  description: Computational social science, social factors in NLP
-
 - name: Andrew McCallum
   image: andrew.jpg
   altimage: 
@@ -52,4 +42,14 @@
   twitter: "andrewmccallum"
   # scholar: 5kUDcJ0AAAAJ
   description: Machine learning, information extraction, knowledge bases
+
+- name: Brendan O'Connor
+  image: brendan2.jpg
+  altimage: 
+  position: Associate Professor
+  email: brenocon (at) cs.umass.edu
+  website: https://brenocon.com/
+  twitter: "brendan642"
+  # scholar: 5kUDcJ0AAAAJ
+  description: Computational social science, social factors in NLP
 
