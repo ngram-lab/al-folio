@@ -25,6 +25,44 @@
       shortyear: "F20"
       by: O'Connor
       url: https://people.cs.umass.edu/~brenocon/cs490a_f20/
+- shortname: COMPSCI 685
+  url: "https://people.cs.umass.edu/~miyyer/cs685/"
+  title: Advanced Natural Language Processing
+  offerings:
+    - year: 2025
+      shortyear: "F25"
+    - year: 2025
+      shortyear: "S25"
+      url: https://people.cs.umass.edu/~hschang/cs685/
+    - year: 2024
+      shortyear: "S24"
+      url: https://people.cs.umass.edu/~miyyer/cs685/
+    - year: 2023
+      shortyear: "S23"
+      url: https://web.archive.org/web/20231118223613/https://people.cs.umass.edu/~miyyer/cs685/
+    - year: 2022
+      shortyear: "S22"
+      url: https://web.archive.org/web/20220810174927/https://people.cs.umass.edu/~miyyer/cs685/
+    - year: 2021
+      url: https://web.archive.org/web/20220705094056/https://people.cs.umass.edu/~miyyer/cs685/
+      shortyear: "S21"
+      url: https://people.cs.umass.edu/~brenocon/cs685_s21/
+    - year: 2020
+      shortyear: "F20"
+      url: "https://people.cs.umass.edu/~miyyer/cs685_f20/"
+    - year: 2020
+      shortyear: "S20"
+      url: https://people.cs.umass.edu/~brenocon/cs685_s20/
+    # BTO: didn't mohit teach it in F19 ?
+    - year: 2019
+      shortyear: "S19 (690D)"
+      url: https://people.cs.umass.edu/~brenocon/cs690d_s19/
+    - year: 2018
+      shortyear: "S18 (690N)"
+      url: https://people.cs.umass.edu/~brenocon/anlp2018/
+    - year: 2017
+      shortyear: "S17 (690N)"
+      url: https://people.cs.umass.edu/~brenocon/anlp2017/
 - shortname: COMPSCI 585
   title: Introduction to Natural Language Processing
   # note: "As of 2020 this is not offered. Please take 490A or 685 as appropriate."
@@ -75,44 +113,6 @@
     - year: 1996
       shortyear: "96"
       url: https://web.cs.umass.edu/csinfo/autogen/cmpscidescf96.html#585
-- shortname: COMPSCI 685
-  url: "https://people.cs.umass.edu/~miyyer/cs685/"
-  title: Advanced Natural Language Processing
-  offerings:
-    - year: 2025
-      shortyear: "F25"
-    - year: 2025
-      shortyear: "S25"
-      url: https://people.cs.umass.edu/~hschang/cs685/
-    - year: 2024
-      shortyear: "S24"
-      url: https://people.cs.umass.edu/~miyyer/cs685/
-    - year: 2023
-      shortyear: "S23"
-      url: https://web.archive.org/web/20231118223613/https://people.cs.umass.edu/~miyyer/cs685/
-    - year: 2022
-      shortyear: "S22"
-      url: https://web.archive.org/web/20220810174927/https://people.cs.umass.edu/~miyyer/cs685/
-    - year: 2021
-      url: https://web.archive.org/web/20220705094056/https://people.cs.umass.edu/~miyyer/cs685/
-      shortyear: "S21"
-      url: https://people.cs.umass.edu/~brenocon/cs685_s21/
-    - year: 2020
-      shortyear: "F20"
-      url: "https://people.cs.umass.edu/~miyyer/cs685_f20/"
-    - year: 2020
-      shortyear: "S20"
-      url: https://people.cs.umass.edu/~brenocon/cs685_s20/
-    # BTO: didn't mohit teach it in F19 ?
-    - year: 2019
-      shortyear: "S19 (690D)"
-      url: https://people.cs.umass.edu/~brenocon/cs690d_s19/
-    - year: 2018
-      shortyear: "S18 (690N)"
-      url: https://people.cs.umass.edu/~brenocon/anlp2018/
-    - year: 2017
-      shortyear: "S17 (690N)"
-      url: https://people.cs.umass.edu/~brenocon/anlp2017/
 - shortname: COMPSCI 446
   url: "https://ciir.cs.umass.edu/~dfisher/cs446/"
   title: Search Engines
