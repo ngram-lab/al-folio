@@ -16,7 +16,7 @@
   email: 
   website: https://www.katrinerk.com/
   # scholar: v7kFHRoAAAAJ
-  dept: CICS & Linguistics (starting 2025)
+  dept: CICS & Linguistics (starting Fall 2025)
   description: Computational semantics
 
 - name: Mohit Iyyer
@@ -30,7 +30,7 @@
   # github: winstonchiong
   # orcid: "orcid.org/0000-0001-9188-1920"
   # dept: (Through 2024)
-  dept: Adjunct affiliate (as of 2025)
+  dept: Adjunct affiliate
   description: Text generation, QA, narratives
 
 - name: Andrew McCallum
@@ -53,3 +53,14 @@
   # scholar: 5kUDcJ0AAAAJ
   description: Computational social science, social factors in NLP
 
+# - name: Wenting Zhao
+#   image: wenting1.jpg
+#   altimage: 
+#   position: Assistant Professor
+#   email: 
+#   website: https://wenting-zhao.github.io/
+#   twitter: "wzhao_nlp"
+#   scholar: sycHskQAAAAJ
+#   dept: Starting Fall 2026
+#   description: Language models and reasoning
+# 
