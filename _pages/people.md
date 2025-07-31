@@ -29,13 +29,15 @@ We are the members of the UMass Natural Language Processing lab in <a href="http
 
 <hr>
 
-<a name="postdocs"></a>
-<h2>Postdocs</h2>
-<div class="row">
-  {% for person in site.data.postdocs %}
-    {{person | personfilter}}
-  {% endfor %}
-</div>
+{% comment %}
+  <a name="postdocs"></a>
+  <h2>Postdocs</h2>
+  <div class="row">
+    {% for person in site.data.postdocs %}
+      {{person | personfilter}}
+    {% endfor %}
+  </div>
+{% endcomment %}
 
 <hr>
 
