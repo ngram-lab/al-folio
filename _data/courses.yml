@@ -31,6 +31,7 @@
   offerings:
     - year: 2025
       shortyear: "F25"
+      url: https://people.cs.umass.edu/~brenocon/cs685_f25/
     - year: 2025
       shortyear: "S25"
       url: https://people.cs.umass.edu/~hschang/cs685/
