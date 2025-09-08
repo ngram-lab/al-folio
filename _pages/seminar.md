@@ -12,7 +12,9 @@ nav: true
 
 This webpage will contain information on the Fall 2025 NLP seminar.
 
-Time: Wednesdays, 12:30pm - 1:45pm
+It takes place Wednesdays, 12:30pm - 1:45pm, in room LGRC A104 and on Zoom.
+
+Sept 10 is the first meeting (organizational meeting).
 
 ---
 
