@@ -17,7 +17,7 @@ Time: Wednesdays, 12:30pm - 1:45pm
 ---
 
 Speakers from some previous offerings of the NLP Seminar:
-  <a href="/seminar-s25/">Spring 2025</a>,
+  <a href="/seminar_s25/">Spring 2025</a>,
   <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">Fall 2024</a>,
   <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/spring24.html">Spring 2024</a>,
   <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/fall23.html">Fall 2023</a>,
