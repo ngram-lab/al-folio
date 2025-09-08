@@ -128,8 +128,11 @@
   title: "NLP Seminar"
   offerings:
     - year: 2025
-      shortyear: "S25"
+      shortyear: "F25"
       url: /seminar/
+    - year: 2025
+      shortyear: "S25"
+      url: /seminar_s25/
     - year: 2024
       shortyear: "F24"
       url: https://people.cs.umass.edu/~miyyer/nlpseminar/
