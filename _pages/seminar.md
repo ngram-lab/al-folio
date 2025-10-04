@@ -28,7 +28,7 @@ The NLP seminar takes place Wednesdays, 12:30pm - 1:45pm, in room LGRC A104 and 
   - *Bio:* Catherine Arnett is an NLP Researcher at EleutherAI. She received her PhD in Linguistics with a specialization in Computational Social Science from the University of California San Diego.She is primarily interested in cross-lingual and multilingual NLP and has worked on related topics, such as cross-lingual transfer, tokenization, and dataset creation. Her work aims to use linguistically informed methods to study how cross-linguistic differences interact with language models and to improve language technologies for non-English languages.
   - *Related papers:* [Why do language models perform worse for morphologically complex languages?](https://aclanthology.org/2025.coling-main.441/) (Arnett & Bergen, 2025), [A bit of a problem: Measurement disparities in dataset sizes across languages](https://aclanthology.org/2024.sigul-1.1.pdf) (Arnett et al., 2024), and [Goldfish: Monolingual language models for 350 languages](https://arxiv.org/pdf/2408.10441).
 - Oct. 1: Paper discussion: [Baumann et al., 2025 (via arxiv)](https://arxiv.org/abs/2509.08825). Large language model hacking: Quantifying the hidden risks of using LLMs for text annotation.
-- Oct. 8: TBA
+- Oct. 8: No session
 - Oct. 15: [Alisa Liu](https://alisawuffles.github.io/), University of Washington
 - Oct. 22: [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/), University of California, Berkeley
 - Oct. 29: [Os Keyes](https://ironholds.org/), University of Massachusetts Lowell 
