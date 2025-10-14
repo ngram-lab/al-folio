@@ -27,15 +27,15 @@ The NLP seminar takes place Wednesdays, 12:30pm - 1:45pm, in room LGRC A104 and 
   - *Related papers:* [Why do language models perform worse for morphologically complex languages?](https://aclanthology.org/2025.coling-main.441/) (Arnett & Bergen, COLING 2025), [A bit of a problem: Measurement disparities in dataset sizes across languages](https://aclanthology.org/2024.sigul-1.1.pdf) (Arnett et al., SIGUL 2024), and [Goldfish: Monolingual language models for 350 languages](https://arxiv.org/pdf/2408.10441) (Chang et al., arxiv 2024).
 - Oct. 1: Paper discussion: [Large language model hacking: Quantifying the hidden risks of using LLMs for text annotation](https://arxiv.org/abs/2509.08825) (Baumann et al., arxiv 2025).
 - Oct. 8: No session
-- Oct. 15: [Alisa Liu](https://alisawuffles.github.io/), University of Washington, "Tokenization: Revisiting the foundations of language modeling."
-  - *Abstract:* TBA
+- Oct. 15: [Alisa Liu](https://alisawuffles.github.io/), University of Washington, "Between Language and Models: Rethinking Algorithms for Tokenization."
+  - *Abstract:* Language models operate over real numbers, while users of language models interface with human-readable text. This is made possible by tokenization, which encodes text as a sequence of embeddings and decodes real-valued predictions back into generated text. Despite its foundation importance to language modeling, the algorithms for tokenization have remained largely unchanged in the era of LLMs. In this talk, I will discuss my recent work in improving algorithms for tokenization. The first half presents SuperBPE, a superword tokenizer that extends traditional subword tokenization to include tokens that span multiple words. We motivate superword tokens from a linguistic perspective, and demonstrate empirically that models pretrained from scratch with SuperBPE achieve stronger performance on downstream tasks while also being significantly more efficient at inference-time. The second half revisits a fundamental limitation of tokenizer-based LMs: models trained over sequences of tokens cannot, out of the box, model the probability of arbitrary strings. I discuss the practical implications of this in domains such as Chinese and code, and then present an inference-time algorithm that converts LM-predicted probabilities over tokens into probabilities over characters, while preserving the sampling distribution at the text level. I will conclude by discussing open questions on the future of tokenization.
   - *Related papers:* [SuperBPE: Space travel for language models](https://arxiv.org/abs/2509.08825) (Liu et al., COLM 2025) and [Sampling from your language model one byte at a time](https://arxiv.org/abs/2509.08825) (Hayase et al., arxiv 2025). 
 - Oct. 22: [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/), University of California, Berkeley
 - Oct. 29: [Os Keyes](https://ironholds.org/), University of Massachusetts Lowell. (In-person talk.) 
 - Nov. 5: [Jack Wang](https://zichaow.github.io/), Adobe Research
 - Nov. 12: [Emily Tseng](https://emtseng.me/), University of Washington
 - Nov. 19: [Shira Wein](https://shirawein.github.io/), Amherst College.  (In-person talk.)
-- Nov. 26: No seminar (Thanksgiving break)
+- Nov. 26: No session (Thanksgiving break)
 - Dec. 3: TBA
 
 ## Course: COMPSCI 692L
