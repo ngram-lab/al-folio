@@ -53,14 +53,14 @@
   # scholar: 5kUDcJ0AAAAJ
   description: Computational social science, social factors in NLP
 
-- name: Wenting Zhao
-  image: wenting1.jpg
-  altimage: 
-  position: Assistant Professor
-  email: 
-  website: https://wenting-zhao.github.io/
-  twitter: "wzhao_nlp"
-  scholar: sycHskQAAAAJ
-  dept: Starting Fall 2026
-  description: Reasoning, language modeling
-
+# - name: Wenting Zhao
+#   image: wenting1.jpg
+#   altimage: 
+#   position: Assistant Professor
+#   email: 
+#   website: https://wenting-zhao.github.io/
+#   twitter: "wzhao_nlp"
+#   scholar: sycHskQAAAAJ
+#   dept: Starting Fall 2026
+#   description: Reasoning, language modeling
+# 
