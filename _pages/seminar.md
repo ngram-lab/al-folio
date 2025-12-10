@@ -42,7 +42,7 @@ The NLP seminar takes place Wednesdays, 12:30pm - 1:45pm, in room LGRC A104 and 
   - *Abstract:* Translated texts bear several hallmarks distinct from texts originating in the language (“translationese”). Though individual translated texts are often fluent and preserve meaning, at a large scale, the presence of translated texts in training data negatively impacts performance and in test data inflates evaluation. In this line of work, I investigate (1) whether humans are able to distinguish texts originally written in English from texts translated into English, (2) how the surface-level features of translationese can be mitigated using Abstract Meaning Representation, and (3) why neural classifiers are able to distinguish original and translated English texts much more accurately than humans.  
   - *Related papers:* [Human raters cannot distinguish English translations from original English texts](https://aclanthology.org/2023.emnlp-main.754/) (Wein, EMNLP 2023) and [Lost in Translationese? Reducing translation effect using Abstract Meaning Representation](https://aclanthology.org/2024.eacl-long.45/) (Wein & Schneider, EACL 2024). 
 - Nov. 26: No session (Thanksgiving break)
-- Dec. 3: TBA
+- Dec. 3: No session. Have a great winter break!
 
 ## Course: COMPSCI 692L
 
