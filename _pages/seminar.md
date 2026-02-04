@@ -10,52 +10,84 @@ nav: true
 
 # UMass NLP Seminar
 
-This webpage will contain information on the Fall 2025 NLP seminar.
-See further below for information about the seminar as a course.
+This webpage has information about two NLP seminar activities for Spring 2026:
+(1) a list of ***NLP research seminar talks*** by visitors, which are open to anyone at UMass or the Five Colleges; 
+and (2) an accompanying discussion course, COMPSCI 692L, for reading and discussing related research papers.
 
-## Schedule: Fall 2025
+## NLP research seminar talks
 
-The NLP seminar takes place Wednesdays, 12:30pm - 1:45pm, in room LGRC A104 and on Zoom.
+The research talk schedule will be posted when it is available.
+There will be around five talks, typically taking place at or around noon on various weekdays,
+especially in February and March.
 
-- Sept. 10: organizational meeting
-- Sept. 17: [Katrin Erk](https://www.katrinerk.com/), UMass CICS and Linguistics, "Analyzing word token embeddings to assess meaning in context."  (In-person talk.)
-  - *Abstract:* Word token embeddings constitute a condensed record of utterances of many speakers. This makes them interesting as data for lexical semantics, for questions like: Can word embeddings tell us about the structure of polysemous words, and which properties distinguish different usage groups? Do word embeddings encode meaning distinctions that differ from dictionary senses, and if so, is this data or noise? Can word embeddings help us assess the subtle meaning changes that  constructions impose on their components? And, importantly: How can we test the performance of methods for analyzing word token embeddings, and under what circumstances can we rely on them? In this talk I discuss methods that we have been developing for studying lexical semantics through embeddings, and analyses we've done so far. 
-  - *Related papers:*
-  [A method for studying semantic construal in grammatical constructions with interpretable contextual embedding spaces](https://aclanthology.org/2023.acl-long.14/) (Chronis et al., ACL 2023) and [Adjusting interpretable dimensions in embedding space with human judgements](https://aclanthology.org/2024.naacl-long.146/) (Erk & Apidianaki, NAACL 2024).
-- Sept. 24: [Catherine Arnett](https://www.catherinearnett.github.io/), EleutherAI, "Why do language models perform worse for morphologically complex languages?"
-  - *Abstract:* Language models perform differently across languages. It has been previously suggested that morphological typology may explain some of this variability (Cotterell et al., 2018). We replicate previous analyses and find additional new evidence for a performance gap between agglutinative and fusional languages, where fusional languages, such as English, tend to have better language modeling performance than morphologically more complex languages like Turkish. We then propose and test three possible causes for this performance gap: morphological alignment of tokenizers, tokenization quality, and disparities in dataset sizes and measurement. We find some evidence that tokenization quality explains the performance gap, but none for the role of morphological alignment. Instead we find that the performance gap is most reduced when training datasets are of equivalent size across language types, but only when scaled according to the so-called "byte-premium"---the different encoding efficiencies of different languages and orthographies. These results suggest that languages of particular morphological types are not intrinsically advantaged or disadvantaged in language modeling. These findings bear on ongoing efforts to improve performance for low-performing and under-resourced languages.
-  - *Related papers:* [Why do language models perform worse for morphologically complex languages?](https://aclanthology.org/2025.coling-main.441/) (Arnett & Bergen, COLING 2025), [A bit of a problem: Measurement disparities in dataset sizes across languages](https://aclanthology.org/2024.sigul-1.1.pdf) (Arnett et al., SIGUL 2024), and [Goldfish: Monolingual language models for 350 languages](https://arxiv.org/pdf/2408.10441) (Chang et al., arxiv 2024).
-- Oct. 1: Paper discussion: [Large language model hacking: Quantifying the hidden risks of using LLMs for text annotation](https://arxiv.org/abs/2509.08825) (Baumann et al., arxiv 2025).
-- Oct. 8: No session
-- Oct. 15: [Alisa Liu](https://alisawuffles.github.io/), University of Washington, "Between Language and Models: Rethinking Algorithms for Tokenization."
-  - *Abstract:* Language models operate over real numbers, while users of language models interface with human-readable text. This is made possible by tokenization, which encodes text as a sequence of embeddings and decodes real-valued predictions back into generated text. Despite its foundation importance to language modeling, the algorithms for tokenization have remained largely unchanged in the era of LLMs. In this talk, I will discuss my recent work in improving algorithms for tokenization. The first half presents SuperBPE, a superword tokenizer that extends traditional subword tokenization to include tokens that span multiple words. We motivate superword tokens from a linguistic perspective, and demonstrate empirically that models pretrained from scratch with SuperBPE achieve stronger performance on downstream tasks while also being significantly more efficient at inference-time. The second half revisits a fundamental limitation of tokenizer-based LMs: models trained over sequences of tokens cannot, out of the box, model the probability of arbitrary strings. I discuss the practical implications of this in domains such as Chinese and code, and then present an inference-time algorithm that converts LM-predicted probabilities over tokens into probabilities over characters, while preserving the sampling distribution at the text level. I will conclude by discussing open questions on the future of tokenization.
-  - *Related papers:* [SuperBPE: Space travel for language models](https://arxiv.org/abs/2509.08825) (Liu et al., COLM 2025) and [Sampling from your language model one byte at a time](https://arxiv.org/abs/2509.08825) (Hayase et al., arxiv 2025). 
-- Oct. 22: [Emma Pierson](https://people.eecs.berkeley.edu/~emmapierson/), University of California, Berkeley, "Sparse autoencoders for hypothesis generation."
-  - *Abstract:* I will describe HypotheSAEs, a general method to hypothesize interpretable relationships between text data (e.g., headlines) and a target variable (e.g., clicks) using sparse autoencoders. HypotheSAEs produces novel discoveries on well-studied tasks and, compared to baselines, better identifies reference hypotheses on synthetic datasets and produces more predictive hypotheses on real datasets. After describing HypotheSAEs, I will describe how we have applied it to (1) learn the preferences encoded in human feedback datasets and (2) learn interpretable representations of free-text survey data.
-  - *Related papers:* [Sparse autoencoders for hypothesis generation](https://openreview.net/pdf?id=4R0pugRyN5) (Movva et al., ICML 2025).
-- Oct. 29: [Os Keyes](https://ironholds.org/), University of Massachusetts Lowell, "Injustices beyond models: Gender, disability and the political economy of Artificial Intelligence." (In-person talk.) 
-  - *Abstract:* When gender and disability are discussed in AI, it's often in the details: injustices or consequences in how systems are designed and deployed. But what about the political and cultural economies of AI: the shape, structure and narratives of the industry as a whole? Are injustices a matter of design choices, or of structure? In this talk, I will explore the gendered and disability-related implications of AI as a field and industry, arguing that efforts to address injustices require not simply a different way of developing AI, but fundamental changes in how we imagine the technology (and industry)'s roles in society.
-  - *Related papers:* [Automating autism: Disability, discourse, and artificial intelligence](https://digitalcommons.odu.edu/cgi/viewcontent.cgi?article=1021&context=sociotechnicalcritique) (Keyes, Journal of Sociotechnical Critique 2020) and [The infopolitics of feeling: How race and disability are configured in emotion recognition technology](https://journals.sagepub.com/doi/pdf/10.1177/14614448241235914) (McInerney & Keyes, New Media & Society 2025).
-- Nov. 5: There is no 692L / NLP Seminar session today. Instead, if you can make it, we recommend going to the NLP-related MLFL talk at 12-1pm with Aaron Mueller. [Link to event page](https://www.cics.umass.edu/events/machine-learning-and-friends-lunch-aaron-mueller).
-- Nov. 12: Paper discussion: ["Ownership, not just happy talk": Co-Designing a Participatory LLM for Journalism](https://dl.acm.org/doi/pdf/10.1145/3715275.3732198) (Tseng et al., FAccT 2025).
-- Nov. 19: [Shira Wein](https://shirawein.github.io/), Amherst College, "Lost in Translation, and Found: Detecting and Interpreting Translation Effect in LLMs". (In-person talk.)
-  - *Abstract:* Translated texts bear several hallmarks distinct from texts originating in the language (“translationese”). Though individual translated texts are often fluent and preserve meaning, at a large scale, the presence of translated texts in training data negatively impacts performance and in test data inflates evaluation. In this line of work, I investigate (1) whether humans are able to distinguish texts originally written in English from texts translated into English, (2) how the surface-level features of translationese can be mitigated using Abstract Meaning Representation, and (3) why neural classifiers are able to distinguish original and translated English texts much more accurately than humans.  
-  - *Related papers:* [Human raters cannot distinguish English translations from original English texts](https://aclanthology.org/2023.emnlp-main.754/) (Wein, EMNLP 2023) and [Lost in Translationese? Reducing translation effect using Abstract Meaning Representation](https://aclanthology.org/2024.eacl-long.45/) (Wein & Schneider, EACL 2024). 
-- Nov. 26: No session (Thanksgiving break)
-- Dec. 3: No session. Have a great winter break!
+- Week of 2/9: likely there will be a speaker, exact day TBD
+- Week of 2/16: no speaker (probably)
+- Week of 2/23: speaker, exact day TBD
+- Week of 3/2: speaker, exact day TBD
+- Week of 3/9: speaker, exact day TBD
+- Week of 3/16: no speaker (Spring Break)
+- Week of 3/23: speaker, exact day TBD
 
-## Course: COMPSCI 692L
+## Discussion course (COMPSCI 692L)
 
-The seminar is available as a 1-credit seminar course, 692L.
+The seminar is also available as a 1-credit seminar course, COMPSCI 692L, instructor [Brendan O'Connor](http://brenocon.com) (<a href="mailto:brenocon@cs.umass.edu">email</a>).
 Enrollment in the course is not required to attend talks.
 
-Course requirements: Students must read posted papers before the class sessions, submit questions before the seminar, and be prepared to ask their questions (or other questions) at the speaker's talk.  In class sessions without a speaker, students should be ready to participate in class discussions.
+For those enrolled in the course, it has a regularly scheduled discussion class time, Wednesdays 11:30am-12:45pm (as per SPIRE), in room LGRC A104.  Schedule:
 
-Assignment details are distributed through the seminar's slack channel.
+- Class session, **Feb 5**: Introduction, logistics (and scheduling confusion, sorry)
+- Class session, **Feb 11**: Either paper discussion or talk (TBD).  Before this Wednesday, submit your paper review of a paper by speaker #1.
+- TBA
+
+For spring 2026, the discussion section will focus on reading and discussing the research papers of the NLP research visitors.  Visitor talks will often not be at the class discussion time, but enrolled students will be required to attend or do make-up activities.  When the schedule allows, our goal is to read papers before the researcher's visit, and be prepared to engage with questions and discussion.
+
+Each week's session will focus on one or a few papers, such as the work authored by an upcoming visitor.  All participants will choose and read one or more papers for each week's session, and write reactions, comments, and bring questions to class.  Activities will primarily include participating in discussions.
+
+Note the course schedule is front loaded for early in the semester.  Due to the required attendance (or equivlant makeup) at research talks on other days, we will end earlier in the semester.  The number of class sessions is chosen so that the total number of (class sessions + non-class talks) = the normal number of class sessions in a standard weekly 1-credit course.
+
+Depending on the schedule, the later part of the semester may feature talks and discussions of other NLP research topics.
+
+{% comment %}
+*Course catalog description:* Weekly seminar requiring students to read an NLP paper and discuss and review it from a variety of perspectives. Some weeks will feature invited speakers instead of paper reviews.  1 credit.
+{% endcomment %}
+
+The course is recommended for graduate students with experience in NLP, such as one from the [UMass NLP courses page](/courses/).  COMPSCI 485 and 685 may be the most relevant.
+
+## Course requirements
+
+This course is structured about NLP research seminar visitors.  For each visitor, students are required to read a paper, and go to the talk.
+
+For each researcher, you'll submit two reviews:
+1. Paper review: Read in detail a research paper, and submit a summary and comments on [this Google Form: 692L Paper Review](https://docs.google.com/forms/d/e/1FAIpQLSfoat3sV0CK2akWLDuet4FvkEHMp1LzjqcIS96HNpB7HYwT1w/viewform?usp=publish-editor).  This is due the night before the class session where the author's work is being discussed (as per the schedule).
+2. Talk review: Take notes during the talk. Afterward, write and submit comments on [this Google Form: 692L Talk Review](https://docs.google.com/forms/d/e/1FAIpQLSfIMqWtIpDLlQJ-QeCAMsOHY_zHY43MnrUvPQpcu5owc9o24Q/viewform?usp=dialog).  This is due the day after the talk (but it might be easiest to submit it the same day, while it's still fresh in your mind).
+For some talks, video recordings may be available, but do not count on it.
+
+Comments should be written in your own words.
+
+Attendance is required at class sessions and talks, except for conflicting classes (for the talks), or for extenuating circumstances (in general).  Allowable extenuating circumstances are those according to official University policy, including personal, health, religious observances, official University travel, etc.  To make up a missed class session or talk, read an additional paper and submit a review through the form, and clearly mark what it's a makeup for.
+
+### Paper reading
+
+How long does it take to read a paper?  Anywhere from 10 minutes to several hours or more, depending on how much familiarity you have with a topic, background information, the paper's length, nature of contribution, writing quality, and many other factors.
+
+For this course, reserve at least one hour of reading per paper.
+
+I (Brendan) usually advise reading via multiple passes through the paper.  For example:  (1) Read the abstract and quickly skim through the rest of the paper, to get a feel for what they did overall, and what the major resesarch questions are that they are intending to address.  For typical experimentally-driven or empirical NLP papers, this includes seeing what all the tables and figures are.  (2) Do a moderately deep read, taking notes on terminology, concepts, or various details you want to come back to.  (3) Go deeper on parts that you'd like to understand better, possibly including looking up previous work and such that is necessary to understand the main things you want to learn.
+
+The important thing is to NOT start with a deep read, which can bog you down and cause you to spend too much time on less important details.
+
+### Other course details
+
+If you'd like to participate but cannot sign up in SPIRE, please submit your information on [this form](https://docs.google.com/forms/d/e/1FAIpQLSf1bBidXZyUHw7VTzaY8eOHRlv0AeWHpu6_2DKFgnJh7tQPCw/viewform?usp=publish-editor).
+
+Communication will be through email.
+
+
 
 ## Previous seminars
 
 Speakers from some previous offerings of the NLP Seminar:
+  <a href="/seminar_f25/">Fall 2025</a>,
   <a href="/seminar_s25/">Spring 2025</a>,
   <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/">Fall 2024</a>,
   <a href="https://people.cs.umass.edu/~miyyer/nlpseminar/spring24.html">Spring 2024</a>,
