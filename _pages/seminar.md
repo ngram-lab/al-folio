@@ -36,8 +36,8 @@ Enrollment in the course is not required to attend talks.
 
 For those enrolled in the course, it has a regularly scheduled discussion class time, Wednesdays 11:30am-12:45pm (as per SPIRE), in room LGRC A104.  Schedule:
 
-- Class session, **Feb 4**: No class (scheduling confusion, sorry)
-- Class session, **Feb 11**: Before class, finish your review of one of the papers specified from the instructor's email.  Come to Wednesday class ready so that you could discuss your paper and explain it, at a high level (no slides), to your fellow students.
+- Class session, Wed 2/4: No class (scheduling confusion, sorry)
+- Class session, Wed 2/11: Before class, finish your review of one of the papers specified from the instructor's email.  Come to Wednesday class ready so that you could discuss your paper and explain it, at a high level (no slides), to your fellow students.  Please bring a copy of the paper, and/or be able to pull it up on your laptop/device.
 - TBA
 
 For spring 2026, the discussion section will focus on reading and discussing the research papers of the NLP research visitors.  Visitor talks will often not be at the class discussion time, but enrolled students will be required to attend or do make-up activities.  When the schedule allows, our goal is to read papers before the researcher's visit, and be prepared to engage with questions and discussion.
