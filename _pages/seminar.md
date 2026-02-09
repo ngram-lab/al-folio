@@ -20,13 +20,14 @@ The research talk schedule will be posted when it is available.
 There will be around five talks, typically taking place at or around noon on various weekdays,
 especially in February and March.
 
-- Week of 2/9: likely there will be a speaker, exact day TBD
-- Week of 2/16: no speaker (probably)
-- Week of 2/23: speaker, exact day TBD
-- Week of 3/2: speaker, exact day TBD
-- Week of 3/9: speaker, exact day TBD
+- Thurs 2/12: Talk
+- Week of 2/16: no talk
+- Thurs 2/26: Talk
+- Week of 2/23: talk TBA
+- Week of 3/2: talk TBA
+- Week of 3/9: talk TBA
 - Week of 3/16: no speaker (Spring Break)
-- Week of 3/23: speaker, exact day TBD
+- Week of 3/23: talk TBA
 
 ## Discussion course (COMPSCI 692L)
 
