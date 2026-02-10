@@ -20,7 +20,7 @@ The research talk schedule will be posted when it is available.
 There will be around five talks, typically taking place at or around noon on various weekdays,
 especially in February and March.
 
-- Thurs 2/12: Talk
+- Thurs 2/12, 12pm-1pm, CSL E120: Talk
 - Week of 2/16: no talk
 - Thurs 2/26: Talk
 - Week of 2/23: talk TBA
