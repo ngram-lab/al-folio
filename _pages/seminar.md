@@ -18,11 +18,11 @@ and (2) an accompanying discussion course, COMPSCI 692L, for reading and discuss
 
 The research talk schedule will be posted when it is available.
 There will be around five talks, typically taking place at or around noon on various weekdays,
-especially in February and March.
+especially in February and March.  Location is typically in CSL.  See the [CICS Events](https://www.cics.umass.edu/events) page, and announcements on seminars@cs mailing list, for details. Logistical details there supersede this page.
 
-- Thurs 2/12, 12pm-1pm, CSL E120: Talk
+- Thurs 2/12, 12pm-1pm: Talk
 - Week of 2/16: no talk
-- Thurs 2/26: Talk
+- Thurs 2/26, 12pm-1pm: Talk
 - Week of 2/23: talk TBA
 - Week of 3/2: talk TBA
 - Week of 3/9: talk TBA
@@ -38,7 +38,7 @@ For those enrolled in the course, it has a regularly scheduled discussion class 
 
 - Class session, Wed 2/4: No class (scheduling confusion, sorry)
 - Class session, Wed 2/11: Before class, finish your review of one of the papers specified from the instructor's email.  Come to Wednesday class ready so that you could discuss your paper and explain it, at a high level (no slides), to your fellow students.  Please bring a copy of the paper, and/or be able to pull it up on your laptop/device.
-- TBA
+- Further class sessions: see email.
 
 For spring 2026, the discussion section will focus on reading and discussing the research papers of the NLP research visitors.  Visitor talks will often not be at the class discussion time, but enrolled students will be required to attend or do make-up activities.  When the schedule allows, our goal is to read papers before the researcher's visit, and be prepared to engage with questions and discussion.
 
