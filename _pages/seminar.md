@@ -23,11 +23,10 @@ especially in February and March.  Location is typically in CSL.  See the [CICS 
 - Thurs 2/12, 12pm-1pm: Talk
 - Week of 2/16: no talk
 - Thurs 2/26, 12pm-1pm: Talk
-- Week of 2/23: talk TBA
-- Week of 3/2: talk TBA
-- Week of 3/9: talk TBA
+- Week of 2/23: Talk
+- Week of 3/2: Talk
+- Week of 3/9: Two talks
 - Week of 3/16: no speaker (Spring Break)
-- Week of 3/23: talk TBA
 
 ## Discussion course (COMPSCI 692L)
 
