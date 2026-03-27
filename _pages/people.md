@@ -43,6 +43,8 @@ We are the members of the UMass Natural Language Processing lab in <a href="http
 
 <a name="phd"></a>
 <h2>PhD students</h2>
+<p>(Not updated)</p>
+
 <div class="row">
   {% for person in site.data.students %}
     {{person | personfilter}}
