@@ -108,13 +108,13 @@
 #   website: https://chtmp223.github.io
 #   twitter: "chtmp223"
 # 
-- name: Rishanth Rajendhran
-  image: rishanth.jpg
-  altimage:
-  position: PhD student
-  email: pearls_lucid0a (at) icloud.com
-  website: https://rishanthrajendhran.github.io
-  twitter: "idhurishi"
+# - name: Rishanth Rajendhran
+#   image: rishanth.jpg
+#   altimage:
+#   position: PhD student
+#   email: pearls_lucid0a (at) icloud.com
+#   website: https://rishanthrajendhran.github.io
+#   twitter: "idhurishi"
 
 - name:  Benjamin Rozonoyer
   image: benjamin.png
