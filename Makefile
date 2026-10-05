@@ -16,5 +16,5 @@ pushtest: build
 push: check build
 	git push
 	rsync -rz --exclude '*~' --exclude '.DS_Store' --exclude '*-nosync' --chmod=Dg+rws,g+rw _site/ nlp.cs.umass.edu:/var/www/nlp/_site/
-	ssh nlp.cs.umass.edu chgrp -fR nlpwww /var/www/nlp/_site
+	# ssh nlp.cs.umass.edu chgrp -fR nlpwww /var/www/nlp/_site
 
