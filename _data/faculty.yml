@@ -19,20 +19,20 @@
   dept: CICS & Linguistics
   description: Computational semantics
 
-- name: Mohit Iyyer
-  image: mohit.jpg
-  altimage: 
-  position: Assistant Professor
-  email: miyyer (at) cs.umass.edu
-  website: http://people.cs.umass.edu/~miyyer/
-  # scholar: jLpCQugAAAAJ&hl
-  twitter: "MohitIyyer"
-  # github: winstonchiong
-  # orcid: "orcid.org/0000-0001-9188-1920"
-  # dept: (Through 2024)
-  dept: Adjunct affiliate
-  description: Text generation, QA, narratives
-
+# - name: Mohit Iyyer
+#   image: mohit.jpg
+#   altimage: 
+#   position: Assistant Professor
+#   email: miyyer (at) cs.umass.edu
+#   website: http://people.cs.umass.edu/~miyyer/
+#   # scholar: jLpCQugAAAAJ&hl
+#   twitter: "MohitIyyer"
+#   # github: winstonchiong
+#   # orcid: "orcid.org/0000-0001-9188-1920"
+#   # dept: (Through 2024)
+#   dept: Adjunct affiliate
+#   description: Text generation, QA, narratives
+# 
 - name: Andrew McCallum
   image: andrew.jpg
   altimage: 

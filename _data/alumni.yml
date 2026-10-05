@@ -1,3 +1,79 @@
+- name: Ankita Gupta
+  degree: PhD, 2026
+  year: 2026
+  website: https://ankitaiisc.github.io/
+
+
+# - name: Ankita Gupta
+#   image: ankita.jpeg
+#   altimage: 
+#   position: PhD student
+#   email: ankitagupta (at) cs.umass.edu
+#   website: https://ankitaiisc.github.io/
+#   twitter: "Anki98765"
+
+- name: Erica Cai
+  degree: PhD, 2025
+  year: 2025
+  firstjob: Senior Research Scientist, Meta
+  website: https://ec769.github.io/
+
+# - name: Erica Cai
+#   image: erica.jpg
+#   altimage: 
+#   position: PhD student
+#   email: ecai (at) cs.umass.edu
+#   website: https://ec769.github.io/
+#   # scholar: jLpCQugAAAAJ&hl
+#   twitter: "erica__ec"
+
+- name: Yixiao Song
+  degree: PhD, 2025
+  year: 2025
+  firstjob: Research Scientist, Google
+  # altimage: 
+  # position: PhD student (linguistics)
+  # email: yixiaosong (at) umass.edu
+  website: https://yixiao-song.github.io/
+
+- name: Katherine Thai
+  degree: PhD, 2026
+  year: 2026
+  firstjob: Founding AI Research Scientist, Pangram Labs
+  # image: katherine.jpeg
+  # altimage: 
+  # position: PhD student
+  # email: kbthai (at) cs.umass.edu
+  website: https://www.katherineth.ai/
+  # twitter: "kthai1618"
+  
+
+# - name: Yixiao Song
+#   image: yixiao.jpg
+#   altimage: 
+#   position: PhD student (linguistics)
+#   email: yixiaosong (at) umass.edu
+#   website: https://yixiao-song.github.io/
+#   twitter: "yixiao_song"
+# 
+# - name: Simeng Sun
+#   image: simeng.png
+#   altimage: 
+#   position: PhD student
+#   email: simengsun (at) cs.umass.edu
+#   website: https://people.cs.umass.edu/~simengsun/
+#   twitter: "simeng_ssun"
+# 
+# 
+# - name: Katherine Thai
+#   image: katherine.jpeg
+#   altimage: 
+#   position: PhD student
+#   email: kbthai (at) cs.umass.edu
+#   website: https://katherinethai.github.io
+#   twitter: "kthai1618"
+  
+
 - name:  Sheshera Mysore
   degree: PhD, 2024
   year: 2024
@@ -26,7 +102,7 @@
   degree: PhD, 2024
   website: https://simengsun.github.io/
   year: 2024
-  firstjob: Research Scientist, Nvidia
+  firstjob: Research Scientist, NVIDIA
 
 - name: Nader Akoury
   degree: PhD, 2024
@@ -38,7 +114,7 @@
   degree: PhD, 2023
   website: https://martiansideofthemoon.github.io/
   year: 2023
-  firstjob: Research Scientist, Google Bard
+  firstjob: Research Scientist, Google
   
 - name: Tu Vu
   degree: PhD, 2023
@@ -75,6 +151,7 @@
   degree: PhD, 2022
   year: 2022
   firstjob: Postdoctoral Researcher, Amazon AGI Foundations
+  currentjob: Assistant Professor, University of Arizona
 
 - name: Xiang Lorraine Li
   website: https://people.cs.umass.edu/~xiangl/
@@ -89,6 +166,7 @@
   year: 2021
   firstjob: Young Investigator, AI2
   nextjob: Assistant Professor, Williams College
+  currentjob: Cohere
 
 - name: Abram Handler
   website: https://www.abehandler.com/
@@ -132,7 +210,7 @@
   degree: PhD, 2019
   year: 2019
   firstjob: Visiting Researcher, Facebook AI Research
-  currentjob: Assistant Professor, Carnegie Mellon University
+  currentjob: Associate Professor, Carnegie Mellon University
 
 - name: Pat Verga
   website: https://twitter.com/pat_verga?lang=en
@@ -198,7 +276,7 @@
 
 - name: Laura Dietz
   website: https://www.cs.unh.edu/~dietz/
-  currentjob: Assistant Professor, University of New Hampshire
+  currentjob: Associate Professor, University of New Hampshire
   year: 2012
   degree: Postdoc, 2010-2012
 
@@ -211,6 +289,7 @@
 - name: Pedram Rooshenas
   website: https://rooshenas.github.io/
   firstjob: Assistant Professor, University of North Carolina, Charlotte
+  currentjob: Assistant Professor, University of Illinois Chicago
   year: 2020
   degree: Postdoc, 2020
 
@@ -225,11 +304,11 @@
   year: 2014
   degree: PhD, 2014
   firstjob: Postdoctoral Researcher, University of Washington
-  currentjob: Associate Professor, University of California, Irvine
+  currentjob: Professor, University of California, Irvine
 
 - name: Sebastian Riedel
   year: 2011
   degree: Postdoc, 2009-2011
   website: https://www.riedelcastro.org/
-  currentjob: Researcher, Facebook AI Research and Professor, University College London
+  currentjob: Researcher, Deepmind; and Professor, University College London
 

@@ -2,6 +2,16 @@
   title: Applications of Natural Language Processing
   url: "https://people.cs.umass.edu/~brenocon/cs485_f24/"
   offerings:
+    - year: 2026
+      shortyear: "F26"
+      by: O'Connor
+    - year: 2026
+      shortyear: "S26"
+      by: Erk
+    - year: 2025
+      shortyear: "F25"
+      url: https://abhidipbhattacharyya.github.io/fall25/
+      by: Bhattacharyya
     - year: 2024
       shortyear: "F24"
       url: https://people.cs.umass.edu/~brenocon/cs485_f24/

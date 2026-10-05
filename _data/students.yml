@@ -7,15 +7,15 @@
   # scholar: jLpCQugAAAAJ&hl
   twitter: "dhruvagarwal17"
 
-- name: Nader Akoury
-  image: nader.png
-  altimage: 
-  position: PhD student
-  email: nsa (at) cs.umass.edu
-  website: https://people.cs.umass.edu/~nsa/
-  # scholar: jLpCQugAAAAJ&hl
-  twitter: "dojoteef"
-
+# - name: Nader Akoury
+#   image: nader.png
+#   altimage: 
+#   position: PhD student
+#   email: nsa (at) cs.umass.edu
+#   website: https://people.cs.umass.edu/~nsa/
+#   # scholar: jLpCQugAAAAJ&hl
+#   twitter: "dojoteef"
+# 
 - name: Maha Alkhairy
   image: maha.jpeg
   altimage: 
@@ -34,23 +34,14 @@
   # scholar: jLpCQugAAAAJ&hl
   twitter: 
 
-- name: Erica Cai
-  image: erica.jpg
-  altimage: 
-  position: PhD student
-  email: ecai (at) cs.umass.edu
-  website: https://ec769.github.io/
-  # scholar: jLpCQugAAAAJ&hl
-  twitter: "erica__ec"
-
-- name: Yapei Chang
-  image: yapei.jpg
-  altimage: 
-  position: PhD student
-  email: yapeichang (at) umass.edu
-  website: https://lilakk.github.io/
-  # scholar: jLpCQugAAAAJ&hl
-  twitter: "YapeiChang"
+# - name: Yapei Chang
+#   image: yapei.jpg
+#   altimage: 
+#   position: PhD student
+#   email: yapeichang (at) umass.edu
+#   website: https://lilakk.github.io/
+#   # scholar: jLpCQugAAAAJ&hl
+#   twitter: "YapeiChang"
 
 - name: Shib Sankar Dasgupta
   image: shib.jpg
@@ -61,22 +52,14 @@
   # scholar: jLpCQugAAAAJ&hl
   twitter: 
 
-- name: Andrew Drozdov
-  image: drozdov.jpeg
-  altimage: 
-  position: PhD student
-  email: adrozdov (at) cs.umass.edu
-  website: https://mrdrozdov.github.io/
-  twitter: "mrdrozdov"
-
-- name: Ankita Gupta
-  image: ankita.jpeg
-  altimage: 
-  position: PhD student
-  email: ankitagupta (at) cs.umass.edu
-  website: https://ankitaiisc.github.io/
-  twitter: "Anki98765"
-
+# - name: Andrew Drozdov
+#   image: drozdov.jpeg
+#   altimage: 
+#   position: PhD student
+#   email: adrozdov (at) cs.umass.edu
+#   website: https://mrdrozdov.github.io/
+#   twitter: "mrdrozdov"
+# 
 - name: Marisa Hudspeth
   image: marisa.jpg
   altimage: 
@@ -93,14 +76,14 @@
   website: https://nnkennard.github.io/
   twitter: "nnkennard"
 
-- name: Yekyung Kim
-  image: yekyung.jpg
-  altimage: 
-  position: PhD student
-  email: yekyungkim (at) cs.umass.edu
-  website: https://mungg.github.io
-  twitter: "YekyungKim"
-
+# - name: Yekyung Kim
+#   image: yekyung.jpg
+#   altimage: 
+#   position: PhD student
+#   email: yekyungkim (at) cs.umass.edu
+#   website: https://mungg.github.io
+#   twitter: "YekyungKim"
+# 
 - name: Tessa Masis
   image: masis.jpeg
   altimage:
@@ -117,14 +100,14 @@
   website: http://dhruveshp.com/
   twitter: "_dhruveshp"
 
-- name: Chau Pham
-  image: chau.jpg
-  altimage: 
-  position: PhD student
-  email: ctpham (at) umass.edu
-  website: https://chtmp223.github.io
-  twitter: "chtmp223"
-
+# - name: Chau Pham
+#   image: chau.jpg
+#   altimage: 
+#   position: PhD student
+#   email: ctpham (at) umass.edu
+#   website: https://chtmp223.github.io
+#   twitter: "chtmp223"
+# 
 - name: Rishanth Rajendhran
   image: rishanth.jpg
   altimage:
@@ -140,39 +123,14 @@
   email: brozonoyer (at) iesl.cs.umass.edu
   website: https://www.linkedin.com/in/benjamin-rozonoyer-b45590139
 
-- name: Jenna Russell
-  image: jenna.jpeg
-  altimage:
-  position: PhD student
-  email: jrussell (at) umass.edu
-  website: https://jenna-russell.github.io
-  twitter:
-
-- name: Yixiao Song
-  image: yixiao.jpg
-  altimage: 
-  position: PhD student (linguistics)
-  email: yixiaosong (at) umass.edu
-  website: https://yixiao-song.github.io/
-  twitter: "yixiao_song"
-
-- name: Simeng Sun
-  image: simeng.png
-  altimage: 
-  position: PhD student
-  email: simengsun (at) cs.umass.edu
-  website: https://people.cs.umass.edu/~simengsun/
-  twitter: "simeng_ssun"
-
-
-- name: Katherine Thai
-  image: katherine.jpeg
-  altimage: 
-  position: PhD student
-  email: kbthai (at) cs.umass.edu
-  website: https://katherinethai.github.io
-  twitter: "kthai1618"
-  
+# - name: Jenna Russell
+#   image: jenna.jpeg
+#   altimage:
+#   position: PhD student
+#   email: jrussell (at) umass.edu
+#   website: https://jenna-russell.github.io
+#   twitter:
+# 
 - name: Shufan Wang
   image: shufan.jpeg
   altimage: 
