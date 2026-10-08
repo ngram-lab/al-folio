@@ -167,7 +167,7 @@
   year: 2021
   firstjob: Young Investigator, AI2
   nextjob: Assistant Professor, Williams College
-  currentjob: Cohere
+  currentjob: Member of Technical Staff, Cohere
 
 - name: Abram Handler
   website: https://www.abehandler.com/
@@ -191,7 +191,9 @@
   website: https://trapitbansal.com/
   degree: PhD, 2021
   year: 2021
-  firstjob: Research Scientist, Open AI
+  firstjob: Member of Technical Staff, Open AI
+  currentjob: <a href="https://economictimes.indiatimes.com/news/new-updates/who-is-trapit-bansal-ex-openai-researcher-joins-meta-superintelligence-labs-with-a-whopping-signing-deal/articleshow/122248193.cms?from=mdr">AI Research, Meta</a>
+  #https://economictimes.indiatimes.com/news/new-updates/who-is-trapit-bansal-ex-openai-researcher-joins-meta-superintelligence-labs-with-a-whopping-signing-deal/articleshow/122248193.cms?from=mdr
 
 - name: Rajarshi Das
   website: http://rajarshd.github.io/
@@ -255,7 +257,8 @@
   year: 2017
   degree: PhD, 2017
   firstjob: Research Scientist, Google Brain
-  currentjob: Research Lead, OpenAI
+  nextjob: Research Lead, OpenAI
+  currentjob: Research Scientist, Google DeepMind
 
 - name: Luke Vilnis
   website: https://people.cs.umass.edu/~luke/
