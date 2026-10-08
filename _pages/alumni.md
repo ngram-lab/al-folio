@@ -29,6 +29,9 @@ nav: true
       {% if person.nextjob %}
         → {{person.nextjob}}
       {% endif %}
+      {% if person.laterjob %}
+        &hellip; → {{person.laterjob}}
+      {% endif %}
       {% if person.currentjob %}
         {% unless person.firstjob %}
           → &hellip;
